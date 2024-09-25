@@ -1,0 +1,1843 @@
+阿潘肉包｜創始-文化店
+address: No. 473號, Wenhua Rd, West District, Chiayi City, Taiwan 600
+rating: 4.8
+time_spent: [10, 10]
+types: ['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+Dou Dou Donut
+address: No. 26號, Zhongyi St, West District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [15, 45]
+types: ['bakery', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+秣馬鯛魚燒・嘉義
+address: 166之1號, Beirong St, West District, Chiayi City, Taiwan 60049
+rating: 5
+time_spent: [20, 20]
+types: ['restaurant', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+霜空珈琲
+address: No. 132號, Guohua St, West District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [60, 120]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+荏苒咖啡
+address: No. 97號, Gongyuan St, East District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [60, 120]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+山日初 Back to The Origin信手工坊全新品牌形象
+address: No. 512號, Xingye W Rd, West District, Chiayi City, Taiwan 600
+rating: 4
+time_spent: [10, 10]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+拾筆
+address: No. 156號, Chuiyang Rd, East District, Chiayi City, Taiwan 600
+rating: 4.7
+time_spent: [20, 45]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+SMALL PLATES (caf'e & brunch)
+address: No. 4號, Lane 557, Chuiyang Rd, West District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [60, 120]
+types: ['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+純情專売所
+address: No. 404號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [20, 20]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+嘉義市立圖書館黃賓紀念圖書館
+address: No. 328號, Yanping St, West District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [120, 120]
+types: ['library', 'point_of_interest', 'establishment']
+
+
+WT_kitchen
+address: No. 430號, Minquan Rd, West District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [60, 90]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+桃城豆花（興業店）
+address: No. 313號, Xingye E Rd, East District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [15, 15]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+一銀仙草創始店｜油頭雞蛋糕｜品花豆花
+address: 525號, 西区, Jiayi, 中正路西區嘉義市 Taiwan 600
+rating: 4.2
+time_spent: [25, 25]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+花淺蔥 Brunch Osteria
+address: No. 182號, Zhongyi St, West District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [60, 90]
+types: ['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+Maosheng Sushi House
+address: No. 89號, Xinrong Rd, West District, Chiayi City, Taiwan 600
+rating: 3.9
+time_spent: [45, 45]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+盛食咖哩店-嘉義店
+address: No. 443號, Yanping St, West District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [60, 90]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+嘉義壺豆花 甜品餐廳 豆漿豆花網美店
+address: No. 402號, Chuiyang Rd, West District, Chiayi City, Taiwan 60043
+rating: 4.3
+time_spent: [30, 60]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+スピード Supiido
+address: No. 50號, Beirong St, East District, Chiayi City, Taiwan 600
+rating: 4.8
+time_spent: [20, 20]
+types: ['cafe', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+穀谷
+address: No. 132號, Xingzhong St, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [60, 90]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+TMD
+address: 600, Taiwan, Chiayi City, West District, 志昇街8號
+rating: 4.3
+time_spent: [45, 120]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+蔬盈市場火鍋嘉義民生門市
+address: No. 43號, Minsheng N Rd, West District, Chiayi City, Taiwan 60048
+rating: 4.1
+time_spent: [90, 90]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+燒肉觀止
+address: No. 467號, Zhongxing Rd, West District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [10, 90]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+綠洲 Oasis Brunch
+address: No. 161號, Lanjing St, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [90, 90]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+弄來小餐桌
+address: No. 53號, Wufeng N Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [90, 90]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+嘉義-秘氏咖啡(休假日與菜單請參考IG)
+address: No. 288號, Yanping St, West District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [45, 120]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+STARBUCKS Xingnan Shop
+address: No. 323號, Section 1, Fuxing S Rd, Da’an District, Taipei City, Taiwan 106
+rating: 4.1
+time_spent: [45, 150]
+types: ['cafe', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+國王蝴蝶咖啡 Roicafe
+address: 600, Taiwan, Chiayi City, West District, Zhongshan Rd, 616號F棟2樓
+rating: 4.7
+time_spent: [15, 90]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+巴倫司康 Baron Scones
+address: No. 297號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [15, 60]
+types: ['cafe', 'point_of_interest', 'food', 'establishment']
+
+
+早晨小姐Good morning
+address: 600No. 200號, Heping Rd, East District, Chiayi City, Taiwan 600
+rating: 4
+time_spent: [30, 60]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+小老闆甜品店
+address: No. 242, Yanping St, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [25, 25]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+大王千金
+address: No. 1296號, Beigang Rd, West District, Chiayi City, Taiwan 600
+rating: 4
+time_spent: [15, 15]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+西市魯熟肉
+address: No. 52號, Zhongyi St, West District, Chiayi City, Taiwan 600
+rating: 3.9
+time_spent: [20, 20]
+types: ['point_of_interest', 'food', 'store', 'establishment']
+
+
+SMARTFISH (Guanghua Branch)
+address: No. 122, Guanghua Rd, East District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [15, 60]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+小伍妹麻辣涼麵
+address: No. 282號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [30, 30]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+木更 MUGENERATION
+address: No. 189號, Chengren St, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [60, 120]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+聖保羅烘焙花園 民族店
+address: No. 81號, Minzu Rd, East District, Chiayi City, Taiwan 600
+rating: 4.9
+time_spent: [10, 10]
+types: ['bakery', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+Sunny Queen陽光皇后京站小碧潭店
+address: 231, Taiwan, New Taipei City, Xindian District, Zhongyang Rd, 157號5樓
+rating: 4.4
+time_spent: [90, 150]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+薏蓮坊精緻養生飲品專賣店
+address: No. 75, Tailin St, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [10, 10]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+Tao Cheng Fried Chicken
+address: No. 698號, Zhongzheng Rd, West District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [15, 15]
+types: ['meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+提娜多咖啡
+address: No. 167號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [60, 150]
+types: ['cafe', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+玖咖啡 Jiou Cafe
+address: No. 387號, Xingye E Rd, East District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [15, 90]
+types: ['cafe', 'point_of_interest', 'food', 'establishment']
+
+
+諸羅山社涼麵店
+address: No. 638號, Minzu Rd, West District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [30, 30]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Morikoohii 森 咖啡
+address: No. 1, Lane 199, Gonghe Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [20, 60]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+蓁古早味現烤蛋糕
+address: No. 181號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [10, 10]
+types: ['bakery', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+福源肉粽 頂六店
+address: No. 53之1號, Dingzhongxia St, Zhongpu Township, Chiayi County, Taiwan 606
+rating: 4.2
+time_spent: [15, 15]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+嘉冠喜(呷慣習)煎餅
+address: 60053, Taiwan, Chiayi City, West District, 湖子內路263號
+rating: 4.2
+time_spent: [15, 15]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+舊時光新鮮事
+address: No. 494號, Renai Rd, West District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [30, 90]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Shell-Ginger Story House
+address: 600, Taiwan, Chiayi City, East District, 保忠一街359 號
+rating: 4
+time_spent: [60, 60]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+嘉義品安豆漿豆花
+address: No. 335號, Zhongzheng Rd, East District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [25, 25]
+types: ['store', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+藏.咖啡 嘉義中山店
+address: No. 233號, Zhongshan Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [45, 150]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+上島咖啡 Sun Island Coffee
+address: No. 156號, Xingye E Rd, East District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [15, 15]
+types: ['food', 'point_of_interest', 'establishment']
+
+
+Museum Of Old Taiwan Tiles
+address: No. 282號, Linsen W Rd, West District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [90, 90]
+types: ['tourist_attraction', 'museum', 'point_of_interest', 'establishment']
+
+
+Chiayi Liu Li Zhang Turkey Rice
+address: No. 197號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 3.7
+time_spent: [25, 25]
+types: ['store', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+東園軒園林餐廳
+address: No. 350號, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [60, 120]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+映月橋老師傅手搗彩虹粉粿冷燒冰嘉義必吃美食
+address: 600, Taiwan, Chiayi City, East District, 里親水路123號繼續往前直行800公尺
+rating: 4.5
+time_spent: [20, 45]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+THEFREEN BURGER
+address: 60041, Taiwan, Chiayi City, East District, Zhongshan Rd, 203號1樓
+rating: 4.3
+time_spent: [20, 60]
+types: ['cafe', 'bakery', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+卓武咖啡
+address: No. 194號, Minsheng N Rd, West District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [15, 120]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+新悦花園酒店-頤粵軒
+address: 60079, Taiwan, Chiayi City, East District, Baoshun Rd, 69號2樓
+rating: 3.8
+time_spent: [45, 150]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Sameki Udon
+address: No. 188號, Anle St, East District, Chiayi City, Taiwan 600009
+rating: 4.7
+time_spent: [45, 45]
+types: ['restaurant', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+好好家慢熟咖哩
+address: No. 69號, Minsheng S Rd, West District, Chiayi City, Taiwan 600
+rating: 4.9
+time_spent: [45, 90]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+起風
+address: 600, Taiwan, Chiayi City, East District, 興業新村40號
+rating: 4.6
+time_spent: [15, 90]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+Ka Jia Li American Restaurant
+address: 600, Taiwan, Chiayi City, West District, 國華街351巷19號
+rating: 4.4
+time_spent: [60, 180]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+Le Pissenlit 皮索尼法式小館
+address: No. 371號, Section 3, Shixian Rd, West District, Chiayi City, Taiwan 600
+rating: 4.8
+time_spent: [45, 120]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+堀川茶事
+address: No. 15號, Lane 37, Wufeng S Rd, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [60, 120]
+types: ['store', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+傲漫手感烘焙工作坊
+address: No. 102-1號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.8
+time_spent: [10, 90]
+types: ['cafe', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+岬島 Jia Daò
+address: 600, Taiwan, Chiayi City, East District, Gongming Rd, 372-1號1樓
+rating: 4.3
+time_spent: [21, 39]
+types: ['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+Forward roasters
+address: No. 205號, Xingzhong St, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [19, 22]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+COP bar-Cocktails Of Pioneers
+address: No. 54-1號, Ximen St, West District, Chiayi City, Taiwan 600
+rating: 5
+time_spent: [25, 43]
+types: ['bar', 'point_of_interest', 'establishment']
+
+
+奇喚咖啡
+address: No. 254號, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: 4.8
+time_spent: [17, 37]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+Bar Door to Dream
+address: No. 164-3號, Xirong St, West District, Chiayi City, Taiwan 60047
+rating: 4.8
+time_spent: [40, 54]
+types: ['bar', 'point_of_interest', 'establishment']
+
+
+一涼製冰所
+address: No. 331號, Zhongzheng Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [23, 42]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+仨丘珈琲 Sachuu cafe
+address: No. 45號, Hangzhou 3rd St, West District, Chiayi City, Taiwan 600
+rating: 4.7
+time_spent: [33, 50]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+湯城鵝行｜概念廚房 - 成仁店
+address: No. 228號, Chengren St, East District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [23, 45]
+types: ['restaurant', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+秉森酒室BAR BINGSEN
+address: No. 528號, Linsen W Rd, West District, Chiayi City, Taiwan 600
+rating: 4.9
+time_spent: [37, 58]
+types: ['bar', 'point_of_interest', 'establishment']
+
+
+Daisy的雜貨店
+address: No. 73, Weixin Rd, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [19, 41]
+types: ['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+鼻孔先生手作早午餐（僅提供現場候位）
+address: 600, Taiwan, Chiayi City, East District, Chengren St, 273號之1
+rating: 4.5
+time_spent: [34, 39]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+ROOF
+address: 600, Taiwan, Chiayi City, West District, Houyi St, 172號5樓
+rating: 4.6
+time_spent: [32, 58]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+小紅帽義式冰淇淋 Gelato Girl
+address: No. 396號, Xingye W Rd, West District, Chiayi City, Taiwan 600
+rating: 4.9
+time_spent: [32, 54]
+types: ['bakery', 'cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+三哥肉乾
+address: No. 75號, Lanjing St, East District, Chiayi City, Taiwan 600012
+rating: 4.4
+time_spent: [20, 21]
+types: ['point_of_interest', 'food', 'establishment']
+
+
+金牌川菜料理
+address: No. 120號, Xingda Rd, West District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [57, 89]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+渼橘客新鮮果優格專賣店
+address: No. 927號, Yijiao St, East District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [27, 44]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+秋可蕾手工生巧克力（秋詩時裝）
+address: 號 No, No. 40, Zhongyi St, West District, Chiayi City, Taiwan 600
+rating: 4.8
+time_spent: [24, 42]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+Old Yard 1951
+address: No. 201號, Chengren St, East District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [17, 38]
+types: ['restaurant', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+New Taiwan Bakery
+address: No. 294號, Zhongshan Rd, West District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [22, 34]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+Fortune Pâtisserie.
+address: No. 220號, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [20, 42]
+types: ['bakery', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+憶湘埕野生愛玉專賣店
+address: No. 788號, Chuiyang Rd, West District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [26, 40]
+types: ['point_of_interest', 'establishment']
+
+
+巴美食堂
+address: No. 396號, Gongming Rd, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [28, 49]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Three little bunnies gelato restaurant
+address: 600, Taiwan, Chiayi City, East District, 啟明路255號
+rating: 4.5
+time_spent: [55, 87]
+types: ['restaurant', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+Meow Mi Cafe
+address: No. 43號, Zhongshan Rd, East District, Chiayi City, Taiwan 600
+rating: 4.9
+time_spent: [21, 42]
+types: ['cafe', 'clothing_store', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+犬行燒。 烤蛋糕專賣店
+address: No. 178號, Zhongshan Rd, East District, Chiayi City, Taiwan 600
+rating: 4.4
+time_spent: [24, 40]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+露比夫人吃做買
+address: No. 50號, Yuandong St, West District, Chiayi City, Taiwan 600
+rating: 4.7
+time_spent: [15, 17]
+types: ['real_estate_agency', 'parking', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+日日好農脆蛋捲 垂楊店
+address: No. 120號, Chuiyang Rd, East District, Chiayi City, Taiwan 600
+rating: 4.9
+time_spent: [21, 31]
+types: ['bakery', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+Saint Tower Coffee
+address: No. 10號, Xingzhong St, East District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [22, 42]
+types: ['cafe', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+i-WOOD Village
+address: No. 909-3號, Wenhua Rd, West District, Chiayi City, Taiwan 60029
+rating: 4.6
+time_spent: [44, 55]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+阿富生魚片
+address: No. 112號, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+天園茶行
+address: No. 115, Deming Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['point_of_interest', 'food', 'store', 'establishment']
+
+
+常常
+address: No. 344號, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 49]
+types: ['bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+台灣阿里山石槕茶區茶農自產自銷滿冠茶園-嘉特產協
+address: No. 308號, Changrong St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['home_goods_store', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+Redu Chocolate Workshop
+address: No. 29號, Shanghai Rd, West District, Chiayi City, Taiwan 60056
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+CASA（訂位休假詳情請見Instagram ）
+address: No. 132號, Guangcai St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [29, 55]
+types: ['restaurant', 'bar', 'point_of_interest', 'food', 'establishment']
+
+
+BIG MOM CUPCAKE
+address: No. 165號, Xingzhong St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+樹夏刨冰·糰子專売所(公休日請見IG公告)
+address: No. 159號, Guanghua Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+然後工作室（無店面、僅開放預約取貨）
+address: 60077, Taiwan, Chiayi City, East District, 啟明路124號
+rating: None
+time_spent: [27, 52]
+types: ['point_of_interest', 'store', 'establishment']
+
+
+山茶花與鹿之森
+address: 600, Taiwan, Chiayi City, East District, Chengren St, 226號1樓
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'point_of_interest', 'food', 'establishment']
+
+
+HOT Hi-end Of Tiki
+address: No. 605號, Guangcai St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 52]
+types: ['bar', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+小口品s
+address: No. 453號, Guangcai St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 63]
+types: ['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+深根髮廊
+address: No. 139, Zhongyi St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['hair_care', 'point_of_interest', 'establishment']
+
+
+奮起福 FENCHIFU
+address: No. 153號, Siwei Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 63]
+types: ['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+Darenwei - Japanese and Indian Curry
+address: No. 94, Chengren St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Jun手感作物工作室
+address: No. 19號, Ronghe St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['grocery_or_supermarket', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+青橙坡上 ハンドドリップコーヒー 手沖珈琲店 / 来店請先看注意事項
+address: No. 39號, Lane 106, Daye St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 59]
+types: ['cafe', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+舊美好 生活器具 古道具
+address: No. 2號, Xirong St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['home_goods_store', 'store', 'point_of_interest', 'establishment']
+
+
+辣木茶館
+address: No. 346號, Lanjing St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+Liaison栗葉(所有營業資訊請以FB公告為主)
+address: No. 65號, Chengren St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 59]
+types: ['cafe', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+昕樂ㄩㄝˋ可頌專賣店(原幸福無限)
+address: No. 9號, Yanping St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+暖肚皮咖啡
+address: 600, Taiwan, Chiayi City, East District, Gongming Rd, 386號1樓
+rating: None
+time_spent: [28, 63]
+types: ['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Coffee Soulution 珈琲解方
+address: No. 62號, Anle St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+枝椏 zhī yā
+address: No. 215號, Yanping St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+上海路八璠日式料理
+address: No. 228, Shanghai Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+驛家麵包
+address: No. 614, Zhongshan Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+很賢。很蕙。
+address: 600, Taiwan, Chiayi City, West District, Zhongyi St, 93號2 樓
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+倫の木工坊
+address: 600, Taiwan, Chiayi City, West District, Zhongshan Rd, 616號K棟1樓
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+兩 顆蛋 Egg Egg Dessert
+address: No. 108號, Lanjing St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 54]
+types: ['cafe', 'bakery', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+Chiayi City Historical Relic Museum
+address: No. 42, Gongyuan St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [34, 56]
+types: ['museum', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+mumushan.dessert(已無提供內用）
+address: No. 267號, Xirong St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+荒廟Temple
+address: No. 681號, Zhongzheng Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 56]
+types: ['bar', 'point_of_interest', 'establishment']
+
+
+柒個月‧麵包所
+address: No. 215號, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+斗酒BAR DOUJIOU -
+address: No. 82號, Chengren St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 56]
+types: ['bar', 'point_of_interest', 'establishment']
+
+
+2and1/2Dogs Bakery 兩隻伴
+address: No, No. 10新民路728巷 West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+秋書室
+address: No. 494號, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 59]
+types: ['cafe', 'book_store', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+J x Acces
+address: No. 130, Zhongshan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+Archers Kitchen 弓箭手
+address: No. 2號, Lane 13, Yong'an St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 59]
+types: ['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+嘉義七彩冰果室
+address: No. 329號, Zhongshan Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+玖零甜食所
+address: No. 447號, Guangcai St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+Hand On The Pizza
+address: No. 129-1, Zhongyi St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Bar SKITZ 過門
+address: No. 330-1號, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 56]
+types: ['bar', 'point_of_interest', 'establishment']
+
+
+島呼冊店
+address: No. 86號, Beixing St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['book_store', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+Hinoki Cho Turkey Rice
+address: No. 101號, Wufeng N Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+咖啡一派 the coffee folks
+address: No. 152號, Ximen St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+莫索髮藝坊
+address: No. 39號, Wufeng S Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['hair_care', 'point_of_interest', 'establishment']
+
+
+大麦小麦日式酒食
+address: No. 57號, Ronghe St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+洪雅書房
+address: No. 110號, Yijiao E Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['book_store', 'point_of_interest', 'store', 'establishment']
+
+
+賴信成老香舖
+address: No. 463, Zhongzheng Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['point_of_interest', 'store', 'establishment']
+
+
+上紅丸梅製禮品專賣
+address: No. 323號, Zhongshan Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+一間茶屋
+address: No. 233號, Gonghe Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+阿久師-臺灣米點心的專家 | 統百食品
+address: No. 2號, Baokang Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 54]
+types: ['point_of_interest', 'food', 'establishment']
+
+
+嘉木居
+address: No. 196號, Xingzhong St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 59]
+types: ['cafe', 'home_goods_store', 'lodging', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+一茶工房
+address: No. 1-1號, Lane 14, Yongkang St, Da’an District, Taipei City, Taiwan 106
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+薯職人食品商店-勇伯地瓜酥旗艦門市
+address: No. 15號, Qingnian St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['point_of_interest', 'store', 'establishment']
+
+
+愛夫夫咖啡ifufucoffee
+address: No. 552-1號, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 55]
+types: ['bakery', 'pet_store', 'cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+椿豐茶業_門市
+address: No. 430號, Liren Rd, East District, Chiayi City, Taiwan 60063
+rating: None
+time_spent: [26, 51]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+小夫妻拌麵 檜意門市(T14A館)
+address: No. 4號, Lane 378, Gonghe Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+SweetFarm
+address: No. 300-3號, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+Five Woods 五木咖啡
+address: No. 193號, Linsen W Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'point_of_interest', 'food', 'establishment']
+
+
+東市場袁家羹麵
+address: 600, Taiwan, Chiayi City, East District, 東市場飲食區
+rating: None
+time_spent: [26, 51]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+Harmony Coffee & Tea
+address: No. 223號, Zhongshan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 53]
+types: ['cafe', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+許家班餅舖
+address: No. 68號, Fude St, Xinyi District, Taipei City, Taiwan 110
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+東發養蜂場
+address: No. 839號, Yijiao St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+黃金客手工蛋捲專賣店
+address: No. 741, Xinsheng Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+這裡 餐館
+address: No. 6, Lane 35, Wufeng N Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+大掌櫃高麗菜煎餅舖/嘉義美食/嘉義小吃/嘉義煎餅/西區美食/西區小吃/西區煎餅
+address: 600, Taiwan, Chiayi City, West District, 康樂街412號
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+南馨食品店
+address: No. 358號, Wufeng N Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+嘉義3分甜紅豆餅
+address: No. 130號, Zhongshan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+劍虹菜刀五金行
+address: No. 296號, Guangcai St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['hardware_store', 'store', 'point_of_interest', 'establishment']
+
+
+幸福原在咖啡
+address: No. 195號, Weixin Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'point_of_interest', 'food', 'establishment']
+
+
+奮起福米餅店-檜意森活村門市
+address: No. 3號, Lane 378, Gonghe Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+蘋果莊園有限公司
+address: 600, Taiwan, Chiayi City, West District, Lanjing St, 465號6號樓之3
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+Le Chat Noir 小黑貓
+address: No. 518, Linsen East Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+嘉義蔡家包子饅頭店
+address: No. 13號, Wufeng S Rd, East District, Chiayi City, Taiwan 60037
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+射日塔景觀咖啡廳
+address: No. 46號, Gongyuan St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+台灣魯肉飯民生店
+address: No. 224號, Minsheng N Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+晨光咖啡
+address: No. 98號, Zhongxiao 1st St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+拍拍泡芙
+address: 60042, Taiwan, Chiayi City, West District, 中央第二商場47號
+rating: None
+time_spent: [26, 51]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+唐妝漢方生物科技股份有限公司
+address: No. 465號, Lanjing St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+新明津魚丸
+address: 600, Taiwan, Chiayi City, West District, 18號, 嘉義市東區東市場4區
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+義興醬園-義興嘉釀醬油
+address: 600, Taiwan, Chiayi City, West District, 北新路250巷52號
+rating: None
+time_spent: [28, 54]
+types: ['food', 'point_of_interest', 'establishment']
+
+
+翔龍草健康館
+address: No. 349號, You'ai Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['point_of_interest', 'store', 'establishment']
+
+
+Ming Xiang Ming Tea
+address: 600No. 47號, Wufeng N Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+勤億蛋品科技股份有限公司
+address: No. 37號, Xinmin Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 54]
+types: ['point_of_interest', 'food', 'establishment']
+
+
+福樟良材-木創工坊(阿叔拍攝地點-正興木作)
+address: No. 37號, Lane 134, Weixin Rd, East District, Chiayi City, Taiwan 60049
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+龍師父黃金傳奇泡菜
+address: No. 28號, Lane 195, Ren'ai Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']
+
+
+小夫妻食品企業有限公司(小夫妻拌麵)
+address: 621, Taiwan, Chiayi County, Minxiong Township, 590號 之 11
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+黑爾詩健康烘焙
+address: No. 178, Wuxian St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'point_of_interest', 'food', 'store', 'establishment']
+
+
+方塊土司
+address: No. 365號, Zhongzheng Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [24, 47]
+types: ['bakery', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+正方芳Cafe
+address: No. 103號, Linsen East Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [25, 55]
+types: ['cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+33+V. Coffee Shop
+address: 600No. 49號, Yijiao E Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'food', 'point_of_interest', 'establishment']
+
+
+鈺泉齋Mm
+address: No. 62號, Guohua St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['food', 'point_of_interest', 'store', 'establishment']
+
+
+享做坐DIY 手作烘焙
+address: 600, Taiwan, Chiayi City, West District, Xingye W Rd, 387號3樓 入口處在徐州七街
+rating: None
+time_spent: [26, 49]
+types: ['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']
+
+
+可味肉乾
+address: No. 238號, Zhongzheng Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Master Ron
+address: No. 337號, Zhongzheng Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+嘉竹商行
+address: No. 258之1號, Xuanxin St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 54]
+types: ['food', 'point_of_interest', 'establishment']
+
+
+初心者肉舖(營業取貨時間公布於Fb、IG)
+address: No. 213號, Zhongxiao N St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+五柳園休閒農場
+address: 600, Taiwan, Chiayi City, East District, 44-13號
+rating: None
+time_spent: [30, 57]
+types: ['lodging', 'point_of_interest', 'establishment']
+
+
+新明津創意美食餐飲
+address: No. 382號, Renai Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+滿棠茶品 Main Tang Co., Ltd.
+address: No. 481號, Yong'an St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['store', 'food', 'point_of_interest', 'establishment']
+
+
+大丸禧水產有限公司
+address: No. 112, Xingye E Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+德霖事業有限公司
+address: 428, Taiwan, 台灣 Daya District, 台中市 大雅區神林南路302號之1
+rating: None
+time_spent: [27, 52]
+types: ['point_of_interest', 'store', 'establishment']
+
+
+BLAXK Gallery
+address: No. 449號, Zhongzheng Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 50]
+types: ['clothing_store', 'point_of_interest', 'store', 'establishment']
+
+
+帕海小食總部
+address: 600, Taiwan, Chiayi City, West District, Guohua St, 58 號1樓
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+芬芳園企業社
+address: No. 51號, Bade Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [27, 52]
+types: ['store', 'point_of_interest', 'establishment']
+
+
+弘軒科技有限公司
+address: 10491, Taiwan, Taipei City, Zhongshan District, SongJiang Rd, 185號12號樓之 3
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+錦龍醬油
+address: No. 138號, Liucuo Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [28, 54]
+types: ['food', 'point_of_interest', 'establishment']
+
+
+25×40藝文空間
+address: No. 554號, Zhongzheng Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 63]
+types: ['cafe', 'point_of_interest', 'food', 'establishment']
+
+
+斐園茶莊
+address: No. 935-2號, Youzhong Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [26, 51]
+types: ['store', 'point_of_interest', 'food', 'establishment']
+
+
+給給茶記 kapkapchakee
+address: 600, Taiwan, Chiayi City, West District, Xinrong Rd, 319、321號1樓
+rating: None
+time_spent: [27, 48]
+types: ['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']
+
+
+Oi Griddle CKAEs 美式鬆餅
+address: No. 92-1號, Ximen St, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 56]
+types: ['restaurant', 'point_of_interest', 'food', 'establishment']
+
+
+Song of the Forest
+address: Wenhua Rd, East District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [60, 60]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Hinoki Village
+address: No. 370號, Gonghe Rd, East District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [90, 90]
+types: ['tourist_attraction', 'clothing_store', 'store', 'point_of_interest', 'food', 'establishment']
+
+
+Chiayi Botanical Garden
+address: 600, Taiwan, Chiayi City, East District, 王田里山子頂270號
+rating: 4.6
+time_spent: [60, 60]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+KANO Park
+address: 600, Taiwan, Chiayi City, East District, 山仔頂249-1號
+rating: 4.3
+time_spent: [90, 90]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+Chiayi Cultural & Creative Industries Park
+address: No. 616號, Zhongshan Rd, West District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [25, 90]
+types: ['point_of_interest', 'establishment']
+
+
+Chiayi Park
+address: 600, Taiwan, Chiayi City, East District, 啟明路264號
+rating: 4.4
+time_spent: [90, 90]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+Fountain Circle
+address: 600, Taiwan, Chiayi City, West District, 嘉義市七彩噴水圓環
+rating: 4.3
+time_spent: [10, 60]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Beixianghu Park
+address: No. 600號, Wenhua Rd, West District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [60, 60]
+types: ['park', 'point_of_interest', 'establishment']
+
+
+Rippling Moonlit Talk
+address: 600, Taiwan, Chiayi City, East District, 鹿寮里紅毛埤187-4號
+rating: 4.2
+time_spent: [45, 45]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+福權自行車道
+address: 621, Taiwan, Chiayi County, Minxiong Township, 621
+rating: 4
+time_spent: [90, 90]
+types: ['park', 'point_of_interest', 'establishment']
+
+
+Alishan Forest Railway Garage Park
+address: No. 2號, Linsen W Rd, East District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [60, 60]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Wenhua Road Night Market
+address: Wenhua Rd, West District, Chiayi City, Taiwan 600
+rating: 4.2
+time_spent: [20, 60]
+types: ['tourist_attraction', 'point_of_interest', 'store', 'establishment']
+
+
+Sleeping Forest
+address: No. 239號, Gonghe Rd, East District, Chiayi City, Taiwan 600
+rating: 4
+time_spent: [45, 45]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+Sun-Shooting Tower
+address: No. 46, Gongyuan St, East District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [60, 60]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Chiayi Old Prison
+address: No. 140, Weixin Rd, East District, Chiayi City, Taiwan 600
+rating: 4.3
+time_spent: [25, 60]
+types: ['tourist_attraction', 'museum', 'point_of_interest', 'establishment']
+
+
+Chiayi Art Museum
+address: No. 101號, Guangning St, West District, Chiayi City, Taiwan 600
+rating: 4.5
+time_spent: [62, 68]
+types: ['museum', 'point_of_interest', 'establishment']
+
+
+ChiaPei Station
+address: East District, Chiayi City, Taiwan 600
+rating: 3.9
+time_spent: [48, 56]
+types: ['train_station', 'transit_station', 'point_of_interest', 'establishment']
+
+
+天干地支牆之道
+address: 600, Taiwan, Chiayi City, East District, 600
+rating: 4.8
+time_spent: [51, 57]
+types: ['point_of_interest', 'establishment']
+
+
+福康安紀功碑
+address: 600, Taiwan, Chiayi City, East District, 啟明路26號台灣 號
+rating: 4.5
+time_spent: [47, 56]
+types: ['point_of_interest', 'establishment']
+
+
+一江山紀念碑
+address: 600, Taiwan, Chiayi City, East District, 600
+rating: 4.5
+time_spent: [46, 56]
+types: ['point_of_interest', 'establishment']
+
+
+Xingjia Suspension Bridge
+address: Xingjiadiao Bridge, East District, Chiayi City, Taiwan 600
+rating: 4.1
+time_spent: [52, 58]
+types: ['point_of_interest', 'establishment']
+
+
+Ren Wu Temple
+address: No. 54, Beirong St, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [42, 55]
+types: ['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Zhongzheng Park
+address: No. 115號, Beirong St, West District, Chiayi City, Taiwan 600
+rating: 3.6
+time_spent: [45, 56]
+types: ['park', 'point_of_interest', 'establishment']
+
+
+Chiayi Confucius Temple
+address: 600, Taiwan, Chiayi City, East District, Gongyuan St, 嘉義公園內
+rating: 4.2
+time_spent: [35, 53]
+types: ['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Chiayi Cheng Huang Temple
+address: No. 168號, Wufeng N Rd, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [23, 49]
+types: ['place_of_worship', 'museum', 'point_of_interest', 'establishment']
+
+
+陳澄波畫架-蘭潭三信亭旁
+address: 600, Taiwan, Chiayi City, East District, 小雅路340號-1
+rating: 3.8
+time_spent: [51, 57]
+types: ['art_gallery', 'point_of_interest', 'establishment']
+
+
+KANO園區星光溜滑梯
+address: 600, Taiwan, Chiayi City, East District, 600
+rating: 4.7
+time_spent: [42, 55]
+types: ['point_of_interest', 'establishment']
+
+
+Jiuhua Mountain Temple
+address: No. 255, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: 4.6
+time_spent: [64, 72]
+types: ['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Kano遊客中心-嘉義之森Jmori
+address: 600, Taiwan, Chiayi City, East District, 東川269號
+rating: None
+time_spent: [30, 57]
+types: ['travel_agency', 'point_of_interest', 'establishment']
+
+
+嘉義製材所園區
+address: No. 4號, Linsen W Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+實驗木場
+address: No. 24號, Lane 134, Weixin Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+大溪厝水環境教育園區
+address: No. 651號, Daxi Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [40, 58]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+嘉義慈龍寺
+address: No. 206號, Changrong St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [39, 57]
+types: ['place_of_worship', 'tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Lantan Trail
+address: East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [45, 58]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+Lantan Dam
+address: 600, Taiwan, Chiayi City, East District, 紅毛埤187號
+rating: None
+time_spent: [45, 58]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+嘉義市環市自行車道
+address: No. 638號, Wenhua Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [40, 58]
+types: ['park', 'point_of_interest', 'establishment']
+
+
+水源地水錶室-市定古蹟
+address: No. 2, Minquan Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+紅毛井
+address: No. 83號, Lanjing St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [40, 58]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Vision Station
+address: No. 524號, Zhongshan Rd, West District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [40, 58]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+228 Memorial Park
+address: No. 695, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [45, 58]
+types: ['tourist_attraction', 'park', 'point_of_interest', 'establishment']
+
+
+杉池
+address: No. 275號, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+彌陀映月橋
+address: 600, Taiwan, Chiayi City, East District, 600嘉義市東區
+rating: None
+time_spent: [40, 58]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Chiayi Shinto Shrine Remains
+address: Chiayi Park, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [32, 56]
+types: ['place_of_worship', 'point_of_interest', 'establishment']
+
+
+嘉義市圓林仔社區
+address: Lane 566, Dongyi Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+R School GaYi 營繕塾
+address: No. 17, Lane 134, Weixin Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['school', 'point_of_interest', 'establishment']
+
+
+Cultural Affairs Bureau, Chiayi City
+address: No. 275號, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['local_government_office', 'point_of_interest', 'establishment']
+
+
+JiaYou Bicycle Trail
+address: 600, Taiwan, Chiayi City, West District, Section 4, Shixian Rd, 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+埤子頭植物園
+address: 600, Taiwan, 嘉義市西區香湖里
+rating: None
+time_spent: [40, 58]
+types: ['premise', 'park', 'point_of_interest', 'establishment']
+
+
+祥太文化館
+address: No. 30號, Lane 285, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [46, 60]
+types: ['museum', 'tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Su Zhou Lian Ancestral Shrine
+address: No. 326號, Chuiyang Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [40, 58]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Lantan Lake
+address: Lantan Lake, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['natural_feature', 'establishment']
+
+
+百年茄冬老樹
+address: 602, Taiwan, Chiayi County, Fanlu Township, 嘉124-1鄉道60號
+rating: None
+time_spent: [40, 58]
+types: ['tourist_attraction', 'point_of_interest', 'establishment']
+
+
+Chiayi City, East Village Community Development Association Top
+address: No. 538, Yijiao St, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+North Gate Station
+address: 600, Taiwan, Chiayi City, East District, Gonghe Rd, 428 號
+rating: None
+time_spent: [39, 56]
+types: ['train_station', 'transit_station', 'point_of_interest', 'establishment']
+
+
+丙午震災紀念碑
+address: 600, Taiwan, Chiayi City, East District, 600
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+Chiayi Municipal Museum
+address: No. 275-1, Zhongxiao Rd, East District, Chiayi City, Taiwan 600
+rating: None
+time_spent: [46, 60]
+types: ['museum', 'tourist_attraction', 'point_of_interest', 'establishment']
+
+
+嘉義公園七虎戲水區
+address: 600, Taiwan, 嘉義市東區東川里
+rating: None
+time_spent: [30, 57]
+types: ['point_of_interest', 'establishment']
+
+
+景點平均停留時間40分鐘到58分鐘
+餐廳平均停留時間27分鐘到54分鐘
