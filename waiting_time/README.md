@@ -1,5 +1,5 @@
 # 等候時間預測
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/popular_time/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/waiting_time/README.en.md)
 
 
 ## 專案概述

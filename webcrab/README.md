@@ -1,4 +1,5 @@
 # 嘉義資訊蒐集
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/webcrab/README.en.md)
 
 ## 目標
 本專案的目標是從嘉義市官方觀光網站 [嘉義市觀光旅遊網](https://travel.chiayi.gov.tw/) 蒐集關於景點、美食及住宿的資訊。
