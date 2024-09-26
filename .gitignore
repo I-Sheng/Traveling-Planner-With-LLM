@@ -3,3 +3,5 @@ db/
 poetry.lock
 .venv
 ref/
+output
+try*
