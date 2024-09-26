@@ -17,9 +17,9 @@
 2. **蒐集景點名稱以取得資料**
 
    - 使用以下觀光網站來獲取景點名稱：
-     - [嘉遊網 Chiayi City Travel](https://travel.chiayi.gov.tw/)
+     - [嘉義市觀光旅遊網](https://travel.chiayi.gov.tw/)
      - [嘉義縣政府文化觀光局](https://tbocc.cyhg.gov.tw/)
-     - [台南旅遊網 TRAVEL TAINAN](https://www.twtainan.net/)
+     - [台南旅遊網](https://www.twtainan.net/)
 
 3. **取得熱門時段及等候時間資料**
 

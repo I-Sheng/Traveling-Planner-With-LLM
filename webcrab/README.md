@@ -1,31 +1,31 @@
-# Chiayi Information Gathering
+# 嘉義資訊蒐集
 
-## Goal
-This project aims to gather information about sites, food, and hotels in Chiayi from the official [Travel in Chiayi City](https://travel.chiayi.gov.tw/) website.
+## 目標
+本專案的目標是從嘉義市官方觀光網站 [嘉義市觀光旅遊網](https://travel.chiayi.gov.tw/) 蒐集關於景點、美食及住宿的資訊。
 
-## Usage
+## 使用方式
 
-### Python Script
-You can use the provided Python script to collect specific information from the website. 
+### Python 腳本
+您可以使用提供的 Python 腳本，從網站上收集特定的資訊。
 
-**Command Syntax:**
+**指令語法：**
 ```bash
-python3 chiayi_webcrab.py [first page of the information] [information type]
+python3 chiayi_webcrab.py [資訊的第一頁網址] [資訊類型]
 ```
 
-**Example:**
-To gather information about sites, run:
+**範例：**
+若要蒐集景點相關資訊，請執行：
 ```bash
 python3 chiayi_webcrab.py https://travel.chiayi.gov.tw/TravelInformation/C000005/1 sites
 ```
 
-### Bash Script
-To quickly gather combined information about sites, food, and hotels, use the included bash script.
+### Bash 腳本
+若想快速蒐集關於景點、美食及住宿的綜合資訊，可以使用內建的 bash 腳本。
 
-**Command Syntax:**
+**指令語法：**
 ```bash
 bash script.sh
 ```
 
-## Rapid Information Gathering
-The `script.sh` file automates the process of retrieving and combining information on sites, food, and hotels into "chiayi.txt".
+## 快速資訊蒐集
+`script.sh` 檔案會自動化蒐集景點、美食及住宿資訊的過程，並將結果彙整至 "chiayi.txt" 檔案中。
