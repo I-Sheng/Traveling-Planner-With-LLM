@@ -41,6 +41,42 @@ def getInfo(url: str):
         print(title)
         f.write(title)
         f.write('\n')
+        for section in description:
+            for element in section.find_all('p'):
+                f.write(element.get_text())
+                f.write('\n')
+        f.close()
+    info = soup.find('div', class_=['kf-SideContent', 'aside-content']).find_all(class_="item")
+    with open("chiayi_" + sys.argv[2] + ".txt", mode='a', encoding='utf-8') as f:
+        f.write('\n\n')
+        f.write(info[0].find('span').text)
+        f.write(': ')
+        f.write(info[0].find('a').text)
+        f.write('\n')
+        openingElement = soup.find('ul', class_="openingHours_content")
+        if openingElement is None:
+            f.write(info[-2].find('span').text)
+            f.write(': ')
+            f.write(info[-2].find('a').get('href'))
+            f.write('\n')
+            f.write(info[-1].find('span').text)
+            f.write(': ')
+            f.write(info[-1].find('a').text)
+            f.write('\n\n\n\n\n\n')
+        else:
+            f.write("開放時間: ")
+            openingHour = openingElement.find_all('li')
+            for opening in openingHour:
+                f.write(opening.text)
+            f.write('\n')
+            f.write(info[3].find('span').text)
+            f.write(': ')
+            f.write(info[3].find('a').get('href'))
+            f.write('\n')
+            f.write(info[4].find('span').text)
+            f.write(': ')
+            f.write(info[4].find('a').text)
+            f.write('\n\n\n\n\n\n')
         f.close()
 
 
