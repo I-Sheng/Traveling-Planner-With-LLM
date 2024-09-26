@@ -2,12 +2,12 @@
 [![ch](https://img.shields.io/badge/lang-ch-green.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/webcrab/README.md)
 
 ## Goal
-This project aims to gather information about sites, food, and hotels in Chiayi from the official [Travel in Chiayi City](https://travel.chiayi.gov.tw/) website.
+`/webcrab` aims to gather information about sites, food, and hotels in Chiayi from the official [Travel in Chiayi City](https://travel.chiayi.gov.tw/) website.
 
 ## Usage
 
 ### Python Script
-You can use the provided Python script to collect specific information from the website. 
+You can use the provided Python script to collect specific information from the website.
 
 **Command Syntax:**
 ```bash

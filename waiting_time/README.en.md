@@ -2,7 +2,7 @@
 # Waiting Time Prediction
 [![ch](https://img.shields.io/badge/lang-ch-green.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/waiting_time/README.md)
 
-## Project Overview
+## Content Overview
 When planning a trip, one crucial factor to consider is the amount of time spent at each spot. However, data retrieved from the Google API does not always include waiting time. This project aims to use popular times data to train a model to predict the waiting time for a site, enabling better planning for travelers.
 
 Considering the potential sparsity of data, I collected popular time data from all spots within Chiayi City, Chiayi County, and Tainan to build and improve the predictive model.
@@ -23,12 +23,12 @@ Considering the potential sparsity of data, I collected popular time data from a
      2. **popular_notimeSpent.json**: Spots with only popular time data. The model aims to predict waiting time using this data.
      3. **nopopular_timeSpent.json**: Spots with only waiting time data.
      4. **popular_timeSpent.json**: Spots containing both popular time and waiting time data, which will be used to train and test the predictive models.
-   
+
    * Example commands to fetch data:
      ```bash
      python3 getPopular_chiayi.py ./webcrab/chiayi_food.txt
      # For Chiayi, use the getPopular_chiayi.py script
-     
+
      python3 getPopular_tainan.py ./webcrab/tainan_food.txt
      # For Tainan, use the getPopular_tainan.py script
      ```

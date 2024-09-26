@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/waiting_time/README.en.md)
 
 
-## 專案概述
+## 內容概述
 
 在規劃旅程時，考慮每個景點的停留時間是非常重要的。然而，透過 Google API 取得的資料並不總是包含等候時間。本專案的目標是利用熱門時段的資料，訓練一個模型來預測景點的等候時間，以便旅客能更妥善地安排行程。
 
