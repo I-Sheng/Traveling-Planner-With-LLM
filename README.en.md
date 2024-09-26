@@ -10,9 +10,9 @@ This GitHub repository is dedicated to the research project "A GPT-Centric Trave
 1. Users input their preferences based on a given prompt:
     ```
     # Prompt Example
-    # I like __ types of attractions. Please plan a one-day trip to Chiayi for me.
+    # I like __ types of attractions, planning to travel for __ days, please recommend some attractions for me.
     # e.g.
-    I like historical attractions. Please plan a one-day trip to Chiayi for me.
+    I like historical attractions, planning to travel for 2 days, please recommend some attractions for me.
     ```
 2. The LLM (Language Learning Model) recommends potential attractions.
 3. Users select their preferred attractions and accommodations.
