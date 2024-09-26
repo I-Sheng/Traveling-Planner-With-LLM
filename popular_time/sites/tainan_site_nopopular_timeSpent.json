@@ -1,0 +1,133 @@
+[
+    {
+        "id": "ChIJk_qk9P91bjQRTolgNlHUSrc",
+        "name": "Eternal Golden Castle",
+        "address": "No. 3, Gwangju Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.987883,
+            "lng": 120.159255
+        },
+        "rating": 4.2,
+        "rating_n": 8662,
+        "international_phone_number": "+886 6 295 1504",
+        "time_spent": [
+            20,
+            60
+        ]
+    },
+    {
+        "id": "ChIJ51EgAxfUbTQRZPamRQOENbw",
+        "name": "Qingkunshen Qingshan Fishing Harbor",
+        "address": "725, Taiwan, Tainan City, Jiangjun District, \u535726\u9109\u9053101\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1896738,
+            "lng": 120.0861027
+        },
+        "rating": 4,
+        "rating_n": 1896,
+        "international_phone_number": "+886 6 792 0186",
+        "time_spent": [
+            10,
+            45
+        ]
+    },
+    {
+        "id": "ChIJm6Uoish9bjQRO_3HZOfPAcE",
+        "name": "Old Madou Harbor cultural park",
+        "address": "721, Taiwan, Tainan City, Madou District, \u5357\u52e2\u91cc\u5357\u52e287-30\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1896989,
+            "lng": 120.2694248
+        },
+        "rating": 4.2,
+        "rating_n": 341,
+        "international_phone_number": "+886 6 571 8088",
+        "time_spent": [
+            60,
+            60
+        ]
+    },
+    {
+        "id": "ChIJCx3OyoDVbTQRNj-GbsECGkY",
+        "name": "FANG-YUAN Art Museum",
+        "address": "725, Taiwan, Tainan City, Jiangjun District, \u897f\u83ef1\u865f",
+        "types": [
+            "tourist_attraction",
+            "cafe",
+            "museum",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.199167,
+            "lng": 120.157222
+        },
+        "rating": 4.5,
+        "rating_n": 874,
+        "international_phone_number": "+886 6 794 4351",
+        "time_spent": [
+            90,
+            90
+        ]
+    },
+    {
+        "id": "ChIJYUOPRyd0bjQRivbrqFsMKuU",
+        "name": "Tainan Municipal Tainan Cultural Center",
+        "address": "No. 332\u865f, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9747562,
+            "lng": 120.2215652
+        },
+        "rating": 4.4,
+        "rating_n": 6588,
+        "international_phone_number": "+886 6 269 2864",
+        "time_spent": [
+            210,
+            210
+        ]
+    },
+    {
+        "id": "ChIJp6Iww6LVbTQRAYsiKsXDznA",
+        "name": "KNH creative non-woven Kingdom",
+        "address": "725, Taiwan, Tainan City, Jiangjun District, \u4e09\u540966\u4e4b1\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2000304,
+            "lng": 120.1307449
+        },
+        "rating": 3.9,
+        "rating_n": 594,
+        "international_phone_number": "+886 6 794 1573",
+        "time_spent": [
+            90,
+            90
+        ]
+    }
+]

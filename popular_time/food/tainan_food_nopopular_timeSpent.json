@@ -1,0 +1,290 @@
+[
+    {
+        "id": "ChIJDVhFc3x2bjQRjTdKcQDCjB8",
+        "name": "Silks House",
+        "address": "700, Taiwan, Tainan City, West Central District, Heyi Rd, 1\u865f2F",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9872392,
+            "lng": 120.1996342
+        },
+        "rating": 4.3,
+        "rating_n": 1018,
+        "international_phone_number": "+886 6 390 3020",
+        "time_spent": [
+            60,
+            150
+        ]
+    },
+    {
+        "id": "ChIJTU10m3p2bjQR4Q5Nn5MJVKM",
+        "name": "Jai Mi Ba",
+        "address": "700, Taiwan, Tainan City, West Central District, \u4fdd\u5b89\u8def159-1\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.990774,
+            "lng": 120.193764
+        },
+        "rating": 4.2,
+        "rating_n": 1179,
+        "international_phone_number": "+886 6 223 1665",
+        "time_spent": [
+            30,
+            60
+        ]
+    },
+    {
+        "id": "ChIJCwQ-3G52bjQRDQcIh69CZUI",
+        "name": "Bonjour\u8f15\u98df\u65e9\u5348\u9910",
+        "address": "No. 102\u865f, Xining St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.997706,
+            "lng": 120.190242
+        },
+        "rating": 4.4,
+        "rating_n": 441,
+        "international_phone_number": "+886 6 223 1617",
+        "time_spent": [
+            60,
+            120
+        ]
+    },
+    {
+        "id": "ChIJJ88eDL52bjQRbOZ7Dse_T0c",
+        "name": "\u5c0f\u66fc\u8c37",
+        "address": "No. 3\u865f, Lane 40, Dongxing Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9911692,
+            "lng": 120.2290289
+        },
+        "rating": 4.3,
+        "rating_n": 519,
+        "international_phone_number": "+886 986 977 828",
+        "time_spent": [
+            60,
+            120
+        ]
+    },
+    {
+        "id": "ChIJO8yvSKB5bjQR3ZBA8t18xTs",
+        "name": "\u53e4\u5bf6\u7121\u60a3\u5b50",
+        "address": "74549, Taiwan, Tainan City, Anding District, 62-18\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0989659,
+            "lng": 120.2261814
+        },
+        "rating": 4.2,
+        "rating_n": 198,
+        "international_phone_number": "+886 80 020 0240",
+        "time_spent": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": "ChIJYxYUOIh2bjQRMvOPxPUGvtE",
+        "name": "\u797f\u8a18\uff08\u5305\u4ed4\u797f\uff09",
+        "address": "No. 27\u865f, Lane 3, Kaishan Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9919136,
+            "lng": 120.2065232
+        },
+        "rating": 4.3,
+        "rating_n": 1257,
+        "international_phone_number": "+886 6 225 9181",
+        "time_spent": [
+            15,
+            15
+        ]
+    },
+    {
+        "id": "ChIJSfxXF1WPbjQR7PoHTzibLbM",
+        "name": "\u5c0f\u8173\u817f\u7f8a\u8089\u5e97",
+        "address": "736, Taiwan, Tainan City, Liuying District, \u91cd\u6eaa\u91cc21-9\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2887667,
+            "lng": 120.3668075
+        },
+        "rating": 4.3,
+        "rating_n": 1062,
+        "international_phone_number": "+886 6 623 0349",
+        "time_spent": [
+            25,
+            60
+        ]
+    },
+    {
+        "id": "ChIJAQAAADl0bjQRLGd1YL5fEwI",
+        "name": "\u4e8c\u7a7a\u71d5\u4eac\u8525\u6cb9\u9905",
+        "address": "No. 108\u865f, Erkong Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9603943,
+            "lng": 120.2234262
+        },
+        "rating": 4.3,
+        "rating_n": 732,
+        "international_phone_number": "+886 6 289 0923",
+        "time_spent": [
+            15,
+            15
+        ]
+    },
+    {
+        "id": "ChIJnaIg7Ht2bjQR55aGAM2EAu0",
+        "name": "\u9957\u98df\u5929\u5802\u53f0\u5357\u897f\u9580\u5e97",
+        "address": "700, Taiwan, Tainan City, West Central District, Section 1, Ximen Rd, 658-1\u865f\u865fB2",
+        "types": [
+            "pet_store",
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9873036,
+            "lng": 120.1984049
+        },
+        "rating": 4.2,
+        "rating_n": 4344,
+        "international_phone_number": "+886 6 214 1688",
+        "time_spent": [
+            150,
+            150
+        ]
+    },
+    {
+        "id": "ChIJnaIg7Ht2bjQR55aGAM2EAu0",
+        "name": "\u9957\u98df\u5929\u5802\u53f0\u5357\u897f\u9580\u5e97",
+        "address": "700, Taiwan, Tainan City, West Central District, Section 1, Ximen Rd, 658-1\u865f\u865fB2",
+        "types": [
+            "pet_store",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9873036,
+            "lng": 120.1984049
+        },
+        "rating": 4.2,
+        "rating_n": 4344,
+        "international_phone_number": "+886 6 214 1688",
+        "time_spent": [
+            150,
+            150
+        ]
+    },
+    {
+        "id": "ChIJl93mZsB1bjQRv1Jb6kKxyf0",
+        "name": "\u65bd\u5bb6\u5c0f\u5377\u7c73\u7c89",
+        "address": "No. 5\u865f, Lane 2, Section 1, Zhonghua W Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9634647,
+            "lng": 120.184433
+        },
+        "rating": 3.9,
+        "rating_n": 1747,
+        "international_phone_number": "+886 6 263 1721",
+        "time_spent": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": "ChIJQf3b1iZxbjQRIDJ0uxoT4tU",
+        "name": "\u5927\u7063\u50b3\u7d71\u5e02\u5834\u66a8\u9ec3\u660f\u5e02\u5834",
+        "address": "No. 345\u865f, Minzu Rd, Yongkang District, Tainan City, Taiwan 710",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0064273,
+            "lng": 120.2683317
+        },
+        "rating": 4,
+        "rating_n": 409,
+        "time_spent": [
+            15,
+            15
+        ]
+    },
+    {
+        "id": "ChIJM0it2lKFbjQRiH3bJtlxT7M",
+        "name": "\u5bcc\u8cb4\u98df\u5802\uff08\u4e0d\u5b9a\u6642\u516c\u4f11\uff09",
+        "address": "731, Taiwan, Tainan City, Houbi District, 7-2\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3790561,
+            "lng": 120.3331389
+        },
+        "rating": 4.3,
+        "rating_n": 637,
+        "international_phone_number": "+886 952 669 199",
+        "time_spent": [
+            45,
+            45
+        ]
+    }
+]

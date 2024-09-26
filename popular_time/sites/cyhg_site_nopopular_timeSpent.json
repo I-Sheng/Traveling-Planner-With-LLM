@@ -1,0 +1,195 @@
+[
+    {
+        "id": "ChIJe6s6NeKbbjQRZT2CV0r8Ev8",
+        "name": "\u5609\u85dd\u9ede\u6c34\u9053\u982d\u6587\u5275\u805a\u843d",
+        "address": "No. 17\u865f, Zhongzheng Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4683395,
+            "lng": 120.249685
+        },
+        "rating": 4.4,
+        "rating_n": 733,
+        "international_phone_number": "+886 5 379 9099",
+        "time_spent": [
+            60,
+            60
+        ]
+    },
+    {
+        "id": "ChIJe6s6NeKbbjQRZT2CV0r8Ev8",
+        "name": "\u5609\u85dd\u9ede\u6c34\u9053\u982d\u6587\u5275\u805a\u843d",
+        "address": "No. 17\u865f, Zhongzheng Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4683395,
+            "lng": 120.249685
+        },
+        "rating": 4.4,
+        "rating_n": 733,
+        "international_phone_number": "+886 5 379 9099",
+        "time_spent": [
+            60,
+            60
+        ]
+    },
+    {
+        "id": "ChIJBcNe_b2WbjQRb7t-iOy9O-Y",
+        "name": "\u6a02\u5104\u7687\u5bb6\u6e2f\u5f0f\u98f2\u8336",
+        "address": "No. 501\u865f, Yushan Rd, West District, Chiayi City, Taiwan 60090",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4699016,
+            "lng": 120.4178197
+        },
+        "rating": 3.9,
+        "rating_n": 254,
+        "international_phone_number": "+886 5 283 6866",
+        "time_spent": [
+            15,
+            90
+        ]
+    },
+    {
+        "id": "ChIJX4sTLjeZbjQRgbR5k8cMBDA",
+        "name": "\u7528\u4e5d\u67d1\u4ed4\u5e97-\u62cd\u651d\u73fe\u5834",
+        "address": "\u6f6d\u5898\u675190\u865f, Liujiao Township, Chiayi County, Taiwan 61546",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5065476,
+            "lng": 120.2764627
+        },
+        "rating": 4.4,
+        "rating_n": 1681,
+        "international_phone_number": "+886 911 931 547",
+        "time_spent": [
+            30,
+            30
+        ]
+    },
+    {
+        "id": "ChIJk_9MgJqCbjQRP2clxqbM-YU",
+        "name": "\u6d32\u5357\u9e7d\u5834",
+        "address": "62549, Taiwan, Chiayi County, Budai Township, \u65b0\u539d\u4ed4402\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3839298,
+            "lng": 120.1673704
+        },
+        "rating": 4.5,
+        "rating_n": 281,
+        "international_phone_number": "+886 5 347 8817",
+        "time_spent": [
+            180,
+            180
+        ]
+    },
+    {
+        "id": "ChIJScE-OSsobDQRrEZlFEc-67s",
+        "name": "\u5e03\u888b\u6d77\u4e0a\u5df4\u58eb(\u86cb\u7cd5\u6c99\u7058\uff09\u6d25\u54c1\u6d77\u5473-\u6f01\u592b\u6d77\u9bae\u75db\u98a8\u6599\u7406)",
+        "address": "No. 1\u865f, Zhongzheng Rd, Budai Township, Chiayi County, Taiwan 625",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3764256,
+            "lng": 120.1545011
+        },
+        "rating": 4.5,
+        "rating_n": 158,
+        "international_phone_number": "+886 5 347 5555",
+        "time_spent": [
+            120,
+            120
+        ]
+    },
+    {
+        "id": "ChIJe6s6NeKbbjQRZT2CV0r8Ev8",
+        "name": "\u5609\u85dd\u9ede\u6c34\u9053\u982d\u6587\u5275\u805a\u843d",
+        "address": "No. 17\u865f, Zhongzheng Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4683395,
+            "lng": 120.249685
+        },
+        "rating": 4.4,
+        "rating_n": 733,
+        "international_phone_number": "+886 5 379 9099",
+        "time_spent": [
+            60,
+            60
+        ]
+    },
+    {
+        "id": "ChIJ8ReKIOO9bjQRx4cbDhLuTEE",
+        "name": "Chiayi Performing Arts Center",
+        "address": "No. 265\u865f, Section 2, Jianguo Rd, Minxiong Township, Chiayi County, Taiwan 621",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5441121,
+            "lng": 120.4320576
+        },
+        "rating": 4.3,
+        "rating_n": 3177,
+        "international_phone_number": "+886 5 206 5675",
+        "time_spent": [
+            150,
+            150
+        ]
+    },
+    {
+        "id": "ChIJ_X6mtcfrbjQRsMlKe_bjcKM",
+        "name": "\u5609\u7fa9\u9010\u9e7f\u90e8\u843d\u85dd\u8853\u6751",
+        "address": "602, Taiwan, Chiayi County, Fanlu Township, \u6885\u82b17\u8def1\u5df71\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4469419,
+            "lng": 120.5818979
+        },
+        "rating": 4.2,
+        "rating_n": 212,
+        "time_spent": [
+            15,
+            120
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "svm"
+version = "0.1.0"
+description = ""
+authors = ["isheng <110703011@g.nccu.edu.tw>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scikit-learn = "^1.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

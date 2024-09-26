@@ -1,0 +1,91 @@
+[
+    {
+        "id": "ChIJT_IXDme8bjQRv8-T2bMC7bY",
+        "name": "\u6eaa\u53e3\u53e4\u65e9\u5473\u8c6c\u8840\u6e6f",
+        "address": "No. 106\u865f, Zhongxiao St, Xikou Township, Chiayi County, Taiwan 623",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.6056865,
+            "lng": 120.3974065
+        },
+        "rating": 4.5,
+        "rating_n": 564,
+        "international_phone_number": "+886 5 269 3007",
+        "time_spent": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": "ChIJMaZznDa-bjQRGhq0JrTsQn8",
+        "name": "\u677e\u5c71\u571f\u7aaf\u7f8a\u8089",
+        "address": "621, Taiwan, Chiayi County, Minxiong Township, 48-27\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5446315,
+            "lng": 120.4764115
+        },
+        "rating": 4.1,
+        "rating_n": 939,
+        "international_phone_number": "+886 5 272 1597",
+        "time_spent": [
+            60,
+            120
+        ]
+    },
+    {
+        "id": "ChIJbyTry07ybjQRQ6HUTFLeGTI",
+        "name": "\u7384\u5c71\u6e56\u5c71\u6797\u5496\u5561",
+        "address": "607, Taiwan, Chiayi County, Dapu Township, 1\u865f\u96441",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2975308,
+            "lng": 120.5989092
+        },
+        "rating": 4.1,
+        "rating_n": 439,
+        "international_phone_number": "+886 5 252 2169",
+        "time_spent": [
+            30,
+            30
+        ]
+    },
+    {
+        "id": "ChIJwbBrW3OcbjQR25taFdLCyeo",
+        "name": "\u9867\u5bb6\u9ebb\u82b1\u5de5\u4f5c\u574a",
+        "address": "No. 305\u865f, Wenhua S Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4568606,
+            "lng": 120.2422814
+        },
+        "rating": 4.3,
+        "rating_n": 516,
+        "international_phone_number": "+886 5 379 0497",
+        "time_spent": [
+            15,
+            15
+        ]
+    }
+]

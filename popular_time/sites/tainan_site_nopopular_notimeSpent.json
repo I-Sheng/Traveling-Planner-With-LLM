@@ -1,0 +1,4409 @@
+[
+    {
+        "id": "ChIJn4ahgmZ2bjQRRpYB7Ku1hcU",
+        "name": "\u795e\u8fb2\u8857",
+        "address": "700, Taiwan, Tainan City, West Central District, \u795e\u8fb2\u8857",
+        "types": [
+            "route"
+        ],
+        "coordinates": {
+            "lat": 22.9975666,
+            "lng": 120.1965462
+        }
+    },
+    {
+        "id": "ChIJq6qqqrqIbjQRWYIyq8JCnnc",
+        "name": "Deyuanpi Holland Village",
+        "address": "736, Taiwan, Tainan City, Liuying District, 100\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2630654,
+            "lng": 120.3397063
+        },
+        "rating": 4,
+        "international_phone_number": "+886 6 623 1896"
+    },
+    {
+        "id": "ChIJFbzVrGJ2bjQRkZC9jslaIgs",
+        "name": "Tainan Confucius Temple",
+        "address": "No. 2\u865f, Nanmen Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9905296,
+            "lng": 120.2040401
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 221 4647"
+    },
+    {
+        "id": "ChIJD0kUZydvbjQRVntTkf9hpsw",
+        "name": "Tsaoshan Moon World",
+        "address": "Tsaoshan Moon World, Taiwan",
+        "types": [
+            "colloquial_area",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 22.9871857,
+            "lng": 120.4242401
+        }
+    },
+    {
+        "id": "ChIJ21CWcIZ7bjQRxl6AykOXVPk",
+        "name": "\u725b\u589f",
+        "address": "741, Taiwan, \u53f0\u5357\u5e02\u5584\u5316\u5340\u725b\u589f",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 23.129017,
+            "lng": 120.287989
+        }
+    },
+    {
+        "id": "ChIJybTzxEH1bjQRlIks6_5RLKM",
+        "name": "Mei Ling Scenic Area",
+        "address": "715, Taiwan, \u53f0\u5357\u5e02\u6960\u897f\u5340\u7063\u4e18\u91cc",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.18404529999999,
+            "lng": 120.5614573
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 575 5830"
+    },
+    {
+        "id": "ChIJybxK6nx2bjQRIyrLFyqs3s0",
+        "name": "Tainan Judicial Museum",
+        "address": "No. 307\u865f, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9896681,
+            "lng": 120.2010486
+        },
+        "rating": 4.6,
+        "rating_n": 7308,
+        "international_phone_number": "+886 6 214 7173"
+    },
+    {
+        "id": "ChIJtbdB0Xt2bjQR1IE4qcWD-lg",
+        "name": "Blueprint Culture & Creative Park",
+        "address": "No. 12\u865f, Lane 689, Section 1, Ximen Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.987102,
+            "lng": 120.1973454
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 222 7195"
+    },
+    {
+        "id": "ChIJ3WsYo2XUbTQRlgJY_4dsCBg",
+        "name": "\u5c07\u8ecd\u6f01\u6e2f",
+        "address": "Taiwan, \u5c07\u8ecd\u6f01\u6e2f",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2113758,
+            "lng": 120.0817439
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJo7avkR12bjQR9Gvc2sRtx40",
+        "name": "Former Tait & Co. Merchant House",
+        "address": "No. 108, Gubao St, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0034467,
+            "lng": 120.1597835
+        },
+        "rating": 4.3,
+        "rating_n": 11465,
+        "international_phone_number": "+886 6 391 3901"
+    },
+    {
+        "id": "ChIJDVSRAKfZbTQRU2p8ooR7kxk",
+        "name": "\u53f0\u6c5f\u751f\u614b\u6587\u5316\u5712\u5340",
+        "address": "No. 360\u865f, Dazhong Rd, Annan District, Tainan City, Taiwan 709",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0198001,
+            "lng": 120.1363077
+        },
+        "rating": 4.5
+    },
+    {
+        "id": "ChIJDVzTQ4uNbjQRB2ApYuqc4Ts",
+        "name": "Baihe Daxian Temple",
+        "address": "732, Taiwan, Tainan City, Baihe District, \u5ca9\u524d\u8def1\u865f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.340431,
+            "lng": 120.4731838
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 685 2143"
+    },
+    {
+        "id": "ChIJ_3sZgmF2bjQRJqNT18Vuoa0",
+        "name": "Tainan Sacrificial Rites Martial Temple",
+        "address": "No. 229\u865f, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9965989,
+            "lng": 120.2021754
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 229 4401"
+    },
+    {
+        "id": "ChIJ86owPh-IbjQRQiuP_PqBv98",
+        "name": "Wusanto Reservoir",
+        "address": "No. 500\u865f, Hatta Rd Section 3, Guantian District, Tainan City, Taiwan 720",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.20788839999999,
+            "lng": 120.3633866
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 698 2103"
+    },
+    {
+        "id": "ChIJhy_3gWZ2bjQRWnuAsu6rUro",
+        "name": "\u4e94\u689d\u6e2f\u6b77\u53f2\u5340\u57df\u5730\u65b9\u6587\u5316\u9928",
+        "address": "700, Taiwan, Tainan City, West Central District, \u795e\u8fb2\u885770\u865f",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9975266,
+            "lng": 120.196801
+        },
+        "rating": 4.4,
+        "rating_n": 13,
+        "international_phone_number": "+886 6 225 7640"
+    },
+    {
+        "id": "ChIJVz4VaivXbTQR6z9TBaJCMBE",
+        "name": "\u4e03\u80a1\u6f5f\u6e56",
+        "address": "Taiwan, \u4e03\u80a1\u6f5f\u6e56",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1346766,
+            "lng": 120.0651301
+        },
+        "rating": 4.3
+    },
+    {
+        "id": "ChIJTbdS8452bjQRI0ArgqPTPaI",
+        "name": "\u77e5\u4e8b\u5b98\u90b8\u751f\u6d3b\u9928",
+        "address": "No. 1\u865f, Weimin St, East District, Tainan City, Taiwan 701",
+        "types": [
+            "department_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9925524,
+            "lng": 120.213502
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 209 7000"
+    },
+    {
+        "id": "ChIJI8CuiR-BbjQR8jvd_55icrw",
+        "name": "\u53f0\u7063\u8a69\u8def",
+        "address": "737, Taiwan, Tainan City, Yanshui District, 68",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2777887,
+            "lng": 120.2277416
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 655 1732"
+    },
+    {
+        "id": "ChIJv8EezzuNbjQRfG974hSRZ1s",
+        "name": "\u95dc\u4ed4\u5dba\u5927\u51cd\u5c71\u767b\u5c71\u6b65\u9053",
+        "address": "Baihe District, Tainan City, Taiwan 732",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.315941,
+            "lng": 120.5134193
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 5 278 7006"
+    },
+    {
+        "id": "ChIJB3JmXKWPbjQR4WsR-vjdqPg",
+        "name": "\u8fb2\u696d\u90e8\u8fb2\u696d\u79d1\u6280\u5712\u5340\u7ba1\u7406\u4e2d\u5fc3\u862d\u82b1\u5712\u5340",
+        "address": "731, Taiwan, Tainan City, Houbi District, \u70cf\u6a39\u6797325\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3391784,
+            "lng": 120.3776358
+        },
+        "rating": 4.3,
+        "rating_n": 850,
+        "international_phone_number": "+886 6 683 0164"
+    },
+    {
+        "id": "ChIJW7GkVtR1bjQRPbD_kb-p0_8",
+        "name": "Shuijiaoshe Cultural Zone",
+        "address": "702, Taiwan, Tainan City, South District, \u8208\u4e2d\u8857118\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9775942,
+            "lng": 120.2015339
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 263 3467"
+    },
+    {
+        "id": "ChIJx-AA3H2KbjQRYFixCMUalWA",
+        "name": "Yongxingdiao Bridge",
+        "address": "Yongxingdiao Bridge, Nanxi District, Tainan City, Taiwan 715",
+        "types": [
+            "route"
+        ],
+        "coordinates": {
+            "lat": 23.1847707,
+            "lng": 120.480211
+        }
+    },
+    {
+        "id": "ChIJWwsfbB12bjQRD9L5l5Oh-gw",
+        "name": "Remnant of Taiwan City Wall",
+        "address": "No. 82\u865f, Guosheng Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0014711,
+            "lng": 120.1602686
+        },
+        "rating": 4.5,
+        "rating_n": 70
+    },
+    {
+        "id": "ChIJT0MwQSNsbjQRqhPJm-zgC-w",
+        "name": "\u725b\u57d4\u8fb2\u5858",
+        "address": "719, Taiwan, Tainan City, Longci District, 10\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9267373,
+            "lng": 120.4083967
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJHfNkCA5ebjQR7aWbbbm_f1A",
+        "name": "\u5357\u5316\u6c34\u5eab",
+        "address": "716, Taiwan, \u53f0\u5357\u5e02\u5357\u5316\u5340\u5357\u5316\u6c34\u5eab",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0881005,
+            "lng": 120.5423015
+        },
+        "rating": 4,
+        "rating_n": 121
+    },
+    {
+        "id": "ChIJCaqM84x2bjQRRqzST46i6cM",
+        "name": "Tainan",
+        "address": "No. 210, Qianfeng Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9970861,
+            "lng": 120.2129832
+        },
+        "rating": 3.8
+    },
+    {
+        "id": "ChIJL6dONE0qbDQRwut56pZtYdU",
+        "name": "\u96d9\u6625\u6ff1\u6d77\u904a\u61a9\u5340",
+        "address": "727, Taiwan, \u53f0\u5357\u5e02\u5317\u9580\u5340\u96d9\u6625\u6ff1\u6d77\u904a\u61a9\u5340",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.312008,
+            "lng": 120.112979
+        },
+        "rating": 3.8
+    },
+    {
+        "id": "ChIJj8pfUqj0bjQRdazVS5q8g1k",
+        "name": "Zengwen Dam",
+        "address": "715, Taiwan, Tainan City, Nanxi District, 70\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2505505,
+            "lng": 120.5367136
+        },
+        "rating": 4.2,
+        "rating_n": 1908,
+        "international_phone_number": "+886 6 575 3251"
+    },
+    {
+        "id": "ChIJYccf8vR2bjQRYw5unxX0GBA",
+        "name": "Tainan Bus Station",
+        "address": "North District, Tainan City, Taiwan 704",
+        "types": [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0021705,
+            "lng": 120.2090347
+        },
+        "rating": 3.4
+    },
+    {
+        "id": "ChIJz6qqqvmGbjQRm_2zNWWTN64",
+        "name": "Liouying eight classic ranch",
+        "address": "\u516b\u7fc1\u91cc93-139\u865f, Liuying District, Tainan City, Taiwan 736",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2682427,
+            "lng": 120.3004264
+        },
+        "rating": 3.7,
+        "international_phone_number": "+886 6 622 6238"
+    },
+    {
+        "id": "ChIJtVJ6zWZ2bjQRfxOI8R_fo9E",
+        "name": "Puji Temple",
+        "address": "No. 79\u865f, Puji Street, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9988217,
+            "lng": 120.1991605
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 226 8774"
+    },
+    {
+        "id": "ChIJ99XQaUJvbjQRS6JEuaRs4kA",
+        "name": "\u6708\u4e16\u754c\u751f\u614b\u5b78\u5712\u505c\u8eca\u5834",
+        "address": "713, Taiwan, Tainan City, Zuozhen District, \u53f0\u5357\u5e02\u5de6\u93ae\u5340",
+        "types": [
+            "parking",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.007217,
+            "lng": 120.414133
+        },
+        "rating": 4.4,
+        "rating_n": 5
+    },
+    {
+        "id": "ChIJz9oVvv51bjQRBsI834UwXwI",
+        "name": "Anping District",
+        "address": "Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "administrative_area_level_2",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 22.9934184,
+            "lng": 120.1647112
+        }
+    },
+    {
+        "id": "ChIJeaN5HxqEbjQRCkmIwJHvWPc",
+        "name": "Yongcheng Theater",
+        "address": "737, Taiwan, Tainan City, Yanshui District, \u904e\u6e2f\u8def21\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3190106,
+            "lng": 120.2683599
+        },
+        "rating": 4.3,
+        "rating_n": 1269,
+        "international_phone_number": "+886 6 652 2198"
+    },
+    {
+        "id": "ChIJ_WfXvX12bjQRV2dzXaiXF60",
+        "name": "Dananmen/Ningnanmen",
+        "address": "700, Taiwan, \u53f0\u5357\u5e02\u4e2d\u897f\u5340\u9032\u5b78\u91cc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9869491,
+            "lng": 120.2035355
+        },
+        "rating": 4.5,
+        "rating_n": 282,
+        "international_phone_number": "+886 6 295 3407"
+    },
+    {
+        "id": "ChIJt0-ISOvYbTQRnwSP3yFs-T0",
+        "name": "Sicao Dazhong Temple",
+        "address": "No. 360\u865f, Dazhong Rd, Annan District, Tainan City, Taiwan 709",
+        "types": [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.01993389999999,
+            "lng": 120.1351284
+        },
+        "rating": 4.2,
+        "rating_n": 3086,
+        "international_phone_number": "+886 6 284 1610"
+    },
+    {
+        "id": "ChIJlV7-wNF7bjQRXDPnKzrwg3Q",
+        "name": "\u6a39\u8c37\u5712\u5340",
+        "address": "744, Taiwan, \u53f0\u5357\u5e02\u65b0\u5e02\u5340\u6a39\u8c37\u5712\u5340",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 23.1034856,
+            "lng": 120.261539
+        }
+    },
+    {
+        "id": "ChIJR8hsABuEbjQRZfWL66DPLBk",
+        "name": "Holy Trinity Catholic Church and Poor Clares Monastery",
+        "address": "No. 19\u865f, Ximen Rd, Yanshui District, Tainan City, Taiwan 737",
+        "types": [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3188841,
+            "lng": 120.2660713
+        },
+        "rating": 4.5,
+        "rating_n": 424,
+        "international_phone_number": "+886 6 652 1174"
+    },
+    {
+        "id": "ChIJ0ebeUBNhbjQRQJlWnzyErkw",
+        "name": "Tapani Incident Memorial Park",
+        "address": "No. 22\u865f, Shutang St, Yujing District, Tainan City, Taiwan 714",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1253584,
+            "lng": 120.4601151
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 574 1025"
+    },
+    {
+        "id": "ChIJ8Q1AaX12bjQRyzRE5ckbBbI",
+        "name": "\u6587\u5275plus \u53f0\u5357\u5275\u610f\u4e2d\u5fc3",
+        "address": "No. 197\u865f, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 70045",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9888336,
+            "lng": 120.2042058
+        },
+        "rating": 4.2,
+        "rating_n": 390,
+        "international_phone_number": "+886 6 214 9510"
+    },
+    {
+        "id": "ChIJ7dDP_N6FbjQRvUDB1c58Wto",
+        "name": "TaiSugar Xinying Railroad Cultural Park",
+        "address": "No. 42\u865f, Zhongxing Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2998405,
+            "lng": 120.3165967
+        },
+        "rating": 4,
+        "international_phone_number": "+886 6 632 4570"
+    },
+    {
+        "id": "ChIJJXLEmfxgbjQRdwRVlPhtm4g",
+        "name": "\u864e\u982d\u5c71",
+        "address": "714, Taiwan, \u53f0\u5357\u5e02\u7389\u4e95\u5340\u864e\u982d\u5c71",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1256204,
+            "lng": 120.4868318
+        },
+        "rating": 4,
+        "rating_n": 23
+    },
+    {
+        "id": "ChIJlTdiC2J2bjQRdxr7hrjdxNg",
+        "name": "Tainan Beiji Temple",
+        "address": "No. 89\u865f, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9944425,
+            "lng": 120.2046813
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 226 8875"
+    },
+    {
+        "id": "ChIJI_lTwk16bjQRYcyIsPb1its",
+        "name": "\u8fce\u66e6\u6e56",
+        "address": "744, Taiwan, \u53f0\u5357\u5e02\u65b0\u5e02\u5340\u8fce\u66e6\u6e56",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0873333,
+            "lng": 120.2848032
+        },
+        "rating": 4.3
+    },
+    {
+        "id": "ChIJ______iGbjQRaJquXvfWi7Q",
+        "name": "\u516b\u8001\u723a\u8eca\u7ad9-\u4e73\u725b\u7684\u5bb6",
+        "address": "736, Taiwan, Tainan City, Liuying District, 93\u4e4b138\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2681508,
+            "lng": 120.2952436
+        },
+        "rating": 3.6,
+        "international_phone_number": "+886 6 622 5199"
+    },
+    {
+        "id": "ChIJsxGQmX-MbjQRBH6HOs9jX_w",
+        "name": "Fairy Lake Leisure Farm B&B\u4ed9\u6e56\u4f11\u9592\u8fb2\u5834",
+        "address": "733, Taiwan, Tainan City, Dongshan District, \u4e00\u91306-2\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2659182,
+            "lng": 120.4823523
+        },
+        "rating": 4,
+        "rating_n": 1865,
+        "international_phone_number": "+886 6 686 3635"
+    },
+    {
+        "id": "ChIJ_V3ABUeNbjQR3W_5y4tnAKs",
+        "name": "\u7d2b\u96f2\u6bbf\u4ed9\u7956\u5edf",
+        "address": "732, Taiwan, Tainan City, Baihe District, 99-3",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3239211,
+            "lng": 120.5129508
+        },
+        "rating": 4.4,
+        "rating_n": 118,
+        "international_phone_number": "+886 6 682 2315"
+    },
+    {
+        "id": "ChIJe4ZTPH12bjQRIcF_xZ0kgTs",
+        "name": "Tainan Wude Hall",
+        "address": "No. 2, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.99067,
+            "lng": 120.2034334
+        },
+        "rating": 4.5,
+        "rating_n": 359
+    },
+    {
+        "id": "ChIJF8w-5jVxbjQR-a-axwKHrv0",
+        "name": "\u4ec1\u5fb7\u660e\u76f4\u5bae",
+        "address": "No. 354\u865f, Taizi Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9915699,
+            "lng": 120.2571585
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 273 2645"
+    },
+    {
+        "id": "ChIJPwuqpZ98bjQRO9hyVZGfYPk",
+        "name": "\u5584\u5316\u5564\u9152\u5ee0",
+        "address": "No. 2, Chenggong Rd, Shanhua District, Tainan City, Taiwan 741",
+        "types": [
+            "tourist_attraction",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1279807,
+            "lng": 120.3165511
+        },
+        "rating": 4,
+        "rating_n": 1283,
+        "international_phone_number": "+886 6 583 8511"
+    },
+    {
+        "id": "ChIJjXUhGHpwbjQRFJQ7yO9xumU",
+        "name": "\u694a\u9035\u6587\u5b78\u7d00\u5ff5\u9928",
+        "address": "No. 488\u865f, Zhongzheng Rd, \u65b0\u5316\u5340\u53f0\u5357\u5e02 Taiwan 712",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0378948,
+            "lng": 120.307627
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 590 8865"
+    },
+    {
+        "id": "ChIJ83GjX4yIbjQRxLjCV11lQwU",
+        "name": "\u5357\u5143\u82b1\u5712\u4f11\u9592\u8fb2\u5834",
+        "address": "736, Taiwan, Tainan City, Liuying District, \u679c\u6bc5\u91cc\u5357\u6e5625\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2400991,
+            "lng": 120.3785788
+        },
+        "rating": 4,
+        "rating_n": 2782,
+        "international_phone_number": "+886 6 699 0726"
+    },
+    {
+        "id": "ChIJleraRwB3bjQRrBft_Scb7TA",
+        "name": "\u6731\u7396\u7469\u6545\u5c45",
+        "address": "708, Taiwan, \u53f0\u5357\u5e02\u5b89\u5e73\u5340\u6d77\u982d\u91cc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0033198,
+            "lng": 120.1600612
+        },
+        "rating": 4
+    },
+    {
+        "id": "ChIJ12hEiBt2bjQRIPCZCMYAzws",
+        "name": "Cultural Museum of An-Ping Oyster Shell Cement Kitn",
+        "address": "No. 110\u4e4b1\u865f, Anbei Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0023418,
+            "lng": 120.1649846
+        },
+        "rating": 3.9,
+        "rating_n": 353,
+        "international_phone_number": "+886 6 228 6836"
+    },
+    {
+        "id": "ChIJdRBEqXpwbjQRpbG_yecjX6c",
+        "name": "Xinhua Wude Hall",
+        "address": "No. 53, Heping St, Xinhua District, Tainan City, Taiwan 712",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0332886,
+            "lng": 120.3088056
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 590 2192"
+    },
+    {
+        "id": "ChIJT7HdIy9xbjQRDhKFY7jxvW4",
+        "name": "\u6c38\u5eb7\u5927\u7063 \u51cc\u9704\u5bf6\u6bbf \u6b66\u9f8d\u5bae (\u5927\u7063\u5929\u516c\u5edf)",
+        "address": "No. 8, Lane 103, Section 2, Yongda Rd, Yongkang District, Tainan City, Taiwan 710",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0046937,
+            "lng": 120.2600433
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 272 8329"
+    },
+    {
+        "id": "ChIJlTx8BXBwbjQR-TpLXwGpFlM",
+        "name": "Japanese Dormitory Area",
+        "address": "No. 1\u865f, Lane 45, Heping St, Xinhua District, Tainan City, Taiwan 712",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0334694,
+            "lng": 120.3095124
+        },
+        "rating": 4.1,
+        "rating_n": 1075
+    },
+    {
+        "id": "ChIJNRMlkGJ2bjQRnOBmrqL9MhM",
+        "name": "Tainan City Fire Museum",
+        "address": "No. 2-1\u865f, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.992481,
+            "lng": 120.2042585
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 297 5119#2202"
+    },
+    {
+        "id": "ChIJrd8RLaF7bjQRFqhHZLmQ3mY",
+        "name": "Southern Taiwan Science Park",
+        "address": "No. 22\u865f, Nanke 3rd Rd, Xinshi District, Tainan City, Taiwan 744",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1012681,
+            "lng": 120.2822156
+        },
+        "rating": 4.1,
+        "rating_n": 287,
+        "international_phone_number": "+886 6 505 1001"
+    },
+    {
+        "id": "ChIJyxRrmll_bjQRnF21zrChpBM",
+        "name": "\u5317\u982d\u6d0b\u6587\u5316\u9928",
+        "address": "722, Taiwan, Tainan City, Jiali District, 66\u4e4b1\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.17295,
+            "lng": 120.163718
+        },
+        "rating": 3.8,
+        "rating_n": 246,
+        "international_phone_number": "+886 6 723 8352"
+    },
+    {
+        "id": "ChIJoUzm92BgbjQRvcVUw2cTx7I",
+        "name": "\u9f9c\u4e39\u6c34\u54e5\u6eab\u6cc9\u5340 | \u9f9c\u4e39\u4f11\u9592\u9ad4\u9a57\u8fb2\u5712-\u6eab\u6cc9\u6c11\u5bbf | \u4eff\u91ce\u6eaa\u539f\u77f3\u8a2d\u8a08\u6eab\u6cc9\u5340 HOT-SPRING RESORT",
+        "address": "715, Taiwan, Tainan City, Nanxi District, \u9f9c\u4e39\u91cc59-6\u865f",
+        "types": [
+            "lodging",
+            "spa",
+            "health",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1332261,
+            "lng": 120.507005
+        },
+        "rating": 3.7,
+        "rating_n": 750,
+        "international_phone_number": "+886 933 674 272"
+    },
+    {
+        "id": "ChIJozwI6jGUbjQRrWmv7pPV7O4",
+        "name": "Xi Market",
+        "address": "700, Taiwan, Tainan City, West Central District, Section 2, Ximen Rd, \u8207\u865f\u6b63\u8208\u8857\u4ea4\u754c",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9938223,
+            "lng": 120.1987838
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 220 6396"
+    },
+    {
+        "id": "ChIJc59C3WJ2bjQRVygOhjvshXU",
+        "name": "\u65e5\u672c\u52e7\u696d\u9280\u884c\u53f0\u5357\u652f\u5e97\u820a\u5740",
+        "address": "No. 26\u865f, Thng Tik-tsiong Blvd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9922571,
+            "lng": 120.2033461
+        },
+        "rating": 4.2
+    },
+    {
+        "id": "ChIJeVsPYSBkbjQR_J7uUGd6mgc",
+        "name": "\u7389\u4e95\u767d\u8272\u6559\u5802",
+        "address": "714002, Taiwan, Tainan City, Yujing District, \u5c64\u67971\u4e4b7\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.089822,
+            "lng": 120.4552767
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 574 9300"
+    },
+    {
+        "id": "ChIJ7XVVmqR8bjQRNtgZ_hN5Hik",
+        "name": "\u6a39\u8c37\u8fb2\u5834",
+        "address": "No. 12\u865f, Zhongxin E Rd, Xinshi District, Tainan City, Taiwan 701",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1037206,
+            "lng": 120.2632225
+        },
+        "rating": 4.3,
+        "rating_n": 2534,
+        "international_phone_number": "+886 6 589 4800"
+    },
+    {
+        "id": "ChIJ43ox61OMbjQRWTzz-scHhVk",
+        "name": "\u516d\u91cd\u6eaa\u5343\u971e\u5712\u6eab\u6cc9\u6c11\u5bbf",
+        "address": "732, Taiwan, Tainan City, Baihe District, 123\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3127509,
+            "lng": 120.4779632
+        },
+        "rating": 4.2,
+        "rating_n": 442,
+        "international_phone_number": "+886 6 684 2668"
+    },
+    {
+        "id": "ChIJaRtsqlOFbjQR3GHs1Nui-aI",
+        "name": "Holy Cross Catholic Church",
+        "address": "731, Taiwan, Tainan City, Houbi District, \u58a8\u6797\u91cc\u83c1\u5bee294\u4e4b1\u865f",
+        "types": [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3783163,
+            "lng": 120.3398049
+        },
+        "rating": 4.5,
+        "rating_n": 438,
+        "international_phone_number": "+886 6 636 1881"
+    },
+    {
+        "id": "ChIJDR9Px_WIbjQR3waxcQXJD5k",
+        "name": "\u9673\u6c38\u83ef\u5c07\u8ecd\u53e4\u5893",
+        "address": "Liuying District, Tainan City, Taiwan 736",
+        "types": [
+            "cemetery",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2473736,
+            "lng": 120.371124
+        },
+        "rating": 4,
+        "rating_n": 85
+    },
+    {
+        "id": "ChIJVWKc3x-JbjQRTgTzOWXq-og",
+        "name": "Jianshanpi Jiangnan Resort",
+        "address": "Jianshanpi Jiangnan Resort, Liuying District, Tainan City, Taiwan 736",
+        "types": [
+            "premise"
+        ],
+        "coordinates": {
+            "lat": 23.261111,
+            "lng": 120.389722
+        }
+    },
+    {
+        "id": "ChIJNS_bQh12bjQR0zCw6v9w6Qg",
+        "name": "\u738b\u96de\u5c4e\u6d0b\u6a13",
+        "address": "No. 2, Lane 35, Guosheng Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0009421,
+            "lng": 120.1596829
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 295 1915"
+    },
+    {
+        "id": "ChIJ-TaudY52bjQR8tVca6KX0FU",
+        "name": "Old Tainan Minister Residence",
+        "address": "No. 2\u865f, Lane 197, Yule St, East District, Tainan City, Taiwan 701",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9933382,
+            "lng": 120.2150235
+        },
+        "rating": 4.3
+    },
+    {
+        "id": "ChIJ9wYNoyuFbjQRkZF6IqG8f0Y",
+        "name": "\u81fa\u5357\u5e02\u653f\u5e9c\u6c11\u6cbb\u5e02\u653f\u4e2d\u5fc3",
+        "address": "No. 36\u865f, Minzhi Rd, Xinying District, Tainan City, Taiwan 73001",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.311499,
+            "lng": 120.3147642
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 6 632 2231"
+    },
+    {
+        "id": "ChIJDYTDVLV9bjQRRaS7WWSb610",
+        "name": "\u6df1\u7de3\u53ca\u6c34\u5584\u7cd6\u6587\u5316\u5712\u5340",
+        "address": "741, Taiwan, Tainan City, Shanhua District, 228\u865f",
+        "types": [
+            "bakery",
+            "tourist_attraction",
+            "restaurant",
+            "museum",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1538096,
+            "lng": 120.2897123
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 581 5057"
+    },
+    {
+        "id": "ChIJ9zrP9DRxbjQRXD-gexcY8_k",
+        "name": "\u5d11\u5c71\u6e56",
+        "address": "710, Taiwan, \u53f0\u5357\u5e02\u6c38\u5eb7\u5340\u5d11\u5c71\u6e56",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9950179,
+            "lng": 120.2539772
+        },
+        "rating": 4.6
+    },
+    {
+        "id": "ChIJmV0Aq4Z3bjQRnpoOjy0RzRc",
+        "name": "\u539f\u81fa\u5357\u795e\u5b78\u6821\u6821\u820d\u66a8\u79ae\u62dc\u5802",
+        "address": "701, Taiwan, Tainan City, East District, 701",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9891731,
+            "lng": 120.2140549
+        },
+        "international_phone_number": "+886 6 221 3597"
+    },
+    {
+        "id": "ChIJyRuHhv5xbjQReNNOKF0byaY",
+        "name": "\u5927\u6f6d\u57e4",
+        "address": "718, Taiwan, \u53f0\u5357\u5e02\u95dc\u5edf\u5340\u5927\u6f6d\u57e4",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9562628,
+            "lng": 120.3403076
+        },
+        "rating": 4,
+        "rating_n": 4
+    },
+    {
+        "id": "ChIJ77e_NH12bjQRvE_q25BxhpU",
+        "name": "\u8449\u77f3\u6fe4\u6587\u5b78\u7d00\u5ff5\u9928",
+        "address": "No. 8-3\u865f, You'ai St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.99071989999999,
+            "lng": 120.2035432
+        },
+        "rating": 4.4,
+        "rating_n": 473,
+        "international_phone_number": "+886 6 221 5065"
+    },
+    {
+        "id": "ChIJnfrSER12bjQRtbLFKgpnJJg",
+        "name": "Zeelandia City Museum",
+        "address": "No. 82, Guosheng Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0012583,
+            "lng": 120.16017
+        },
+        "rating": 4.3,
+        "rating_n": 181,
+        "international_phone_number": "+886 6 226 7348"
+    },
+    {
+        "id": "ChIJ1c0TKiDZbTQRs6d5TrlH5Yo",
+        "name": "Luermen Zhengmen Temple",
+        "address": "709, Taiwan, Tainan City, Annan District, \u5abd\u7956\u5bae\u4e00\u8857345\u5df7420\u865f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0210715,
+            "lng": 120.1102404
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 284 1162"
+    },
+    {
+        "id": "ChIJLW7bNO-AbjQRPM1IeoBU3Lc",
+        "name": "\u9e7d\u6c34\u5927\u8c50\u5357\u5929\u5bae",
+        "address": "737, Taiwan, Tainan City, Yanshui District, 88\u865f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2641167,
+            "lng": 120.2223452
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 655 1670"
+    },
+    {
+        "id": "ChIJg5nw30KGbjQRtoEMdZbHHVM",
+        "name": "\u5289\u555f\u7965\u7f8e\u8853\u7d00\u5ff5\u9928",
+        "address": "No. 112\u865f, Section 3, Zhongshan W Rd, Liuying District, Tainan City, Taiwan 736",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.276868,
+            "lng": 120.3103357
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 622 7168"
+    },
+    {
+        "id": "ChIJUW4KDlOFbjQRr8TVh2FJ7fQ",
+        "name": "\u91d1\u5fb7\u8208\u4e2d\u85e5\u92ea",
+        "address": "731, Taiwan, Tainan City, Houbi District, \u58a8\u6797\u91cc\u83c1\u5bee191\u865f",
+        "types": [
+            "home_goods_store",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3793091,
+            "lng": 120.3359712
+        },
+        "rating": 4.4,
+        "rating_n": 172,
+        "international_phone_number": "+886 6 662 1261"
+    },
+    {
+        "id": "ChIJ63i9g8eHbjQR9kvlih0YJQI",
+        "name": "Linfengying railway station",
+        "address": "Liujia District, Tainan City, Taiwan 734",
+        "types": [
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.242592,
+            "lng": 120.320972
+        },
+        "rating": 4.4
+    },
+    {
+        "id": "ChIJwSmAO3mGbjQRwGjYxTmZsUU",
+        "name": "\u9577\u52dd\u71df\u5340\u7da0\u8272\u96a7\u9053",
+        "address": "No. 200\u865f, Jianye Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2985471,
+            "lng": 120.305181
+        },
+        "rating": 4
+    },
+    {
+        "id": "ChIJ49Jgzox2bjQRfZykquXqmok",
+        "name": "\u539f\u81fa\u7063\u7e3d\u7763\u5e9c\u5c08\u8ce3\u5c40\u81fa\u5357\u652f\u5c40\u81fa\u5357\u51fa\u5f35\u6240",
+        "address": "0No. 16\u865f, Section 2, Beimen Rd, East District, Tainan City, Taiwan 70146",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9990247,
+            "lng": 120.2128868
+        },
+        "rating": 3.4,
+        "international_phone_number": "+886 6 222 2681"
+    },
+    {
+        "id": "ChIJ6YZOneGHbjQRBxeW2Trhym0",
+        "name": "\u8001\u725b\u7684\u5bb6",
+        "address": "736, Taiwan, Tainan City, Liuying District, \u65b0\u539d102\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2636472,
+            "lng": 120.3414973
+        },
+        "rating": 4.6,
+        "rating_n": 96,
+        "international_phone_number": "+886 6 632 6301"
+    },
+    {
+        "id": "ChIJf_RR6piMbjQRtJvQ9YyO_lc",
+        "name": "Kantoushan",
+        "address": "Dongshan District, Tainan City, Taiwan 733",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2659169,
+            "lng": 120.5045708
+        },
+        "rating": 4.3,
+        "rating_n": 441
+    },
+    {
+        "id": "ChIJ4-zFi4p0bjQRX7gvMqcTdG0",
+        "name": "\u53f0\u7063Holocaust\u548c\u5e73\u7d00\u5ff5\u9928",
+        "address": "No. 598\u865f, Section 1, Wenxian Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "church",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9303884,
+            "lng": 120.230898
+        },
+        "rating": 3.3,
+        "international_phone_number": "+886 6 266 2758"
+    },
+    {
+        "id": "ChIJocbCwYeSbjQRQkCEHASXHJM",
+        "name": "Pai-ho Reservoir",
+        "address": "Pai-ho Reservoir, Baihe District, Tainan City, Taiwan 732",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3583861,
+            "lng": 120.4840043
+        },
+        "rating": 4,
+        "rating_n": 58
+    },
+    {
+        "id": "ChIJeWAFzcF5bjQRdWFhcALbB1o",
+        "name": "\u91d1\u7345\u50b3\u8aaa\u9673\u5bb6\u53e4\u539d",
+        "address": "723, Taiwan, \u53f0\u5357\u5e02\u897f\u6e2f\u5340\u6e2f\u6771\u91cc",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.127156,
+            "lng": 120.219724
+        },
+        "rating": 4.7,
+        "rating_n": 10
+    },
+    {
+        "id": "ChIJh5agWThvbjQR-2iyG7cux_g",
+        "name": "\u8981\u6708\u6a4b",
+        "address": "Yaoyue Bridge Parking Lot, Zuozhen District, Tainan City, Taiwan 713",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0049101,
+            "lng": 120.4310299
+        },
+        "rating": 3.9
+    },
+    {
+        "id": "ChIJD7w8M05xbjQRQBLQBXO4PBA",
+        "name": "\u4e9e\u529b\u5c71\u5927\u8774\u8776\u751f\u614b\u6559\u80b2\u8fb2\u5834",
+        "address": "No. 26\u865f, Lane 38, Zhongyiyi St, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9797361,
+            "lng": 120.2598472
+        },
+        "rating": 4.3,
+        "rating_n": 626,
+        "international_phone_number": "+886 936 982 214"
+    },
+    {
+        "id": "ChIJJ3BRZsBwbjQRnac2vJU1Vc0",
+        "name": "\u5927\u5730\u5316\u77f3\u7926\u77f3\u535a\u7269\u9928",
+        "address": "No. 38\u865f, Alley 24, Lane 499, Zhongshan N Rd, Yongkang District, Tainan City, Taiwan 710",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0341072,
+            "lng": 120.271823
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 232 8026"
+    },
+    {
+        "id": "ChIJ9w0mR-eFbjQRDls3tCmOorc",
+        "name": "Xinying Tai-suger railway cultural Park",
+        "address": "No. 57, Xinjin Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3010445,
+            "lng": 120.3177263
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJm0DtKmR2bjQRfdtZDkGqHaU",
+        "name": "Jinhua Temple",
+        "address": "700, Taiwan, Tainan City, West Central District, \u795e\u8fb2\u885771\u865f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.997391,
+            "lng": 120.196582
+        },
+        "rating": 4.5,
+        "rating_n": 85,
+        "international_phone_number": "+886 6 228 8374"
+    },
+    {
+        "id": "ChIJcxQjWGB2bjQRzHUEdnV6T0I",
+        "name": "Kaiji Tianhou Temple",
+        "address": "No. 12\u865f, Ziqiang St, North District, Tainan City, Taiwan 704",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9996822,
+            "lng": 120.2025568
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 229 4911"
+    },
+    {
+        "id": "ChIJ0a4HYZFibjQR4BAOVczxlxw",
+        "name": "Tainan National University of the Arts",
+        "address": "72045, Taiwan, Tainan City, Guantian District, \u5927\u5d0e66\u865f",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1859633,
+            "lng": 120.3743025
+        },
+        "rating": 4.4,
+        "rating_n": 497,
+        "international_phone_number": "+886 6 693 0100"
+    },
+    {
+        "id": "ChIJQZZ5kTN6bjQRlmUnJCqxHXg",
+        "name": "Xingang Community Culture Museum",
+        "address": "No. 3\u865f, Daoye Rd, Xinshi District, Tainan City, Taiwan 744",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0917929,
+            "lng": 120.2675371
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 589 7603"
+    },
+    {
+        "id": "ChIJP1WCZvJ2bjQRYpLyro4gxRg",
+        "name": "\u570b\u7acb\u6210\u529f\u5927\u5b78\u53f0\u7063\u6587\u5b78\u7cfb\u9928 \u539f\u65e5\u8ecd\u81fa\u5357\u885b\u620d\u75c5\u9662",
+        "address": "701, Taiwan, Tainan City, North District, \u5c0f\u6771\u8def25\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.002125,
+            "lng": 120.2155831
+        },
+        "rating": 4.8,
+        "rating_n": 22,
+        "international_phone_number": "+886 6 275 7575#52600"
+    },
+    {
+        "id": "ChIJAQAAALCKbjQRbSf125IYb6o",
+        "name": "\u6c38\u8208\u540a\u6a4b",
+        "address": "715, Taiwan, \u53f0\u5357\u5e02\u6960\u897f\u5340\u4e2d\u8208\u8def\u4e0a",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1849701,
+            "lng": 120.4800701
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 6 575 1615#26"
+    },
+    {
+        "id": "ChIJRTLTlyB9bjQR0F9LrFwMu8M",
+        "name": "\u81fa\u5357\u9d28\u838a\u4f11\u9592\u8fb2\u5834",
+        "address": "72044, Taiwan, Tainan City, Guantian District, \u4e09\u584a\u539d\u6bb5178-1\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1533334,
+            "lng": 120.3460688
+        },
+        "rating": 3.8,
+        "rating_n": 1354,
+        "international_phone_number": "+886 6 690 1101"
+    },
+    {
+        "id": "ChIJ7xZsWUN0bjQROd2a4bo2vRY",
+        "name": "\u4ec1\u5fb7\u5341\u4e09\u7532\u6b66\u5fb7\u5bae",
+        "address": "No. 90, Lane 81, Section 1, Wenxian Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9446001,
+            "lng": 120.2226648
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 366 0852"
+    },
+    {
+        "id": "ChIJtUf1c9_UbTQRY9Plji-DBAQ",
+        "name": "\u5317\u9580\u4e09\u5bee\u7063\u6771\u9686\u5bae",
+        "address": "727, Taiwan, Tainan City, Beimen District, 95\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2387484,
+            "lng": 120.1118241
+        },
+        "rating": 4.5,
+        "rating_n": 262,
+        "international_phone_number": "+886 6 785 0135"
+    },
+    {
+        "id": "ChIJv6GUA4CKbjQR583NJvaIrjk",
+        "name": "\u6960\u897f\u5317\u6975\u6bbf",
+        "address": "No. 102, Minzu Rd, Nanxi District, Tainan City, Taiwan 715",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1783204,
+            "lng": 120.4826634
+        },
+        "rating": 4.4,
+        "rating_n": 37,
+        "international_phone_number": "+886 6 575 1036"
+    },
+    {
+        "id": "ChIJz9R-fA9hbjQR69xOqRz_1uE",
+        "name": "\u7389\u4e95\u5317\u6975\u6bbf",
+        "address": "No. 102\u865f, Zhongzheng Rd, Yujing District, Tainan City, Taiwan 714",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1241954,
+            "lng": 120.4616329
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 574 3788"
+    },
+    {
+        "id": "ChIJ1VfkMoz1bjQRqzf8H4aTU-c",
+        "name": "\u6885\u5dba\u795e\u79d8\u6c23\u5834\u9732\u71df\u5340",
+        "address": "715, Taiwan, Tainan City, Nanxi District, \u9999\u8549\u5c7151\u4e4b6\u865f",
+        "types": [
+            "campground",
+            "park",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1743825,
+            "lng": 120.543001
+        },
+        "rating": 4.2,
+        "rating_n": 156,
+        "international_phone_number": "+886 933 914 636"
+    },
+    {
+        "id": "ChIJtQdS6n12bjQRAXt7w-zdo-U",
+        "name": "Tainan Film Centre",
+        "address": "No. 38\u865f, Nanmen Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9862839,
+            "lng": 120.2037856
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 215 0851"
+    },
+    {
+        "id": "ChIJZR0yhvF0bjQRV5nYGyNDtgY",
+        "name": "\u81fa\u5357\u5bb6\u5177\u7522\u696d\u535a\u7269\u9928",
+        "address": "No. 50\u865f, Lane 315, Section 1, Erren Rd, Rende District, Tainan City, Taiwan 71755",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9239449,
+            "lng": 120.2220637
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 266 1193"
+    },
+    {
+        "id": "ChIJ9ykAlxZubjQRzS1ptwbmGUU",
+        "name": "\u9f8d\u5d0e\u5340\u8fb2\u6703\u7af9\u70ad\u6545\u4e8b\u9928",
+        "address": "719, Taiwan, Tainan City, Longci District, \u5d0e\u9802\u91cc\u65b0\u5e02\u5b5049\u865f",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9646343,
+            "lng": 120.3601743
+        },
+        "rating": 4,
+        "rating_n": 302,
+        "international_phone_number": "+886 6 594 0463"
+    },
+    {
+        "id": "ChIJP03l3hx2bjQRy9TGtn5FMOk",
+        "name": "\u5b89\u5e73\u9109\u571f\u6587\u5316\u9928",
+        "address": "No. 64, Guanyin St, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0003407,
+            "lng": 120.1623346
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 229 5948"
+    },
+    {
+        "id": "ChIJPe4nHQB3bjQRDDLk1c3XB7Y",
+        "name": "\u5927\u4e95\u982d",
+        "address": "No. 202\u865f, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9954348,
+            "lng": 120.2016668
+        }
+    },
+    {
+        "id": "ChIJi3Dt2exkbjQReq1BNzcnWFw",
+        "name": "Orchid Botanical Garden",
+        "address": "743, Taiwan, Tainan City, Shanshang District, 11-2\u865f",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0935156,
+            "lng": 120.3743753
+        },
+        "rating": 4.2,
+        "rating_n": 573,
+        "international_phone_number": "+886 6 578 1358"
+    },
+    {
+        "id": "ChIJUfuGuxqEbjQRr75909VeTy4",
+        "name": "Yanshui Dazhong Temple",
+        "address": "No. 7\u865f, Wumiao Rd, Yanshui District, Tainan City, Taiwan 737",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3206019,
+            "lng": 120.2640033
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 652 2205"
+    },
+    {
+        "id": "ChIJfZGIkQZ2bjQR9LlJZy4VTmI",
+        "name": "\u53f0\u5357\u5e02\u6d88\u9632\u5c40\u9632\u707d\u6559\u80b2\u9928",
+        "address": "No. 898\u865f, Section 2, Yonghua Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.991986,
+            "lng": 120.1667374
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 297 5119"
+    },
+    {
+        "id": "ChIJR_cdaH12bjQRFsW-VfCZpiQ",
+        "name": "License Art Gallery",
+        "address": "No. 191\u4e4b2\u865f, Section 1, Zhongzheng N Rd, Guiren District, Tainan City, Taiwan 711004",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9736754,
+            "lng": 120.2958539
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 213 1897"
+    },
+    {
+        "id": "ChIJNZJEZfF2bjQRDWpzm4tBYSg",
+        "name": "Tainan Second Senior High School",
+        "address": "No. 125\u865f, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",
+        "types": [
+            "secondary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0044574,
+            "lng": 120.2125556
+        },
+        "rating": 4,
+        "rating_n": 279,
+        "international_phone_number": "+886 6 251 4526"
+    },
+    {
+        "id": "ChIJOwQWTmJ2bjQRARSVFDSTQdU",
+        "name": "\u9673\u5fb7\u805a\u5802",
+        "address": "No. 20\u865f, Lane 152, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9942062,
+            "lng": 120.2020749
+        },
+        "rating": 4.4
+    },
+    {
+        "id": "ChIJsfObdQZjbjQRaPVBS4PJQoo",
+        "name": "\u592a\u4e0a\u9f8d\u982d\u5fe0\u7fa9\u5edf",
+        "address": "Danei District, Tainan City, Taiwan 742",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1478585,
+            "lng": 120.3839846
+        },
+        "rating": 4.5,
+        "rating_n": 29
+    },
+    {
+        "id": "ChIJ7-_FKkCIbjQR11a2wB5C2LQ",
+        "name": "Liujia Zhennan Temple",
+        "address": "No. 2\u865f, Gongyan Rd, Liujia District, Tainan City, Taiwan 73445",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2208652,
+            "lng": 120.3660019
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 698 2464"
+    },
+    {
+        "id": "ChIJcxQoxWV2bjQRAh8zH0kBGFA",
+        "name": "\u63a5\u5b98\u4ead",
+        "address": "No. 8, Lane 143, Section 3, Minquan Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9970193,
+            "lng": 120.1957053
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 227 7540"
+    },
+    {
+        "id": "ChIJBxuMfIV2bjQRrKGgBy0TI3s",
+        "name": "\u81fa\u5357-\u516b\u5354\u5883 \u5f4c\u9640\u5bfa",
+        "address": "No. 133\u865f, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9882151,
+            "lng": 120.2144449
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 237 5292"
+    },
+    {
+        "id": "ChIJc48Xl859bjQRWAnUI4qNKfU",
+        "name": "\u9686\u7530\u9152\u5ee0-\u5317\u87f2\u8349\u6587\u5316\u5c55\u793a\u5712\u5340",
+        "address": "No. 335\u865f, Section 1, Zhonghua Rd, Guantian District, Tainan City, Taiwan 720",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1966606,
+            "lng": 120.3219682
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 6 579 1311"
+    },
+    {
+        "id": "ChIJAaNr2HhxbjQRK8bxNrTcI70",
+        "name": "\u6b78\u4ec1\u7f8e\u5b78\u9928",
+        "address": "No. 568\u865f, Section 1, Zhongshan Rd, Guiren District, Tainan City, Taiwan 711",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9670492,
+            "lng": 120.2947307
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 230 1518#309"
+    },
+    {
+        "id": "ChIJc2Q53VfWbTQRoyTKcrRZ1GY",
+        "name": "Longshan fishing port",
+        "address": "724, Taiwan, Tainan City, Qigu District, \u9f8d\u5c71\u91cc95\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1374684,
+            "lng": 120.1134778
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 787 1511"
+    },
+    {
+        "id": "ChIJJRuP-eaPbjQRJyG8xMedvcM",
+        "name": "Kaduoliya good food Storyland",
+        "address": "731, Taiwan, Tainan City, Houbi District, 42-27\u865f",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3592418,
+            "lng": 120.3586483
+        },
+        "rating": 3.3,
+        "rating_n": 419,
+        "international_phone_number": "+886 6 687 4762"
+    },
+    {
+        "id": "ChIJ46XoJFLfbTQR5x8Rb-_ALHc",
+        "name": "\u539f\u5b89\u5e73\u6e2f\u5c0e\u6d41\u5824\u5357\u5824",
+        "address": "Taiwan",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9864433,
+            "lng": 120.1493212
+        },
+        "rating": 4.4
+    },
+    {
+        "id": "ChIJF5KZBKjYbTQRLLXieeGp66c",
+        "name": "Anping Small Fort",
+        "address": "Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.999488,
+            "lng": 120.158507
+        },
+        "rating": 4,
+        "international_phone_number": "+886 6 229 0313"
+    },
+    {
+        "id": "ChIJyyovpZp2bjQRqiyIZakNe3k",
+        "name": "\u81fa\u7063\u5e9c\u57ce-\u6771\u9580\u57ce(\u8fce\u6625\u9580\u3001\u6771\u5b89\u9580)",
+        "address": "No. 243, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9869745,
+            "lng": 120.2174617
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 221 3597"
+    },
+    {
+        "id": "ChIJR1UTc8l9bjQRTYcJq25H0LI",
+        "name": "\u9ebb\u8c46\u5409\u5712\u4f11\u9592\u8fb2\u5834",
+        "address": "721, Taiwan, Tainan City, Madou District, 104-1\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1874195,
+            "lng": 120.2708291
+        },
+        "rating": 4.6,
+        "rating_n": 188,
+        "international_phone_number": "+886 960 056 269"
+    },
+    {
+        "id": "ChIJnUL_unpwbjQRkFgOQxYg18I",
+        "name": "\u65b0\u5316\u8607\u5bb6\u53e4\u539d",
+        "address": "No. 341\u5df731\u865f, Zhongzheng Rd, \u65b0\u5316\u5340\u53f0\u5357\u5e02 Taiwan 712",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0341479,
+            "lng": 120.3076698
+        },
+        "rating": 4.4,
+        "rating_n": 66,
+        "international_phone_number": "+886 921 567 711"
+    },
+    {
+        "id": "ChIJGb-EUXSIbjQR7i6m54ksMR4",
+        "name": "\u6797\u9cf3\u71df\u84ee\u82b1\u4e16\u754c",
+        "address": "734, Taiwan, Tainan City, Liujia District, \u6797\u9cf3\u71df109\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.245076,
+            "lng": 120.3177679
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 698 2820"
+    },
+    {
+        "id": "ChIJfYU1LaXYbTQRa32oMpF9EqE",
+        "name": "\u9e7d\u6c34\u6eaa\u53e3\u6fd5\u5730",
+        "address": "709, Taiwan, Tainan City, Annan District, \u5e9c\u5b89\u8def\u4e03\u6bb5",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0031386,
+            "lng": 120.1425234
+        },
+        "rating": 4.5,
+        "rating_n": 206,
+        "international_phone_number": "+886 6 284 2600"
+    },
+    {
+        "id": "ChIJnSRIvEt_bjQRAy8et3loh0A",
+        "name": "Jiali Zhengxing Temple",
+        "address": "722, Taiwan, Tainan City, Jiali District, \u79ae\u5316325\u865f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1910774,
+            "lng": 120.188473
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 726 0348"
+    },
+    {
+        "id": "ChIJAf4yZXBwbjQRGD6Bhg7jNU4",
+        "name": "\u65b0\u5316\u5929\u58c7\u8b77\u5b89\u5bae",
+        "address": "No. 42, Huan St, Xinhua District, Tainan City, Taiwan 712",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0351651,
+            "lng": 120.309548
+        },
+        "rating": 4.3,
+        "rating_n": 44,
+        "international_phone_number": "+886 6 590 5563"
+    },
+    {
+        "id": "ChIJrx3iqWJ2bjQRiBcwUBqAvMQ",
+        "name": "Chianan Irrigation Association",
+        "address": "No. 25, You'ai St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9906784,
+            "lng": 120.2049954
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 220 0622"
+    },
+    {
+        "id": "ChIJdYCtQFCHbjQRTZsiq-IXVjk",
+        "name": "\u4e0b\u71df\u4e0a\u5e1d\u5edf\u6587\u7269\u9928",
+        "address": "720, Taiwan, Tainan City, Xiaying District, \u4e2d\u5c71\u8def\u4e00\u6bb51\u865f",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2349368,
+            "lng": 120.2610051
+        },
+        "rating": 4.7,
+        "rating_n": 42,
+        "international_phone_number": "+886 6 689 2362"
+    },
+    {
+        "id": "ChIJD8qPQZp2bjQRgFz7GLhkHVo",
+        "name": "\u5e9c\u57ce\u516b\u5354\u5883\u9f8d\u5c71\u5bfa(\u89c0\u97f3\u83e9\u85a9)",
+        "address": "No. 27, Lane 134, Section 2, Dongmen Rd, East District, Tainan City, Taiwan 70157",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9855608,
+            "lng": 120.2205771
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 237 8657"
+    },
+    {
+        "id": "ChIJJUmMQojVbTQRq-wzKLZywZY",
+        "name": "Shiang Yu Museum",
+        "address": "725, Taiwan, Tainan City, Jiangjun District, \u9577\u69ae182 \u865f",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.192181,
+            "lng": 120.1569973
+        },
+        "rating": 4,
+        "international_phone_number": "+886 6 794 4823"
+    },
+    {
+        "id": "ChIJP-Lxh2F2bjQRq8U-a3PehZ4",
+        "name": "\u9996\u8cb3\u5883\u842c\u798f\u5eb5",
+        "address": "No. 5\u865f, Lane 317, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9961864,
+            "lng": 120.2029276
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 220 0508"
+    },
+    {
+        "id": "ChIJc5KTlmF2bjQR5OUbW5ybFcA",
+        "name": "\u660e\u671d\u9996\u5efa\u4e0a\u5e1d\u5edf \u958b\u57fa\u9748\u7950\u5bae",
+        "address": "No. 86\u865f, Chikan E St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9980606,
+            "lng": 120.2038944
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 228 6476"
+    },
+    {
+        "id": "ChIJMyvDvbSNbjQRDd8NlD4-4Nk",
+        "name": "\u516d\u91cd\u6eaa\u5e73\u57d4\u6587\u5316\u5712\u5340",
+        "address": "Baihe District, Tainan City, Taiwan 732",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.31288349999999,
+            "lng": 120.4626355
+        },
+        "rating": 4.2,
+        "rating_n": 89
+    },
+    {
+        "id": "ChIJZ4FKmHlxbjQRgGlHpHolXjk",
+        "name": "Guiren Renshou Temple",
+        "address": "No. 16\u865f, Section 2, Wenhua St, Guiren District, Tainan City, Taiwan 711",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.969858,
+            "lng": 120.2929252
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 230 6568"
+    },
+    {
+        "id": "ChIJ-dHtmetxbjQRkuhDUeQUFqQ",
+        "name": "\u6b50\u5a01\u96fb\u5f71\u7d00\u5ff5\u9928",
+        "address": "No. 488\u865f, Zhongzheng Rd, \u65b0\u5316\u5340\u53f0\u5357\u5e02 Taiwan 712",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0378948,
+            "lng": 120.3076271
+        },
+        "rating": 3
+    },
+    {
+        "id": "ChIJTZB_NLaRbjQRWNsGNr2ZvC0",
+        "name": "\u5c07\u8ecd\u57e4\u6afb\u82b1\u9053",
+        "address": "732, Taiwan, \u53f0\u5357\u5e02\u767d\u6cb3\u5340\u5ee3\u5b89\u91cc",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3905039,
+            "lng": 120.3981218
+        },
+        "rating": 4,
+        "rating_n": 93
+    },
+    {
+        "id": "ChIJb45h91SFbjQRUa_7DT7PRt4",
+        "name": "\u58a8\u6797\u8fb2\u6751\u6587\u7269\u5c55\u793a\u9928",
+        "address": "731, Taiwan, Tainan City, Houbi District, \u58a8\u6797\u91cc\u83c1\u5bee217\u865f",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3788868,
+            "lng": 120.3366001
+        },
+        "rating": 4.4,
+        "rating_n": 37,
+        "international_phone_number": "+886 917 517 435"
+    },
+    {
+        "id": "ChIJd4dpA-F-bjQROgTt1y6qx0g",
+        "name": "\u4f73\u91cc\u5b50\u9f8d\u5edf\u6c38\u660c\u5bae",
+        "address": "No. 200\u865f, Section 3, Majia Rd, Jiali District, Tainan City, Taiwan 722",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.175594,
+            "lng": 120.2090248
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 726 2348"
+    },
+    {
+        "id": "ChIJdUTM90RmbjQR_k21FqRn0YE",
+        "name": "\u5927\u5713\u6eff\u5edf",
+        "address": "716, Taiwan, Tainan City, Nanhua District, \u5f8c\u9762, 27\u865f\u5357\u5316\u570b\u5c0f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.03994,
+            "lng": 120.466561
+        },
+        "rating": 4.4,
+        "rating_n": 43,
+        "international_phone_number": "+886 6 577 3229"
+    },
+    {
+        "id": "ChIJ9dtk_Zl2bjQR2XgxU9GDTas",
+        "name": "Tainan City West Central District Library",
+        "address": "No. 3\u865f, Tang Dezhang Blvd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "library",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9919848,
+            "lng": 120.2038622
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 225 3933"
+    },
+    {
+        "id": "ChIJTytc52OGbjQRtsDgo2Ed8n0",
+        "name": "\u5433\u6649\u6dee\u97f3\u6a02\u7d00\u5ff5\u9928",
+        "address": "No. 158\u865f, Jiehe Rd, Liuying District, Tainan City, Taiwan 736",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2870417,
+            "lng": 120.3017169
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 622 3291"
+    },
+    {
+        "id": "ChIJV3wPomd7bjQRZUy6YrSpaRA",
+        "name": "Da-Ann Exploration Park",
+        "address": "741, Taiwan, Tainan City, Shanhua District, 350\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1184099,
+            "lng": 120.3191243
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 583 2248"
+    },
+    {
+        "id": "ChIJIRV4nD5xbjQRXgAaIOpRio4",
+        "name": "\u5cb3\u738b\u5edf",
+        "address": "No. 64\u865f, Taizi Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9921086,
+            "lng": 120.270542
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 271 4884"
+    },
+    {
+        "id": "ChIJPyzxpPeObjQR3sGPdWRkFX4",
+        "name": "\u5496\u5561\u6587\u5316\u9928 - \u6771\u5c71\u5340\u8fb2\u6703",
+        "address": "No. 1, Zhongxing Rd, Dongshan District, Tainan City, Taiwan 733",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.321935,
+            "lng": 120.403114
+        },
+        "rating": 3.8,
+        "rating_n": 102,
+        "international_phone_number": "+886 6 680 1917"
+    },
+    {
+        "id": "ChIJpyOnoIh2bjQRTb1SdA2Y_hw",
+        "name": "\u6771\u5b89\u574a\u6587\u660c\u7960\u907a\u5740",
+        "address": "No. 50\u5df71\u865f, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9893644,
+            "lng": 120.2097359
+        },
+        "rating": 1
+    },
+    {
+        "id": "ChIJA2xpnZJ2bjQRbOkCD2qgHqE",
+        "name": "National Cheng Kung University Museum",
+        "address": "No. 1\u865f, Dasyue Rd, East District, Tainan City, Taiwan 70101",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9967422,
+            "lng": 120.2195407
+        },
+        "rating": 4.3,
+        "rating_n": 1237,
+        "international_phone_number": "+886 6 275 7575#63020"
+    },
+    {
+        "id": "ChIJfywPVoB-bjQRx_d-l438oZg",
+        "name": "Madou District Cultural Hall",
+        "address": "No. 11\u865f, Xingguo Rd, Madou District, Tainan City, Taiwan 721",
+        "types": [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.18275269999999,
+            "lng": 120.2484048
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 571 1466#11"
+    },
+    {
+        "id": "ChIJuR-nlol2bjQRb5Z0xKyK0Kw",
+        "name": "\u56db\u5354\u5883\u4e03\u5a18\u5883\u958b\u9686\u5bae",
+        "address": "No. 56\u865f, Lane 79, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9942814,
+            "lng": 120.206949
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 221 2137"
+    },
+    {
+        "id": "ChIJrQnTgKWRbjQRHPPaW0m7bCs",
+        "name": "\u84ee\u6f6d\u91cc",
+        "address": "732, Taiwan, \u53f0\u5357\u5e02\u767d\u6cb3\u5340\u84ee\u6f6d\u91cc",
+        "types": [
+            "administrative_area_level_3",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 23.4016267,
+            "lng": 120.4040725
+        }
+    },
+    {
+        "id": "ChIJrQ7uSB12bjQR1SKF_oztDwU",
+        "name": "Lu Mansion",
+        "address": "No. 802\u865f, Anping Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0003092,
+            "lng": 120.1601569
+        },
+        "rating": 4.8,
+        "rating_n": 1265,
+        "international_phone_number": "+886 6 222 8763"
+    },
+    {
+        "id": "ChIJwSmAO3mGbjQRwGjYxTmZsUU",
+        "name": "\u9577\u52dd\u71df\u5340\u7da0\u8272\u96a7\u9053",
+        "address": "No. 200\u865f, Jianye Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2985471,
+            "lng": 120.305181
+        },
+        "rating": 4
+    },
+    {
+        "id": "ChIJC3iMXX12bjQRoMsHXZctJ2o",
+        "name": "\u53f0\u5357\u5fb7\u5316\u5802",
+        "address": "No. 178, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9891281,
+            "lng": 120.2060494
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 228 4532"
+    },
+    {
+        "id": "ChIJe4QQVp9wbjQRmaT07ePzwx4",
+        "name": "\u7acb\u5eb7\u4e2d\u8349\u85e5\u7522\u696d\u6587\u5316\u9928",
+        "address": "No. 29\u865f, Huangong Rd, Yongkang District, Tainan City, Taiwan 710",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.046035,
+            "lng": 120.274197
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 6 233 5356"
+    },
+    {
+        "id": "ChIJdRMl1oZ2bjQRHgeVZnzWGU4",
+        "name": "\u570b\u7acb\u53f0\u5357\u5927\u5b78 \u7d05\u6a13",
+        "address": "No. 33\u865f, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.984798,
+            "lng": 120.208033
+        },
+        "rating": 4.7
+    },
+    {
+        "id": "ChIJYe2y3Ih2bjQRiRaSYjsyqS8",
+        "name": "\u6771\u83dc\u5e02",
+        "address": "No. 26, Lane 164, Qingnian Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9913749,
+            "lng": 120.2097477
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 222 0899"
+    },
+    {
+        "id": "ChIJ8aCPEbFubjQRJvNan1utznU",
+        "name": "\u9f8d\u8239\u7aa9",
+        "address": "719, Taiwan, \u53f0\u5357\u5e02\u9f8d\u5d0e\u5340\u9f8d\u8239\u7aa9",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 22.946935,
+            "lng": 120.428167
+        }
+    },
+    {
+        "id": "ChIJcevb3AWFbjQRkezqt4GuWpE",
+        "name": "\u5f0e\u5f0c\u548c\u8317\u5712",
+        "address": "No. 39\u865f, Datong Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3099554,
+            "lng": 120.32234
+        },
+        "rating": 4.8,
+        "rating_n": 121,
+        "international_phone_number": "+886 6 632 0586"
+    },
+    {
+        "id": "ChIJ1YJzM9sqbDQRf5NIicRxvyU",
+        "name": "\u4ea4\u901a\u90e8\u89c0\u5149\u7f72\u96f2\u5609\u5357\u6ff1\u6d77\u570b\u5bb6\u98a8\u666f\u5340\u7ba1\u7406\u8655",
+        "address": "727, Taiwan, Tainan City, Beimen District, \u820a\u57d5119\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2687688,
+            "lng": 120.1242113
+        },
+        "rating": 3.9,
+        "rating_n": 149,
+        "international_phone_number": "+886 6 786 1000"
+    },
+    {
+        "id": "ChIJQWUDP-12bjQR9DikaW1dJUg",
+        "name": "\u81fa\u7063\u5e9c\u57ce\u57ce\u57a3\u5c0f\u6771\u9580\u6bb5\u6b98\u8e5f",
+        "address": "No. 1\u865f, Dasyue Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9994515,
+            "lng": 120.218255
+        },
+        "rating": 4.4
+    },
+    {
+        "id": "ChIJV1MgWNiFbjQRViuDad_hINI",
+        "name": "\u65b0\u71df\u6fdf\u5b89\u5bae",
+        "address": "No. 28, Zhongyi St, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3024962,
+            "lng": 120.3109232
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 632 8255"
+    },
+    {
+        "id": "ChIJp6STAQB3bjQR3SiJxQ8nUEw",
+        "name": "\u516b\u5409\u5883\u9053\u7f72\u95dc\u5e1d\u5ef3",
+        "address": "No. 11\u865f, Lane 40, You'ai St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.991439,
+            "lng": 120.2010832
+        },
+        "rating": 5,
+        "international_phone_number": "+886 6 220 0259"
+    },
+    {
+        "id": "ChIJBaOv_pSPbjQRQqGCvh57Oag",
+        "name": "\u5f8c\u58c1\u4e0b\u8304\u82f3\u65cc\u5fe0\u5edf",
+        "address": "731, Taiwan, Tainan City, Houbi District, 69\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3516573,
+            "lng": 120.3633916
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 687 1672"
+    },
+    {
+        "id": "ChIJe4ZTPH12bjQRqSU1jHbdFhQ",
+        "name": "Zhongyi Elementary School Library (Former Tainan Shinto Shrine Office)",
+        "address": "No. 2, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "library",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9896493,
+            "lng": 120.2027102
+        },
+        "rating": 4.4,
+        "rating_n": 30,
+        "international_phone_number": "+886 6 222 2768"
+    },
+    {
+        "id": "ChIJL4dmcgCRbjQRoRBltEhxPIk",
+        "name": "\u96c5\u805e\u6e56\u6ff1\u7642\u7652\u68ee\u6797",
+        "address": "73141, Taiwan, Tainan City, Houbi District, \u91cc12\u4e4b66\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.39596869999999,
+            "lng": 120.3796834
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 688 2888"
+    },
+    {
+        "id": "ChIJ77Z_4pJ2bjQR824lbWr2DqU",
+        "name": "\u65e5\u8ecd\u81fa\u7063\u6b65\u5175\u7b2c\u4e8c\u806f\u968a\u71df\u820d\u820a\u5740",
+        "address": "No. 1\u865f, Dasyue Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9995801,
+            "lng": 120.2163898
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 275 7575"
+    },
+    {
+        "id": "ChIJm525t7x2bjQRnZ_cyVMFL4Q",
+        "name": "\u5143\u4ed4\u4fbf\u7576",
+        "address": "744, Taiwan, Tainan City, Xinshi District, 65\u4e4b18",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0887395,
+            "lng": 120.2721935
+        },
+        "rating": 4.4,
+        "rating_n": 206,
+        "international_phone_number": "+886 955 691 413"
+    },
+    {
+        "id": "ChIJV-BOozB_bjQRZOOcO-ZOgmQ",
+        "name": "\u5f7c\u7df9\u5a03\u85dd\u8853\u86cb\u7cd5\u89c0\u5149\u5de5\u5ee0",
+        "address": "722, Taiwan, Tainan City, Jiali District, \u540c\u5b89\u5bee1-1\u865f",
+        "types": [
+            "tourist_attraction",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1651482,
+            "lng": 120.1887516
+        },
+        "rating": 4,
+        "rating_n": 312,
+        "international_phone_number": "+886 6 723 6328"
+    },
+    {
+        "id": "ChIJgQ74OXaGbjQRBcY8yIq1JuA",
+        "name": "\u65b0\u71df\u771f\u6b66\u6bbf",
+        "address": "No. 112\u865f, Yanping Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2997715,
+            "lng": 120.3130878
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 632 6397"
+    },
+    {
+        "id": "ChIJq6qqqlPVbTQR9g-UQpN5jU4",
+        "name": "\u8ca1\u5718\u6cd5\u4eba\u53f0\u5357\u5b78\u7532\u4e2d\u6d32\u9673\u6842\u8a18\u5927\u5b97\u7960",
+        "address": "726, Taiwan, Tainan City, Xuejia District, \u4e2d\u6d32726\u865f15\u4e4b10\u865f",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2429558,
+            "lng": 120.1621391
+        },
+        "rating": 4.5,
+        "rating_n": 60,
+        "international_phone_number": "+886 6 783 3553"
+    },
+    {
+        "id": "ChIJrWu4i2qGbjQRpIagj-yqDUU",
+        "name": "\u67f3\u71df\u4ee3\u5929\u9662",
+        "address": "No. 362\u865f, Section 1, Zhongshan W Rd, Liuying District, Tainan City, Taiwan 736",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.278575,
+            "lng": 120.3171307
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 622 0314"
+    },
+    {
+        "id": "ChIJLYjBCux0bjQRI-bsYCZGbjM",
+        "name": "\u4e8c\u5c64\u884c\u6e05\u738b\u5bae",
+        "address": "No. 2\u865f, Xingda St, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9168339,
+            "lng": 120.223751
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 266 5445"
+    },
+    {
+        "id": "ChIJQTZz1gJ2bjQRIcaR-pdAc_A",
+        "name": "Anping Miaoshou temple",
+        "address": "No. 1, Gubao St, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9997257,
+            "lng": 120.1617074
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 220 2093"
+    },
+    {
+        "id": "ChIJRz6XnHnYbTQROB5JUOcul4c",
+        "name": "\u8173\u7684\u773c\u93e1\u8db3\u90e8\u79d1\u5b78\u9ad4\u9a57\u4e2d\u5fc3",
+        "address": "No. 23\u865f, Gongye 1st Rd, Annan District, Tainan City, Taiwan 709",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.041593,
+            "lng": 120.153986
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 238 0713#316"
+    },
+    {
+        "id": "ChIJzSc1yyLWbTQRY2-X2gW51vk",
+        "name": "\u548c\u660e\u7e54\u54c1\u6587\u5316\u9928HMTM",
+        "address": "724, Taiwan, Tainan City, Qigu District, \u5927\u57d5\u91cc\u5927\u57d5189\u865f",
+        "types": [
+            "museum",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1463283,
+            "lng": 120.1458734
+        },
+        "rating": 4.2,
+        "rating_n": 565,
+        "international_phone_number": "+886 6 787 5288"
+    },
+    {
+        "id": "ChIJBXVE67t_bjQRm5JJtdX1vds",
+        "name": "\u5b78\u7532\u5927\u7063\u6e05\u6fdf\u5bae",
+        "address": "726, Taiwan, Tainan City, Xuejia District, 19\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2126899,
+            "lng": 120.1888998
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 783 3824"
+    },
+    {
+        "id": "ChIJoyerC7lkbjQRkTbew4Hml8s",
+        "name": "Shanshang Tianhou Temple",
+        "address": "743, Taiwan, Tainan City, Shanshang District, \u5c71\u4e0a\u91cc121\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1028625,
+            "lng": 120.3576936
+        },
+        "rating": 4.6,
+        "rating_n": 224,
+        "international_phone_number": "+886 6 578 1077"
+    },
+    {
+        "id": "ChIJgb-R1bN9bjQRyJZCC0f6hiI",
+        "name": "\u5927\u9686\u7530\u751f\u614b\u6587\u5316\u5712\u5340",
+        "address": "720, Taiwan, Tainan City, Guantian District, \u516c\u6240\u5c0d\u9762",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1925836,
+            "lng": 120.3158678
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 579 1118"
+    },
+    {
+        "id": "ChIJ4ZSbcSx3bjQR3TSN6l-tcjY",
+        "name": "\u6c38\u5eb7\u4e8c\u738b\u5edf",
+        "address": "710, Taiwan, Tainan City, Yongkang District, \u4e8c\u738b\u91cc\u6c38\u4e8c\u8857395\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0194037,
+            "lng": 120.2473979
+        },
+        "rating": 4.6,
+        "rating_n": 125,
+        "international_phone_number": "+886 6 233 3215"
+    },
+    {
+        "id": "ChIJu5aLom2SbjQRH3990KP3cEo",
+        "name": "Linzinei Presbyterian Church",
+        "address": "732, Taiwan, Tainan City, Baihe District, \u6c74\u982d\u91cc\u6797\u5b50\u516725-1\u865f",
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.366291,
+            "lng": 120.4623503
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 685 7495"
+    },
+    {
+        "id": "ChIJvV-fyBt0bjQRN45Exfbt5-o",
+        "name": "\u53f0\u5357\u7af9\u7bd9\u539d\u4e0a\u5e1d\u5edf",
+        "address": "No. 28\u865f, Chengdong St, East District, Tainan City, Taiwan 70158",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9659001,
+            "lng": 120.235136
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 268 4088"
+    },
+    {
+        "id": "ChIJg_pChXB3bjQRy5EZD-F7fs8",
+        "name": "\u9999\u5149\u8056\u5802-\u6e05\u865b\u5bae",
+        "address": "Annan District, Tainan City, Taiwan 709",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0525501,
+            "lng": 120.2127726
+        },
+        "rating": 4.8,
+        "rating_n": 10,
+        "international_phone_number": "+886 6 356 1111"
+    },
+    {
+        "id": "ChIJAc8R4ed0bjQR63-RWpWmfAs",
+        "name": "\u4ec1\u5fb7\u6e2f\u5d0e\u982d\u842c\u9f8d\u5bae",
+        "address": "No. 297\u4e4b1\u865f, Xingda 1st St, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9139226,
+            "lng": 120.2166909
+        },
+        "rating": 4,
+        "rating_n": 32,
+        "international_phone_number": "+886 6 266 1137"
+    },
+    {
+        "id": "ChIJn-e0GW5vbjQRmR-nVykvIk8",
+        "name": "\u6148\u84ee\u5bfa",
+        "address": "71342, Taiwan, Tainan City, Zuozhen District, \u5ca1\u6797\u91cc10 \u865f",
+        "types": [
+            "health",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.009899,
+            "lng": 120.4028136
+        },
+        "rating": 4.5,
+        "rating_n": 175,
+        "international_phone_number": "+886 6 573 0105"
+    },
+    {
+        "id": "ChIJYxg5j-t1bjQRJu2jTIRgzuk",
+        "name": "\u65b0\u767e\u797f\u71d5\u7aa9\u89c0\u5149\u5de5\u5ee0",
+        "address": "No. 38\u865f, Xinhe Rd, South District, Tainan City, Taiwan 70254",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.967474,
+            "lng": 120.176636
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 265 0924"
+    },
+    {
+        "id": "ChIJV9BWgvWHbjQR3QuxU1MUk-w",
+        "name": "\u5929\u4e00\u4e2d\u85e5\u751f\u6d3b\u5316\u5712\u5340(\u53f0\u5357\u89c0\u5149\u5de5\u5ee0 \u666f\u9ede \u53f0\u5357\u89aa\u5b50\u65c5\u904a)",
+        "address": "No. 31\u865f, Gongye Rd, Guantian District, Tainan City, Taiwan 720",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "school",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2128626,
+            "lng": 120.3233878
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 698 5800"
+    },
+    {
+        "id": "ChIJvdSWZOAJBxQR1gHVR2ZOpKE",
+        "name": "Anding Bao'an Temple",
+        "address": "745, Taiwan, Tainan City, Anding District, 131\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1199734,
+            "lng": 120.2367403
+        },
+        "rating": 4.6,
+        "rating_n": 122,
+        "international_phone_number": "+886 6 592 3743"
+    },
+    {
+        "id": "ChIJ1VHlxlSFbjQRnLwU-Ub2v04",
+        "name": "Tainan Municipal Jing-Liau Elementary School",
+        "address": "731, Taiwan, Tainan City, Houbi District, 282\u865f",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.379273,
+            "lng": 120.339398
+        },
+        "rating": 4.5,
+        "rating_n": 70,
+        "international_phone_number": "+886 6 662 1271"
+    },
+    {
+        "id": "ChIJ-1fgbZJ1bjQR12YE5pNAsdE",
+        "name": "\u56db\u9be4\u9bd3\u9f8d\u5c71\u5bfa",
+        "address": "No. 81\u865f, Lane 102, Kunshen Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9616367,
+            "lng": 120.1712338
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 262 0592"
+    },
+    {
+        "id": "ChIJDSDDwAhjbjQRNraI0wAj3m4",
+        "name": "\u982d\u793e",
+        "address": "742, Taiwan, \u53f0\u5357\u5e02\u5927\u5167\u5340\u982d\u793e",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 23.144154,
+            "lng": 120.385061
+        }
+    },
+    {
+        "id": "ChIJ77Z_4pJ2bjQR824lbWr2DqU",
+        "name": "\u65e5\u8ecd\u81fa\u7063\u6b65\u5175\u7b2c\u4e8c\u806f\u968a\u71df\u820d\u820a\u5740",
+        "address": "No. 1\u865f, Dasyue Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9995801,
+            "lng": 120.2163898
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 275 7575"
+    },
+    {
+        "id": "ChIJAQAAANBwbjQRlom94lONNDE",
+        "name": "Yongkang District social education center",
+        "address": "No. 88\u865f, Yongda 2nd Rd, Yongkang District, Tainan City, Taiwan 710",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0188399,
+            "lng": 120.2598021
+        },
+        "rating": 4.2,
+        "rating_n": 126,
+        "international_phone_number": "+886 6 202 9666"
+    },
+    {
+        "id": "ChIJQ7gFUtsqbDQRX7Pg-Q7GvnM",
+        "name": "Beimenyu Presbyterian Church",
+        "address": "727, Taiwan, Tainan City, Beimen District, \u6c38\u9686\u91cc\u5317\u958031\u865f",
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2699529,
+            "lng": 120.1239486
+        },
+        "rating": 4.3,
+        "rating_n": 125,
+        "international_phone_number": "+886 6 786 2138"
+    },
+    {
+        "id": "ChIJBwhM54l2bjQRbGGXC4JkHzQ",
+        "name": "B.B.ART",
+        "address": "No. 48\u865f, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 70050",
+        "types": [
+            "art_gallery",
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9945027,
+            "lng": 120.2052364
+        },
+        "rating": 4.6,
+        "rating_n": 293,
+        "international_phone_number": "+886 6 223 3538"
+    },
+    {
+        "id": "ChIJ90AGAIp2bjQRqEqlzQutmxA",
+        "name": "\u8543\u85af\u5d0e\u5c0f\u5357\u5929\u798f\u5fb7\u7960",
+        "address": "No. 27, Lane 158, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.995724,
+            "lng": 120.2051363
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 221 1386"
+    },
+    {
+        "id": "ChIJqRSrRqSJbjQR22EV0V_bBNY",
+        "name": "\u6c34\u6d41\u6771",
+        "address": "734, Taiwan, \u53f0\u5357\u5e02\u516d\u7532\u5340\u6c34\u6d41\u6771",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 23.23085,
+            "lng": 120.405146
+        }
+    },
+    {
+        "id": "ChIJ-_O66YFxbjQRzo1lLHo_AAM",
+        "name": "Gueiren Cultural Center",
+        "address": "No. 78\u865f, Xinyi S Rd, Guiren District, Tainan City, Taiwan 711",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9640041,
+            "lng": 120.298029
+        },
+        "rating": 4.2,
+        "rating_n": 1540,
+        "international_phone_number": "+886 6 330 6505"
+    },
+    {
+        "id": "ChIJlevybWF2bjQRWZZVrwYZdi0",
+        "name": "\u81fa\u5357\u7c73\u8857\u5ee3\u5b89\u5bae",
+        "address": "No. 172\u865f, Xinmei St, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9974041,
+            "lng": 120.2017322
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 226 6315"
+    },
+    {
+        "id": "ChIJG5QSZCJ7bjQRhN-GF9BAsyQ",
+        "name": "\u65b0\u5e02\u5927\u793e\u6771\u52e2\u5317\u6975\u6bbf",
+        "address": "744, Taiwan, Tainan City, Xinshi District, \u5927\u793e\u91cc288\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0916522,
+            "lng": 120.3214531
+        },
+        "rating": 4.5,
+        "rating_n": 118,
+        "international_phone_number": "+886 6 599 6295"
+    },
+    {
+        "id": "ChIJy8RBnrF7bjQR55MVGE_1JJM",
+        "name": "\u6e2f\u9999\u862d\u61c9\u7528\u751f\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "address": "No. 1\u865f, Nanke 1st Rd, Xinshi District, Tainan City, Taiwan 744",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0936164,
+            "lng": 120.2844908
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 6 505 2505"
+    },
+    {
+        "id": "ChIJzfP2Q4d2bjQRs114lfaf6Yg",
+        "name": "City Wall",
+        "address": "West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.98567169999999,
+            "lng": 120.2062504
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 213 1928#301"
+    },
+    {
+        "id": "ChIJd0otwxzVbTQRuRRaeYCoES4",
+        "name": "\u5c07\u8ecd\u6eaa\u53e3\u7058\u5730",
+        "address": "Unnamed Rd, \u5c07\u8ecd \u5340, \u5c07\u8ecd\u5340\u53f0\u5357\u5e02 Taiwan 725",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2249407,
+            "lng": 120.1163455
+        },
+        "rating": 3.8,
+        "rating_n": 14
+    },
+    {
+        "id": "ChIJYxgfn7BlbjQRKGPa6_y4UGM",
+        "name": "Zuozhen Presbyterian Church",
+        "address": "713, Taiwan, Tainan City, Zuozhen District, \u5de6\u93ae\u91cc128\u865f",
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.055763,
+            "lng": 120.4053524
+        },
+        "rating": 4.5,
+        "rating_n": 79,
+        "international_phone_number": "+886 6 573 1076"
+    },
+    {
+        "id": "ChIJ38he0B-HbjQRp3pnEPCRRm4",
+        "name": "\u9435\u7dda\u6a4b\u6e2f\u901a\u6fdf\u5bae\u53e4\u5edf",
+        "address": "730, Taiwan, Tainan City, Xinying District, \u9435\u7dda\u6a4b107-1\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.264759,
+            "lng": 120.2766825
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 658 1088"
+    },
+    {
+        "id": "ChIJBQtKWRx2bjQR3FY5Xao_MgI",
+        "name": "\u5b89\u5e73\u6d77\u982d\u793e\u9b4f\u5b85",
+        "address": "No. 6\u865f, Alley 16, Lane 121, Anbei Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.002087,
+            "lng": 120.162879
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJH2e4Ux12bjQRbRUBSydV5yE",
+        "name": "\u5b89\u5e73\u5929\u4e3b\u6559\u6587\u7269\u9928",
+        "address": "No. 2\u865f, Lane 850, Anping Rd, Anping District, Tainan City, Taiwan 70850",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9999975,
+            "lng": 120.1589645
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 6 226 7462"
+    },
+    {
+        "id": "ChIJTwXAI7dlbjQR4bWB8s2p2XM",
+        "name": "\u5de6\u93ae\u5317\u6975\u6bbf-\u7384\u5929\u4e0a\u5e1d",
+        "address": "713, Taiwan, Tainan City, Zuozhen District, 171-3\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.056904,
+            "lng": 120.4082587
+        },
+        "rating": 4.3,
+        "rating_n": 30,
+        "international_phone_number": "+886 6 573 1333"
+    },
+    {
+        "id": "ChIJmYfUMJd2bjQR7mr2TtLaJp0",
+        "name": "Chang Jung Senior High School",
+        "address": "No. 79\u865f, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "secondary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9889862,
+            "lng": 120.2227133
+        },
+        "rating": 3.2,
+        "international_phone_number": "+886 6 238 1711"
+    },
+    {
+        "id": "ChIJ49Jgzox2bjQRfZykquXqmok",
+        "name": "\u539f\u81fa\u7063\u7e3d\u7763\u5e9c\u5c08\u8ce3\u5c40\u81fa\u5357\u652f\u5c40\u81fa\u5357\u51fa\u5f35\u6240",
+        "address": "0No. 16\u865f, Section 2, Beimen Rd, East District, Tainan City, Taiwan 70146",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9990247,
+            "lng": 120.2128868
+        },
+        "rating": 3.4,
+        "international_phone_number": "+886 6 222 2681"
+    },
+    {
+        "id": "ChIJDVl2TwB3bjQRnJImp_zA6ms",
+        "name": "\u91cd\u9053\u5d07\u6587\u574a",
+        "address": "Tainan Park, No. 89\u865f, Gongyuan S Rd, North District, Tainan City, Taiwan 704",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0020795,
+            "lng": 120.211655
+        }
+    },
+    {
+        "id": "ChIJoxHIDQCFbjQRk50tbvFttAY",
+        "name": "\u65b0\u71df\u540c\u6fdf\u5bae\u738b\u516c\u5edf",
+        "address": "No. 51\u865f, Minzu Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3111648,
+            "lng": 120.3182376
+        }
+    },
+    {
+        "id": "ChIJBcIahtF5bjQRKnQKXs_V7TM",
+        "name": "\u83ef\u7f8e\u5149\u5b78eye\u73a9\u8996\u754c\u89c0\u5149\u5de5\u5ee0",
+        "address": "No. 30\u865f, Zhonggong 2nd Rd, Anding District, Tainan City, Taiwan 745",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "health",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0728868,
+            "lng": 120.2111516
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 593 7597"
+    },
+    {
+        "id": "ChIJ-8OiATqQbjQRRyxgqF7nktE",
+        "name": "\u4e0a\u8304\u82f3",
+        "address": "731, Taiwan, \u53f0\u5357\u5e02\u5f8c\u58c1\u5340\u4e0a\u8304\u82f3",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "coordinates": {
+            "lat": 23.38833,
+            "lng": 120.377875
+        }
+    },
+    {
+        "id": "ChIJTed_-hdxbjQRPQU_zpRnecc",
+        "name": "\u53f0\u5357\u5e02\u6b78\u4ec1\u5927\u5b78\u6f41\u5ddd\u9673\u6c0f\u5b97\u89aa\u6703",
+        "address": "No. 46\u865f, Lane 38, Damiaoyi St, Guiren District, Tainan City, Taiwan 711",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.996633,
+            "lng": 120.275064
+        }
+    },
+    {
+        "id": "ChIJWa2xXR12bjQRE_9Z7YpuOnQ",
+        "name": "\u738b\u57ce\u897f\u793e\u897f\u3863\u6bbf",
+        "address": "No. 12, Lane 35, Guosheng Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0011169,
+            "lng": 120.1594143
+        },
+        "rating": 4.1,
+        "rating_n": 80,
+        "international_phone_number": "+886 6 229 2333"
+    },
+    {
+        "id": "ChIJi3T1EZB2bjQR-xjZ9u7030U",
+        "name": "Sheng Li Elementary School",
+        "address": "No. 10\u865f, Shengli Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.98862949999999,
+            "lng": 120.2179022
+        },
+        "rating": 4.3,
+        "rating_n": 110,
+        "international_phone_number": "+886 6 237 2982"
+    },
+    {
+        "id": "ChIJg78NXHt2bjQRevnNXuOHV3w",
+        "name": "\u856d\u6c0f\u7bc0\u5b5d\u574a",
+        "address": "No. 3\u865f, Lane 304, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9905799,
+            "lng": 120.198904
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 930 852 638"
+    },
+    {
+        "id": "ChIJqUKS2ll6bjQRXqeAXYYW-8k",
+        "name": "\u65b0\u5e02\u6c38\u5b89\u5bae",
+        "address": "No. 331\u865f, Ren'ai St, Xinshi District, Tainan City, Taiwan 744",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0785757,
+            "lng": 120.2937979
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 599 5091"
+    },
+    {
+        "id": "ChIJPxkbFYV2bjQRj9m7KXen2-w",
+        "name": "\u81fa\u7063\u5e9c\u57ce\u57ce\u57a3 \u6771\u9580\u6bb5\u6b98\u8e5f",
+        "address": "No. 223-225, Guanghua St, East District, Tainan City, Taiwan 701",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9869069,
+            "lng": 120.2148214
+        },
+        "rating": 4.2
+    },
+    {
+        "id": "ChIJm2lmJfMqbDQRpHsIwPoIU3s",
+        "name": "\u65b0\u5b89\u5bae\u85dd\u6587\u4e2d\u5fc3(\u65b0\u539d\u65b0\u5b89\u5bae \u5317\u9580\u9be4\u6c5f\u6f01\u6c11\u6d3b\u52d5\u4e2d\u5fc3)",
+        "address": "727, Taiwan, Tainan City, Beimen District, \u86b5\u5bee1003\u4e4b1\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2814647,
+            "lng": 120.1413403
+        },
+        "rating": 4.3,
+        "rating_n": 27,
+        "international_phone_number": "+886 6 786 3745"
+    },
+    {
+        "id": "ChIJ7-8puMR1bjQRt5F3G-9aYRk",
+        "name": "Yancheng Tianhou Temple",
+        "address": "No. 15, Lane 291, Yancheng Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9712215,
+            "lng": 120.1893563
+        },
+        "rating": 4.6,
+        "rating_n": 116,
+        "international_phone_number": "+886 6 264 4245"
+    },
+    {
+        "id": "ChIJmT7vmLt3bjQR4vMJJSQjLqE",
+        "name": "Chen-an Temple",
+        "address": "No. 730-1\u865f, Da'an St, Annan District, Tainan City, Taiwan 709",
+        "types": [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0407416,
+            "lng": 120.1902031
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 6 247 8884"
+    },
+    {
+        "id": "ChIJZ24ZWoV2bjQRMDhG_AkZ73A",
+        "name": "Thomas Barclay (Tainan Dongmen) Presbyterian Church",
+        "address": "No. 187\u865f, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9877624,
+            "lng": 120.2156906
+        },
+        "rating": 4.5,
+        "rating_n": 159,
+        "international_phone_number": "+886 6 234 4266"
+    },
+    {
+        "id": "ChIJoWGVDYR-bjQR9yNwEZSydek",
+        "name": "\u9ebb\u8c46\u6797\u5bb6\u65b0\u56db\u623f\u7956\u539d",
+        "address": "Heping Rd, Madou District, Tainan City, Taiwan 721",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1795167,
+            "lng": 120.24485
+        },
+        "rating": 4.3,
+        "rating_n": 7
+    },
+    {
+        "id": "ChIJt_iN_lmHbjQRgnPmEZ5NhKs",
+        "name": "\u6d77\u5898\u672c\u5bb6",
+        "address": "No. 159, Section 2, Zhongshan Rd, Xiaying District, Tainan City, Taiwan 735",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2306606,
+            "lng": 120.2629285
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 689 9121"
+    },
+    {
+        "id": "ChIJmZlBH4NxbjQRIf2tE9yqboc",
+        "name": "\u6566\u6e90\u8056\u5edf",
+        "address": "Guiren District, Tainan City, Taiwan 711",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9691282,
+            "lng": 120.3010699
+        },
+        "rating": 4.1,
+        "rating_n": 55
+    },
+    {
+        "id": "ChIJe3Qo82J2bjQRAkvaOLMiOc8",
+        "name": "\u81fa\u5357\u5831\u6069\u5802",
+        "address": "No. 8\u865f, Lane 38, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.992511,
+            "lng": 120.203548
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 220 8509"
+    },
+    {
+        "id": "ChIJN4LyoBBxbjQR6vjEbuTPCdo",
+        "name": "\u6b78\u4ec1\u4fdd\u897f\u4ee3\u5929\u5e9c",
+        "address": "No. 31\u865f, Damiao 5th St, Guiren District, Tainan City, Taiwan 711",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9979707,
+            "lng": 120.2776719
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 271 3775"
+    },
+    {
+        "id": "ChIJU4k-hmB2bjQRVlK-Dt8UB3s",
+        "name": "Municipal Liren Elementary School",
+        "address": "No. 41, Section 3, Ximen Rd, North District, Tainan City, Taiwan 704",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0013293,
+            "lng": 120.2014369
+        },
+        "rating": 4,
+        "rating_n": 98,
+        "international_phone_number": "+886 6 222 2054"
+    },
+    {
+        "id": "ChIJU78XO3p6bjQRd2BkgCLfuXw",
+        "name": "\u81fa\u5357\u5e02\u897f\u62c9\u96c5\u6587\u5316\u6703\u9928",
+        "address": "71241, Taiwan, Tainan City, Xinhua District, Yongxin Rd, 11\u865f3\u6a13",
+        "types": [
+            "local_government_office",
+            "city_hall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0592616,
+            "lng": 120.2960803
+        },
+        "rating": 3.7,
+        "rating_n": 6,
+        "international_phone_number": "+886 6 598 2307"
+    },
+    {
+        "id": "ChIJjWxfAduFbjQR73PY3dvFkvI",
+        "name": "\u5357\u701b\u5ba2\u5bb6\u6587\u5316\u6703\u9928",
+        "address": "Lane 96, Minquan Rd, Xinying District, Tainan City, Taiwan 730",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.30919039999999,
+            "lng": 120.3122293
+        },
+        "rating": 4.5,
+        "rating_n": 8,
+        "international_phone_number": "+886 6 633 7627"
+    },
+    {
+        "id": "ChIJG7quZ0l9bjQROUp2ubsu9oc",
+        "name": "\u9ebb\u8c46\u6fdf\u6b66\u5bae",
+        "address": "72146, Taiwan, Tainan City, Madou District, \u5317\u52e2\u91cc\u52a0\u8f26\u90a61-11\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1981975,
+            "lng": 120.2646027
+        },
+        "international_phone_number": "+886 939 860 247"
+    },
+    {
+        "id": "ChIJBZtc7HV1bjQR1eot_RfLaHI",
+        "name": "\u559c\u6a39\u842c\u7687\u5bae",
+        "address": "No. 52\u865f, Lane 222, Xishu Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.941477,
+            "lng": 120.1775803
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 6 262 2343"
+    },
+    {
+        "id": "ChIJNdXc4YfYbTQRtsDTVyyv3Eg",
+        "name": "\u5b89\u5357\u9e7d\u7530\u6c38\u93ae\u5bae",
+        "address": "No. 26\u865f, Yantian 6th St, Annan District, Tainan City, Taiwan 709",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0335484,
+            "lng": 120.1472367
+        },
+        "rating": 4.8,
+        "international_phone_number": "+886 6 384 0398"
+    },
+    {
+        "id": "ChIJz8RanZF2bjQRoF96QBI1NlQ",
+        "name": "Chang Jung Girls' High School",
+        "address": "No. 135\u865f, Section 2, Changrong Rd, East District, Tainan City, Taiwan 701",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9910739,
+            "lng": 120.2208458
+        },
+        "rating": 3.9,
+        "rating_n": 152,
+        "international_phone_number": "+886 6 274 0381"
+    },
+    {
+        "id": "ChIJwV6MxE8XbjQR8Jm5dsuALoQ",
+        "name": "\u82e5\u665e\u8336\u7a7a\u9593 Roche Tea Space",
+        "address": "708, Taiwan, Tainan City, Anping District, \u5b89\u5317\u8def233\u5df71\u5f045\u865f",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0020948,
+            "lng": 120.1591642
+        },
+        "rating": 4.8,
+        "rating_n": 33,
+        "international_phone_number": "+886 6 222 3761"
+    },
+    {
+        "id": "ChIJJdFvz2J2bjQRo8NmtxZt6Bo",
+        "name": "\u64c7\u8ce2\u5802",
+        "address": "No. 15\u865f, Lane 21, Zhongzheng Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9913889,
+            "lng": 120.2033333
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 6 226 2405"
+    },
+    {
+        "id": "ChIJeWKWy2LXbTQRBBq0olQ-K5c",
+        "name": "\u4e03\u80a1\u5341\u4efd\u6b63\u738b\u5e9c\u96f7\u5b89\u5bae",
+        "address": "724, Taiwan, Tainan City, Qigu District, 53-2\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0894378,
+            "lng": 120.1005651
+        },
+        "rating": 4.8
+    },
+    {
+        "id": "ChIJW2RxwCWPbjQR_sf9jPOLBdE",
+        "name": "Kabuasua Village",
+        "address": "733, Taiwan, Tainan City, Dongshan District, \u5409\u8c9d\u800d29-1\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.295537,
+            "lng": 120.3841276
+        },
+        "rating": 4.4,
+        "rating_n": 15,
+        "international_phone_number": "+886 6 623 3190"
+    },
+    {
+        "id": "ChIJQ1rU6xx2bjQRvS1C2XU-vqg",
+        "name": "\u5b89\u5e73\u5e02\u4ed4\u8857\u4f55\u65fa\u539d",
+        "address": "No. 86\u865f, Yanping St, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.000673,
+            "lng": 120.162914
+        },
+        "rating": 5
+    },
+    {
+        "id": "ChIJOUOi34x4bjQRQKOndO2ShhY",
+        "name": "\u81fa\u5357\u5e02\u897f\u6e2f\u5340\u6210\u529f\u570b\u6c11\u5c0f\u5b78",
+        "address": "723, Taiwan, Tainan City, Xigang District, \u7af9\u6797\u91cc11\u865f",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1214944,
+            "lng": 120.1807278
+        },
+        "rating": 4.2,
+        "rating_n": 26,
+        "international_phone_number": "+886 6 795 2204"
+    },
+    {
+        "id": "ChIJjWer2eJ4bjQR9MzUVQFonoc",
+        "name": "\u897f\u6e2f\u516c\u6709\u96f6\u552e\u5e02\u5834",
+        "address": "No. 17\u865f, Lane 59, Qing'an Road, Xigang District, Tainan City, Taiwan 723",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1200346,
+            "lng": 120.2020128
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 796 1023"
+    },
+    {
+        "id": "ChIJO6YC7PVxbjQRsRBnA9VXSb0",
+        "name": "\u539f\u65b0\u5316\u90e1\u516c\u6703\u5802-\u9752\u5c11\u5e74\u5716\u66f8\u9928",
+        "address": "712, Taiwan, Tainan City, Xinhua District, 712",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.038013,
+            "lng": 120.3103837
+        },
+        "rating": 4.8
+    },
+    {
+        "id": "ChIJS47fd_F2bjQREGzL3z8D3FI",
+        "name": "\u539f\u81fa\u5357\u4e2d\u5b78\u6821\u8b1b\u5802",
+        "address": "No. 137\u865f, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.005384,
+            "lng": 120.213764
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJ23IpC8N3bjQROR28l7XQ2hY",
+        "name": "Former Anping Yasumasa Chen\u2019s Residenc",
+        "address": "No. 58\u865f, Yanping St, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0005286,
+            "lng": 120.1634305
+        },
+        "rating": 5
+    },
+    {
+        "id": "ChIJp1nl-FfWbTQRuF1eiNut6Kk",
+        "name": "Qigu Longshan Palace",
+        "address": "724, Taiwan, Tainan City, Qigu District, \u9f8d\u5c71208\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.138093,
+            "lng": 120.1134024
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 6 787 1058"
+    },
+    {
+        "id": "ChIJ2QKtYGt1bjQRtj4AZt7gBvg",
+        "name": "Baoan Temple",
+        "address": "No. 17\u865f, Alley 68, Lane 282, Wanli Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9252212,
+            "lng": 120.1805427
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 6 262 2953"
+    },
+    {
+        "id": "ChIJgS_JK4YbaDQR-p2Ue4d1qCY",
+        "name": "Sanjiaoyong Bridge",
+        "address": "237, Taiwan, New Taipei City, Sanxia District, \u6eaa\u5357\u91cc",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 24.9372889,
+            "lng": 121.3887408
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJDxSqqXHWbTQRw91wzERGiyM",
+        "name": "\u7be4\u52a0\u805a\u843d\u6587\u7269\u9928",
+        "address": "724, Taiwan, Tainan City, Qigu District, \u53f0\u5357\u5e02\u4e03\u80a1\u5340\u7be4\u52a0\u91cc\u7be4\u52a047\u4e4b7\u865f",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.159468,
+            "lng": 120.127696
+        },
+        "rating": 4.2,
+        "rating_n": 14,
+        "international_phone_number": "+886 6 787 3772"
+    },
+    {
+        "id": "ChIJ3cDhq0Z1bjQROjD1XjYwE5U",
+        "name": "\u53f0\u7063\u99ac\u6a02\u6d3b\u5c71\u838a",
+        "address": "718, Taiwan, Tainan City, Guanmiao District, \u9776\u5834\u4e00\u8857126\u865f",
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0049487,
+            "lng": 120.3293594
+        },
+        "rating": 4.4,
+        "rating_n": 222,
+        "international_phone_number": "+886 6 595 4713"
+    },
+    {
+        "id": "ChIJaQW2MNF3bjQRyaTjDTCuykM",
+        "name": "\u516b\u5409\u5883\u4e0b\u592a\u5b50\u958b\u57fa\u6606\u6c99\u5bae",
+        "address": "No. 2\u865f, Lane 359, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 70045",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9897021,
+            "lng": 120.1990408
+        },
+        "rating": 4.8,
+        "international_phone_number": "+886 6 213 8752"
+    },
+    {
+        "id": "ChIJfwuEJxx3bjQRiGyKyp1m-3o",
+        "name": "Anping Historic Harborside Playground",
+        "address": "Anyi Rd, Anping District, Tainan City, Taiwan 708",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9953067,
+            "lng": 120.1627349
+        },
+        "rating": 4.7
+    },
+    {
+        "id": "ChIJC6swh_V2bjQR6-fst8nyn2Y",
+        "name": "\u5927\u9283\u8857\u795e\u8fb2\u6bbf\u795e\u8fb2\u5927\u5e1d",
+        "address": "No. 192, Zhangbei St, North District, Tainan City, Taiwan 70444",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0040085,
+            "lng": 120.2052827
+        },
+        "rating": 4.7,
+        "rating_n": 3,
+        "international_phone_number": "+886 6 221 7182"
+    },
+    {
+        "id": "ChIJ--qR-mJ2bjQRm5GuMMQ88i8",
+        "name": "\u516b\u5409\u5883\u4e94\u5e1d\u5edf",
+        "address": "No. 87, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.99277499999999,
+            "lng": 120.2027346
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 6 223 4029"
+    },
+    {
+        "id": "ChIJj44lwlVxbjQRhJ7hO4QMtcA",
+        "name": "\u4ec1\u5fb7\u6e05\u5be7\u4ee3\u5929\u5e9c",
+        "address": "No. 82, Zhongqing Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9706134,
+            "lng": 120.2562635
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 6 279 2500"
+    },
+    {
+        "id": "ChIJRa1JewB9bjQRBclDWRPkSII",
+        "name": "\u5b98\u7530\u6148\u8056\u5bae",
+        "address": "720, Taiwan, Tainan City, Guantian District, 357\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1864725,
+            "lng": 120.3388331
+        },
+        "international_phone_number": "+886 6 690 1900"
+    },
+    {
+        "id": "ChIJDdrxTfOKbjQRkpqYMP7jcek",
+        "name": "Xiaoputuochanxiu Park",
+        "address": "715, Taiwan, \u53f0\u5357\u5e02\u6960\u897f\u5340\u865f",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.1984523,
+            "lng": 120.4898332
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 6 575 1800"
+    },
+    {
+        "id": "ChIJ9Sl2DbdkbjQR4TM_qQ6uTD8",
+        "name": "\u5c71\u4e0a\u5357\u6d32\u958b\u9748\u5bae",
+        "address": "743, Taiwan, Tainan City, Shanshang District, 158\u865f",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.102007,
+            "lng": 120.3533932
+        },
+        "rating": 4.4,
+        "rating_n": 54,
+        "international_phone_number": "+886 6 578 1072"
+    },
+    {
+        "id": "ChIJzbX6Pxx7bjQRdrM26veftpg",
+        "name": "\u65b0\u6e2f\u5edf",
+        "address": "74450, Taiwan, Tainan City, Xinshi District, \u5927\u793e\u91cc577\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0896324,
+            "lng": 120.3133349
+        },
+        "rating": 4.5,
+        "rating_n": 26
+    },
+    {
+        "id": "ChIJj1QHE-FmbjQRBGSju8CUd9I",
+        "name": "\u5357\u967d\u8056\u5802\u4fee\u9053",
+        "address": "71642, Taiwan, Tainan City, Nanhua District, \u5317\u5e73\u91cc\u5317\u5e73\u4e5d\u865f\u4e4b\u4e94",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0677332,
+            "lng": 120.4765829
+        },
+        "rating": 4.4,
+        "rating_n": 67,
+        "international_phone_number": "+886 6 577 2311"
+    },
+    {
+        "id": "ChIJKydPxKd1bjQRv78yQqV73T4",
+        "name": "\u53f0\u5357\u5e02\u7acb\u99ac\u8853\u5834",
+        "address": "No. 780\u865f, Binnan Rd, South District, Tainan City, Taiwan 702",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.9157511,
+            "lng": 120.1766553
+        },
+        "rating": 4.9
+    },
+    {
+        "id": "ChIJPXX25dR_bjQR41R1rbQFXng",
+        "name": "\u8700\u8475\u82b1\u6587\u5316\u7bc0",
+        "address": "726, Taiwan, Tainan City, Xuejia District, 58",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2424739,
+            "lng": 120.1657765
+        },
+        "rating": 4.4,
+        "rating_n": 1454
+    },
+    {
+        "id": "ChIJzf7PhWRvbjQRIep_0h8Xe7Y",
+        "name": "Ganglin Presbyterian Church",
+        "address": "713, Taiwan, Tainan City, Zuozhen District, \u5ca1\u6797\u91cc\u5ca1\u679747\u865f",
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.0107572,
+            "lng": 120.4168658
+        },
+        "rating": 4.4,
+        "rating_n": 212,
+        "international_phone_number": "+886 6 573 0051"
+    },
+    {
+        "id": "ChIJ9YMn6oCSbjQRyvA3ocYe21Q",
+        "name": "Baishuixi Presbyterian Church",
+        "address": "732, Taiwan, Tainan City, Baihe District, \u4ed9\u8349\u91cc\u767d\u6c34\u6eaa26-4\u865f",
+        "types": [
+            "church",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3537054,
+            "lng": 120.4838919
+        },
+        "rating": 4.6,
+        "rating_n": 69,
+        "international_phone_number": "+886 6 685 4846"
+    },
+    {
+        "id": "ChIJQ9206VR1bjQRy5mDir6HGnY",
+        "name": "\u4e8c\u7a7a\u65b0\u6751",
+        "address": "No. 20\u865f, Baoren Rd, Rende District, Tainan City, Taiwan 717",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 22.960074,
+            "lng": 120.2229522
+        },
+        "rating": 4.3
+    }
+]

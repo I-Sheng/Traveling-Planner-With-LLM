@@ -1,0 +1,136 @@
+[
+    {
+        "id": "ChIJo617M3WVbjQRleciLxS2ifs",
+        "name": "\u597d\u597d\u5bb6\u6162\u719f\u5496\u54e9",
+        "address": "No. 69\u865f, Minsheng S Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4717303,
+            "lng": 120.4472174
+        },
+        "rating": 4.9,
+        "rating_n": 424,
+        "international_phone_number": "+886 5 216 6966",
+        "time_spent": [
+            45,
+            90
+        ]
+    },
+    {
+        "id": "ChIJIYGy5cOVbjQRCUy7MmX0Cxg",
+        "name": "\u8d77\u98a8",
+        "address": "600, Taiwan, Chiayi City, East District, \u8208\u696d\u65b0\u675140\u865f",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.468833,
+            "lng": 120.4572541
+        },
+        "rating": 4.6,
+        "rating_n": 702,
+        "international_phone_number": "+886 5 228 4688",
+        "time_spent": [
+            15,
+            90
+        ]
+    },
+    {
+        "id": "ChIJZ0tnfC2UbjQRQeP15goASgg",
+        "name": "Ka Jia Li American Restaurant",
+        "address": "600, Taiwan, Chiayi City, West District, \u570b\u83ef\u8857351\u5df719\u865f",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4840813,
+            "lng": 120.4469548
+        },
+        "rating": 4.4,
+        "rating_n": 250,
+        "international_phone_number": "+886 5 227 0389",
+        "time_spent": [
+            60,
+            180
+        ]
+    },
+    {
+        "id": "ChIJow9qRZyVbjQRNHvzqP3lXXs",
+        "name": "Le Pissenlit \u76ae\u7d22\u5c3c\u6cd5\u5f0f\u5c0f\u9928",
+        "address": "No. 371\u865f, Section 3, Shixian Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.461666,
+            "lng": 120.4358259
+        },
+        "rating": 4.8,
+        "rating_n": 390,
+        "international_phone_number": "+886 5 235 0234",
+        "time_spent": [
+            45,
+            120
+        ]
+    },
+    {
+        "id": "ChIJfdtS132VbjQR0RLUWPsnmro",
+        "name": "\u5800\u5ddd\u8336\u4e8b",
+        "address": "No. 15\u865f, Lane 37, Wufeng S Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4728588,
+            "lng": 120.4547386
+        },
+        "rating": 4.6,
+        "rating_n": 439,
+        "international_phone_number": "+886 5 227 2672",
+        "time_spent": [
+            60,
+            120
+        ]
+    },
+    {
+        "id": "ChIJJwDZYKKWbjQRJT-qq9n2rJs",
+        "name": "\u50b2\u6f2b\u624b\u611f\u70d8\u7119\u5de5\u4f5c\u574a",
+        "address": "No. 102-1\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4807512,
+            "lng": 120.4595199
+        },
+        "rating": 4.8,
+        "rating_n": 348,
+        "international_phone_number": "+886 963 520 023",
+        "time_spent": [
+            10,
+            90
+        ]
+    }
+]

@@ -1,0 +1,1364 @@
+[
+    {
+        "id": "ChIJBxViPXC_bjQR5h9R1b6Nh0s",
+        "name": "\u96ea\u9999\u4ead\uff08\u8c46\u6f3f\u8c46\u82b1\u3001\u5496\u5561\u3001\u751c\u98df\uff09",
+        "address": "No. 68\u865f, Zhongshan Rd, Dalin Township, Chiayi County, Taiwan 622",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.6023107,
+            "lng": 120.4551466
+        },
+        "rating": 5,
+        "international_phone_number": "+886 966 219 635"
+    },
+    {
+        "id": "ChIJX5Y2a7vQbjQRPU_fcZFwXjg",
+        "name": "\u6e38\u82ad\u7d72\u9112\u5bb4\u9910\u5ef3-YUPASU Tsou Restaurant-yupasu eabobon\u0289",
+        "address": "605, Taiwan, Chiayi County, Alishan Township, 1-8\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3997406,
+            "lng": 120.6575234
+        },
+        "rating": 4.4
+    },
+    {
+        "id": "ChIJncQn-4TnbjQRZgHpIQI-ZpE",
+        "name": "Tsou Fengguan Tribal Restaurant",
+        "address": "605, Taiwan, Chiayi County, Alishan Township, 17\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4544087,
+            "lng": 120.7500158
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 938 867 380"
+    },
+    {
+        "id": "ChIJZZaO8fTdbjQR8Uqo0aT9dj0",
+        "name": "\u98db\u9f20\u5496\u5561Peisu coffee\uff08\u5168\u9810\u7d04\u5236\uff09",
+        "address": "605, Taiwan, \u5609\u7fa9\u7e23\u963f\u91cc\u5c71\u9109\u7279\u5bcc\u91ce",
+        "types": [
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4619122,
+            "lng": 120.7571597
+        },
+        "rating": 4.9,
+        "rating_n": 84
+    },
+    {
+        "id": "ChIJadEaixjmbjQRp6mzIhFFJh8",
+        "name": "\u66c9\u9752\u7684\u5e97",
+        "address": "605, Taiwan, Chiayi County, Alishan Township, 3\u913057\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4042721,
+            "lng": 120.7203877
+        },
+        "rating": 4.8,
+        "rating_n": 23,
+        "international_phone_number": "+886 988 251 683"
+    },
+    {
+        "id": "ChIJkTn8hy2UbjQRuf3BybSk0TI",
+        "name": "\u4f34\u4f34\u9b06\u9905",
+        "address": "No. 290\u865f, Changrong St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4828031,
+            "lng": 120.4465952
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 5 222 2982"
+    },
+    {
+        "id": "ChIJf_jbZCPDbjQRaH9lVV4CaVo",
+        "name": "Yuan Tan Xi Restaurant",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 86-1\u865f",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5288504,
+            "lng": 120.6591806
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 5 250 1670"
+    },
+    {
+        "id": "ChIJGf122eXBbjQRLa6alKXNtgw",
+        "name": "\u6649\u63da\u6b23\u00b7\u91d1\u7528\u5fc3\u8336\u98df\u6240&\u5496\u5561\u838a\u5712",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 22\u865f1\u6a13",
+        "types": [
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5166915,
+            "lng": 120.5939007
+        },
+        "rating": 4.8,
+        "rating_n": 69,
+        "international_phone_number": "+886 988 897 566"
+    },
+    {
+        "id": "ChIJ2cs7GxPDbjQRnKKWtui11ik",
+        "name": "\u9047\u898b\u5f69\u8679\u751f\u614b\u6751\uff08\u539f\u82e5\u862d\u5c71\u838a\u87a2\u706b\u87f2\u4fdd\u80b2\u5340\uff09",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, \u745e\u91cc\u675110-1\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5408425,
+            "lng": 120.6808569
+        },
+        "rating": 4.3,
+        "rating_n": 435,
+        "international_phone_number": "+886 921 420 176"
+    },
+    {
+        "id": "ChIJf-v--qLDbjQRk8sKuQmoXdM",
+        "name": "100% \u5496\u5561\u838a\u5712",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, 8-1\u865f",
+        "types": [
+            "cafe",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5431507,
+            "lng": 120.6827808
+        },
+        "rating": 5,
+        "rating_n": 81,
+        "international_phone_number": "+886 911 058 389"
+    },
+    {
+        "id": "ChIJ652GUgcDaDQRoGJB84t-9Hg",
+        "name": "\u627e\u8336drinks",
+        "address": "No. 169\u865f, Jinhe Rd, Zhonghe District, New Taipei City, Taiwan 235",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 24.9914078,
+            "lng": 121.490805
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 2 2247 8255"
+    },
+    {
+        "id": "ChIJqwro40HBbjQRKLGRVjcf8HI",
+        "name": "\u96f2\u5883\u5c71\u57ce(\u6c11\u5bbf\u9910\u5ef3)",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, \u592a\u5e73\u6751\u4e0b\u5751\u4ed42-7",
+        "types": [
+            "restaurant",
+            "cafe",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5600304,
+            "lng": 120.6016711
+        },
+        "rating": 4.9,
+        "rating_n": 931,
+        "international_phone_number": "+886 5 257 1126"
+    },
+    {
+        "id": "ChIJMT2fbPzDbjQR7_6uUqumYsg",
+        "name": "\u7425\u73c0\u793e\u5496\u5561\u838a\u5712&\u9732\u71df",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, 38",
+        "types": [
+            "cafe",
+            "campground",
+            "park",
+            "lodging",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5690347,
+            "lng": 120.623617
+        },
+        "rating": 4.9,
+        "rating_n": 1122,
+        "international_phone_number": "+886 922 204 987"
+    },
+    {
+        "id": "ChIJNaU_5UHBbjQRQg0nAkiJE7c",
+        "name": "\u516b\u73a5\u6587\u5275",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, \u5927\u576a\u6bb539\u865f\u4e4b5\u865f",
+        "types": [
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5610682,
+            "lng": 120.6024963
+        },
+        "rating": 4.6,
+        "rating_n": 546,
+        "international_phone_number": "+886 5 257 1965"
+    },
+    {
+        "id": "ChIJN87vd4DBbjQRNcsvXJ8D2BE",
+        "name": "\u82e5\u862d\u5e02\u96c6&\u5c71\u5761\u5496\u5561",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 22\u865f2\u6a13",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.516811,
+            "lng": 120.5937482
+        },
+        "rating": 4.9,
+        "rating_n": 167,
+        "international_phone_number": "+886 938 902 163"
+    },
+    {
+        "id": "ChIJIYVdaISVbjQR8CSplrwXDd8",
+        "name": "\u5927\u98df\u5ba2\u5409\u5718",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, \u865f",
+        "types": [
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4900527,
+            "lng": 120.5069848
+        },
+        "rating": 5,
+        "rating_n": 1,
+        "international_phone_number": "+886 983 881 033"
+    },
+    {
+        "id": "ChIJQzDtVqKWbjQRpwvdl3f9BcM",
+        "name": "\u51b7\u7814\u79d1\u6280\u6709\u9650\u516c\u53f8(\u4e7e\u51b0.\u4e7e\u51b0\u6e05\u6d17\u6280\u8853.\u4e8c\u6c27\u5316\u78b3.\u5de5\u696d\u6c23\u9ad4)",
+        "address": "No. 45\u865f, Jiapu Rd, Shuishang Township, Chiayi County, Taiwan 608",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4346463,
+            "lng": 120.3940039
+        },
+        "rating": 4.4,
+        "rating_n": 8,
+        "international_phone_number": "+886 5 362 0606"
+    },
+    {
+        "id": "ChIJvUMilWe8bjQRvU9c0zmk3vI",
+        "name": "\u660e\u7965\u9905\u8216",
+        "address": "No. 2-7\u865f, Zhongzheng Rd, Xikou Township, Chiayi County, Taiwan 623",
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.60483019999999,
+            "lng": 120.3996984
+        },
+        "rating": 4.8,
+        "international_phone_number": "+886 5 269 1417"
+    },
+    {
+        "id": "ChIJwRJdUVm9bjQRqf35LGbfV0w",
+        "name": "\u6eaa\u53e3\u51b0\u5e97 30\u5e74\u8001\u5e97 \u4f60\u7ae5\u5e74\u7684\u90a3\u4e00\u5473",
+        "address": "No. 20\u865f, Minsheng St, Xikou Township, Chiayi County, Taiwan 623",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.6044667,
+            "lng": 120.3992871
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 5 269 5712"
+    },
+    {
+        "id": "ChIJ_SfdUF68bjQRwvTM-qCdgyQ",
+        "name": "\u6eaa\u53e3\u8089\u5713",
+        "address": "No. 2\u865f, Xinsheng St, Xikou Township, Chiayi County, Taiwan 623",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.6030905,
+            "lng": 120.3949697
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 933 277 481"
+    },
+    {
+        "id": "ChIJY1WL5V28bjQRdtuRTpCZlRs",
+        "name": "\u6eaa\u53e3\u9ce5\u4ed4\u9905",
+        "address": "No. 161\u865f, Minsheng St, Xikou Township, Chiayi County, Taiwan 623",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.6032481,
+            "lng": 120.3961711
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 912 182 661"
+    },
+    {
+        "id": "ChIJrX-_XWe8bjQRsAM0VoYGbyk",
+        "name": "\u963f\u73cd\u59d0\u50b3\u7d71\u7f8e\u98df",
+        "address": "No. 116\u865f, Zhongzheng Rd, Xikou Township, Chiayi County, Taiwan 623",
+        "types": [
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.6045764,
+            "lng": 120.3967811
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 5 269 6377"
+    },
+    {
+        "id": "ChIJT1PMl8TCbjQRlb0TbW8s1e4",
+        "name": "\u7530\u5abd\u5abd\u53e4\u9053\u5eda\u5a18\u7f8e\u98df\u5c4b",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, \u596e\u8d77\u6e56165\u4e4b2\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5061484,
+            "lng": 120.6956915
+        },
+        "rating": 4.3,
+        "rating_n": 111,
+        "international_phone_number": "+886 5 256 1645"
+    },
+    {
+        "id": "ChIJTRc1MfyVbjQRPMPDpIAo2PE",
+        "name": "Gao Bin Restaurant",
+        "address": "No. 201\u865f, Section 3, Jianguo Rd, Minxiong Township, Chiayi County, Taiwan 621",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5244308,
+            "lng": 120.439033
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 5 221 2420"
+    },
+    {
+        "id": "ChIJvb_m_53ebjQRSS4JNzocW5E",
+        "name": "Xin Xingguang Restaurant",
+        "address": "605, Taiwan, Chiayi County, Alishan Township, Alishan National Forest Recreation Area, 11\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5106309,
+            "lng": 120.8040671
+        },
+        "rating": 3.7,
+        "rating_n": 194,
+        "international_phone_number": "+886 5 267 9768"
+    },
+    {
+        "id": "ChIJW8cDK4XnbjQRn8OS7vuOIec",
+        "name": "Alishan Gou Hotel",
+        "address": "605, Taiwan, Chiayi County, Alishan Township, \u897f\u963f\u91cc\u5c711\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5158505,
+            "lng": 120.8145001
+        },
+        "rating": 3.7,
+        "rating_n": 1862,
+        "international_phone_number": "+886 5 267 9611"
+    },
+    {
+        "id": "ChIJefOsRKHebjQRiw9KWtmnIkE",
+        "name": "\u4e5d\u4e5d\u4e5d\u9910\u5ef3",
+        "address": "605001, Taiwan, Chiayi County, Alishan Township, 10\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5106445,
+            "lng": 120.8039815
+        },
+        "rating": 2.7,
+        "rating_n": 397,
+        "international_phone_number": "+886 5 267 9760"
+    },
+    {
+        "id": "ChIJCYuw0H2cbjQRMeN6Axwk5_A",
+        "name": "\u9322\u6e90\u65e5\u5f0f\u6dae\u6dae\u934b",
+        "address": "No. 7\u865f, Wenhua S Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4634121,
+            "lng": 120.2414739
+        },
+        "rating": 4.2,
+        "international_phone_number": "+886 5 370 7691"
+    },
+    {
+        "id": "ChIJFS4oIfSbbjQRk-JlbyPp1ZA",
+        "name": "Nordic Workshop",
+        "address": "615, Taiwan, Chiayi County, Liujiao Township, \u7cd6\u5ee0\u67511\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4798569,
+            "lng": 120.300127
+        },
+        "rating": 4.4,
+        "international_phone_number": "+886 5 370 8320"
+    },
+    {
+        "id": "ChIJt7PoTUfrbjQRxY7mQ_7ftHs",
+        "name": "Moon Villa",
+        "address": "606, Taiwan, Chiayi County, Zhongpu Township, \u6aa8\u4ed4\u679717\u4e4b16\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4430054,
+            "lng": 120.5450399
+        },
+        "rating": 3.9,
+        "rating_n": 380,
+        "international_phone_number": "+886 5 203 0116"
+    },
+    {
+        "id": "ChIJf_VaFuqUbjQRXXdWsD0oS_E",
+        "name": "(\u540d\u90fd\u89c0\u5149\u6e21\u5047\u5927\u98ef\u5e97)\u7a7a\u4e2d\u82b1\u5712BBQ",
+        "address": "602, Taiwan, Chiayi County, Fanlu Township, \u5f8c\u5751\u4ed428\u865f5\u6a13",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.457103,
+            "lng": 120.503586
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 5 271 2658#6720"
+    },
+    {
+        "id": "ChIJr1e3nAucbjQRZhcvOqT2vSQ",
+        "name": "Dazhong Restaurant",
+        "address": "No. 41\u865f, Beitong Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4676335,
+            "lng": 120.2462063
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 5 379 3889"
+    },
+    {
+        "id": "ChIJe3RXN9yUbjQRpuhqWVBYUC8",
+        "name": "Le Beau Max Resort",
+        "address": "602, Taiwan, Chiayi County, Fanlu Township, 28\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.457103,
+            "lng": 120.503586
+        },
+        "rating": 4.2,
+        "rating_n": 1347,
+        "international_phone_number": "+886 5 271 2658"
+    },
+    {
+        "id": "ChIJnR_Ih7ntbjQR26ghy3QCO-k",
+        "name": "Atunas Holiday Country",
+        "address": "607, Taiwan, Chiayi County, Dapu Township, 202\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.2986915,
+            "lng": 120.5877681
+        },
+        "rating": 3.9,
+        "rating_n": 737,
+        "international_phone_number": "+886 5 252 1717"
+    },
+    {
+        "id": "ChIJyyiyVSfcbjQRAG1ROmeH0bU",
+        "name": "Zhushan Xuan Restaurant",
+        "address": "605, Taiwan, Chiayi County, Alishan Township, \u5609\u7fa9\u7e23\u963f\u91cc\u5c71\u9109\u4e2d\u6b63\u6751\u6771\u963f\u91cc\u5c7116\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.510471,
+            "lng": 120.803789
+        },
+        "rating": 2,
+        "international_phone_number": "+886 5 267 9988"
+    },
+    {
+        "id": "ChIJ6UnHa8qbbjQR_qQMoWjXGhE",
+        "name": "Amo",
+        "address": "No. 8\u865f, Bangqiu 1st St, Taibao City, Chiayi County, Taiwan 612",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4558674,
+            "lng": 120.2934462
+        },
+        "rating": 4,
+        "international_phone_number": "+886 5 362 5701"
+    },
+    {
+        "id": "ChIJofS7XTGTbjQRSgXVjmcdyzY",
+        "name": "Greening Ranch",
+        "address": "60606, Taiwan, Chiayi County, Zhongpu Township, \u6751\u56db\u91302-6\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.429884,
+            "lng": 120.5415236
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 5 253 8505"
+    },
+    {
+        "id": "ChIJrXiLEaLebjQRSyGGvEF5Ngk",
+        "name": "\u963f\u91cc\u5c71\u8cd3\u9928\u9e97\u666f\u5ef3",
+        "address": "Alishan National Scenic Area, Alishan Township, Chiayi County, Taiwan 605",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.515106,
+            "lng": 120.8103126
+        },
+        "rating": 4,
+        "rating_n": 80,
+        "international_phone_number": "+886 5 267 9811"
+    },
+    {
+        "id": "ChIJ3yjkdSsobDQR-0PvPlCTyII",
+        "name": "Long Bin Seafood Restaurants",
+        "address": "No. 59\u865f, Zhongshan Rd, Budai Township, Chiayi County, Taiwan 625",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3795839,
+            "lng": 120.154271
+        },
+        "rating": 4,
+        "international_phone_number": "+886 5 347 5883"
+    },
+    {
+        "id": "ChIJ01WxeXfDbjQRPmLX1CF1vWI",
+        "name": "\u6cc9\u5143\u5c71\u838a",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, \u5e7c\u8449\u6797102\u4e4b1\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5396644,
+            "lng": 120.666939
+        },
+        "rating": 4.6,
+        "rating_n": 87,
+        "international_phone_number": "+886 5 250 1571"
+    },
+    {
+        "id": "ChIJ4yDaW6zDbjQR--mSZrWSW08",
+        "name": "Sanhua Hostel",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, TW CN84\u53f7",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.529316,
+            "lng": 120.658328
+        },
+        "international_phone_number": "+886 937 477 575"
+    },
+    {
+        "id": "ChIJeQ8v8gnDbjQR01UfoE85i38",
+        "name": "\u745e\u91cc\u5370\u8c61\u5496\u5561\u6728\u5c4b",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, \u5e7c\u8449\u679798\u865f",
+        "types": [
+            "cafe",
+            "lodging",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.540049,
+            "lng": 120.6663374
+        },
+        "rating": 4.6,
+        "rating_n": 500,
+        "international_phone_number": "+886 5 250 1629"
+    },
+    {
+        "id": "ChIJv0bHtg3DbjQRcymdJ1lSMcM",
+        "name": "\u963f\u6f22\u7684\u5bb6\u6c11\u5bbf",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, 79\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5389388,
+            "lng": 120.6721631
+        },
+        "rating": 4.3,
+        "rating_n": 577,
+        "international_phone_number": "+886 932 981 526"
+    },
+    {
+        "id": "ChIJ7WtDn2zDbjQR_X_f2LyM7v8",
+        "name": "\u745e\u91cc\u6c11\u5bbf\u9752\u8449\u5c71\u838a",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, \u5e7c\u8449\u679710\u865f",
+        "types": [
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5425051,
+            "lng": 120.6786922
+        },
+        "rating": 4.2,
+        "rating_n": 482,
+        "international_phone_number": "+886 5 250 1031"
+    },
+    {
+        "id": "ChIJ01WxeXfDbjQRw3PA1vLLXmo",
+        "name": "\u745e\u91cc\u8336\u58fa\u6c11\u5bbf\u3001\u9910\u5ef3",
+        "address": "603, Taiwan, Chiayi County, Meishan Township, 100-6\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5391529,
+            "lng": 120.6682128
+        },
+        "rating": 4.4,
+        "rating_n": 1162,
+        "international_phone_number": "+886 5 250 1806"
+    },
+    {
+        "id": "ChIJgUF7TVHobjQREkn3jmsp0xc",
+        "name": "Meiyuanlou hotel",
+        "address": "602, Taiwan, Chiayi County, Fanlu Township, \u9f8d\u982d19\u4e4b6\u865f",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4417174,
+            "lng": 120.6709242
+        },
+        "rating": 3.9,
+        "rating_n": 910,
+        "international_phone_number": "+886 5 258 6282"
+    },
+    {
+        "id": "ChIJuyS02z_DbjQRTp3OfKxMw7E",
+        "name": "\u51a0\u96f2\u5c71\u838a\u6c11\u5bbf",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 191\u865f",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5046933,
+            "lng": 120.6972342
+        },
+        "rating": 3.8,
+        "rating_n": 12,
+        "international_phone_number": "+886 5 256 2302"
+    },
+    {
+        "id": "ChIJN8wg2LzCbjQRRhP2d0w-HAY",
+        "name": "\u963f\u826f\u9244\u652f\u8def\u5f01\u5f53",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 117\u865f",
+        "types": [
+            "restaurant",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5044082,
+            "lng": 120.6950873
+        },
+        "rating": 3.3,
+        "rating_n": 720,
+        "international_phone_number": "+886 5 256 1809"
+    },
+    {
+        "id": "ChIJVZyogMPCbjQRAs7HYIwhJds",
+        "name": "\u596e\u8d77\u6e56\u767b\u5c71\u98df\u5802\u4fbf\u7576",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 168\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5052257,
+            "lng": 120.6951546
+        },
+        "rating": 3.2,
+        "rating_n": 354,
+        "international_phone_number": "+886 5 256 2666"
+    },
+    {
+        "id": "ChIJN2KbiMTCbjQR9HD_A9IevsU",
+        "name": "Fenchihu Hotel",
+        "address": "60497, Taiwan, Chiayi County, Zhuqi Township, 178-1\u865f",
+        "types": [
+            "lodging",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.505058,
+            "lng": 120.695497
+        },
+        "rating": 3.6,
+        "rating_n": 2334,
+        "international_phone_number": "+886 5 256 1888"
+    },
+    {
+        "id": "ChIJ9f9EeB3objQRLST-jKkwFLs",
+        "name": "Zhu Yuan Homestay",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, \u4e2d\u548c\u6751\u77f3\u68f92-7\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4819313,
+            "lng": 120.6989279
+        },
+        "rating": 4,
+        "rating_n": 684,
+        "international_phone_number": "+886 5 256 2565"
+    },
+    {
+        "id": "ChIJNegyna_CbjQRpbG02l8v6_k",
+        "name": "Long Yun Leisure Farm",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, \u4e2d\u548c\u6751\u77f3\u68f91\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.487212,
+            "lng": 120.703602
+        },
+        "rating": 3.8,
+        "rating_n": 751,
+        "international_phone_number": "+886 5 256 2216"
+    },
+    {
+        "id": "ChIJVVVVVdHpbjQRexC2oEB8urs",
+        "name": "\u89c0\u661f\u5712\u4f11\u9592\u751f\u614b\u6c11\u5bbf(\u706b\u91d1\u59d1\u6c11\u5bbf)",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, \u5149\u83ef\u67512\u9130\u9802\u7b28\u4ed423-8\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4808843,
+            "lng": 120.6734861
+        },
+        "rating": 4.3,
+        "rating_n": 204,
+        "international_phone_number": "+886 5 256 1772"
+    },
+    {
+        "id": "ChIJlSyEp5vCbjQR518XLepjiYI",
+        "name": "\u6e58\u6cc9\u4f11\u9592\u6c11\u5bbf",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 9\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4854769,
+            "lng": 120.6807347
+        },
+        "rating": 4.3,
+        "rating_n": 203,
+        "international_phone_number": "+886 5 256 1643"
+    },
+    {
+        "id": "ChIJHahwOwABaDQRAVxiYgVieHw",
+        "name": "\u5609\u7fa9\u4eba\u53e4\u65e9\u5473\u7cd5\u9ede",
+        "address": "No. 1\u4e4b4\u865f, Section 3, Zhongxing Rd, Xindian District, New Taipei City, Taiwan 231",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 24.9766824,
+            "lng": 121.5459688
+        },
+        "rating": 5
+    },
+    {
+        "id": "ChIJXzWHXFG9bjQR06yD3H1LHhk",
+        "name": "\u963f\u8c93\u4f2f\u7c89\u689d\u5927\u738b",
+        "address": "No. 141\u865f, Xinmin Rd, Xingang Township, Chiayi County, Taiwan 616",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.556355,
+            "lng": 120.3498693
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 5 374 1832"
+    },
+    {
+        "id": "ChIJQ6O-9FS9bjQRCRV6XDk2g2E",
+        "name": "\u65b0\u6e2f\u5ba2\u5ef3",
+        "address": "No. 2\u865f, Zhongzheng Rd, Xingang Township, Chiayi County, Taiwan 616",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5547021,
+            "lng": 120.3461915
+        },
+        "rating": 4,
+        "international_phone_number": "+886 5 374 8472"
+    },
+    {
+        "id": "ChIJDdmCoVS9bjQR684vWwNwbIM",
+        "name": "\u65b0\u6e2f\u624b\u5de5\u5305\u5b50\u9945\u982d",
+        "address": "No. 142, Dengyun Rd, Xingang Township, Chiayi County, Taiwan 616",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5561534,
+            "lng": 120.3449606
+        },
+        "rating": 3.3,
+        "international_phone_number": "+886 5 374 3657"
+    },
+    {
+        "id": "ChIJU9lgWlG9bjQRpNzWPR-3bc0",
+        "name": "\u963f\u6b63\u5e2b\u7c89\u689d\u51b0",
+        "address": "No. 142\u865f, Xinmin Rd, Xingang Township, Chiayi County, Taiwan 61693",
+        "types": [
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.55622,
+            "lng": 120.349865
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 5 374 8816"
+    },
+    {
+        "id": "ChIJlznWplO9bjQR2TODH3NDsHY",
+        "name": "\u65b0\u6e2f\u7897\u7cbf\u8ca1",
+        "address": "No. 81\u865f, Zhongzheng Rd, Xingang Township, Chiayi County, Taiwan 61641",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5575571,
+            "lng": 120.3465782
+        },
+        "rating": 4,
+        "international_phone_number": "+886 5 374 6358"
+    },
+    {
+        "id": "ChIJ23YZEs_AbjQRBbxXYaCIJN0",
+        "name": "\u7c89\u8c6c\u80ba\u7c89\u6709\u5473",
+        "address": "No. 52\u865f, Zhongshan Rd, Meishan Township, Chiayi County, Taiwan 603",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5813146,
+            "lng": 120.5590958
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 952 828 786"
+    },
+    {
+        "id": "ChIJN8wg2LzCbjQRPvN5WG0bzAg",
+        "name": "\u611b\u7389\u4f2f\u311f\u539d \uff08\u6c92\u6709\u5916\u5e36\uff095/28-31\u5e97\u4f11",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 151\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5047774,
+            "lng": 120.6952991
+        },
+        "rating": 4.6,
+        "rating_n": 744,
+        "international_phone_number": "+886 5 256 1330"
+    },
+    {
+        "id": "ChIJdYU1f8TCbjQRMV1iu06uD_M",
+        "name": "Derming Bakery",
+        "address": "604, Taiwan, Chiayi County, Zhuqi Township, 146\u865f",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5050921,
+            "lng": 120.6949006
+        },
+        "rating": 4.2,
+        "rating_n": 112,
+        "international_phone_number": "+886 5 256 1143"
+    },
+    {
+        "id": "ChIJ1Y_84bHqbjQRPzV35dsugV0",
+        "name": "\u82f1\u548c\u50b3\u7d71\u5c0f\u5403",
+        "address": "No. 36\u865f, Luming Road, Zhuqi Township, Chiayi County, Taiwan 604",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4981528,
+            "lng": 120.5330577
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 5 261 1083"
+    },
+    {
+        "id": "ChIJVTfgtAycbjQR3LIOrH27FKg",
+        "name": "\u6734\u5b50\u8eca\u7ad9\u9ed1\u767d\u5207",
+        "address": "No. 32\u865f, Shixi Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4654272,
+            "lng": 120.2440527
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 937 308 369"
+    },
+    {
+        "id": "ChIJ_____3ScbjQRo_X4nJNccTY",
+        "name": "\u798f\u5dde\u610f\u9eb5\u5c08\u8ce3\u5e97",
+        "address": "613, Taiwan, Chiayi County, Puzi City, \u5e73\u548c\u91cc\u6d77\u901a\u8def13\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4638138,
+            "lng": 120.2461603
+        },
+        "rating": 4.4,
+        "rating_n": 205,
+        "international_phone_number": "+886 5 370 0332"
+    },
+    {
+        "id": "ChIJnTVOlQycbjQRFQan_18J3SA",
+        "name": "\u6c38\u8c50\u6625\u6372\u51b0\u679c\u5ba4",
+        "address": "613, Taiwan, Chiayi County, Puzi City, \u7b2c\u4e00\u5e02\u583459\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4666018,
+            "lng": 120.2442744
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 5 379 4025"
+    },
+    {
+        "id": "ChIJs4VEkQycbjQRQQY_ePRUOxg",
+        "name": "\u516d\u5341\u5e74\u8001\u5e97-\u8cdc\u4f2f\u8089\u5713",
+        "address": "No. 160\u865f, Kaiyuan Rd, Puzi City, Chiayi County, Taiwan 613",
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.467167,
+            "lng": 120.2444923
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 960 727 871"
+    },
+    {
+        "id": "ChIJvzX5ybi-bjQRGTU6X_zwM1Y",
+        "name": "Coffee BAR-DEN",
+        "address": "622, Taiwan, Chiayi County, Dalin Township, Minsheng Rd, 2\u865f\u4e09\u6a13",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5965309,
+            "lng": 120.4571773
+        },
+        "rating": 4,
+        "international_phone_number": "+886 5 264 8366"
+    },
+    {
+        "id": "ChIJi_XBgUfrbjQRj3P7pkwmqUU",
+        "name": "\u5927\u9678\u98f2\u98df\u5e97",
+        "address": "606, Taiwan, Chiayi County, Zhongpu Township, 45\u4e4b2\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4440077,
+            "lng": 120.5422135
+        },
+        "rating": 4.3,
+        "rating_n": 125,
+        "international_phone_number": "+886 5 253 1951"
+    },
+    {
+        "id": "ChIJHzuDTPODbjQRk3E4-KHQFnA",
+        "name": "\u7fc1\u6c0f\u8c46\u83dc\u9eb5\u5e97",
+        "address": "Yizhu Township, Chiayi County, Taiwan 624",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.336255,
+            "lng": 120.244436
+        },
+        "rating": 4.3,
+        "rating_n": 73,
+        "international_phone_number": "+886 5 341 2563"
+    },
+    {
+        "id": "ChIJrTq7pysobDQRt7F5Y13nWkk",
+        "name": "\u505c\u770b\u5403\u86b5\u4ed4\u5305",
+        "address": "625, Taiwan, Chiayi County, Budai Township, Zhongshan Rd, 3\u865fA21",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.379479,
+            "lng": 120.155564
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 928 328 043"
+    },
+    {
+        "id": "ChIJo_9gj9eZbjQRHpQKRHFoKGU",
+        "name": "\u8208\u65fa\u9905\u8216-\u849c\u982d\u9905",
+        "address": "No. 110-3\u865f, Nangong Rd, Liujiao Township, Chiayi County, Taiwan 615",
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4921033,
+            "lng": 120.2919569
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 5 380 2226"
+    },
+    {
+        "id": "ChIJ8QS3o0-cbjQRNJUeFnfSmYM",
+        "name": "Rong Cheng Seafood Restaurant",
+        "address": "614, Taiwan, Chiayi County, Dongshi Township, \u7b2c\u5341\u913052-43\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4665127,
+            "lng": 120.1461258
+        },
+        "rating": 4,
+        "international_phone_number": "+886 5 373 0612"
+    },
+    {
+        "id": "ChIJBTHhEIspbDQRESNvc5kyQR8",
+        "name": "\u9ed1\u76ae\u59b9\u5e03\u888b\u86b5\u4ed4\u6d77\u9bae\u6599\u7406\u5e97",
+        "address": "No. 42\u4e4b1\u865f, Wenchang St, Budai Township, Chiayi County, Taiwan 625",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.3791324,
+            "lng": 120.1542198
+        },
+        "rating": 4.5,
+        "rating_n": 92,
+        "international_phone_number": "+886 910 754 217"
+    },
+    {
+        "id": "ChIJcWExqVW9bjQRXD9RhDOxqoA",
+        "name": "Xiang Wei Restaurant",
+        "address": "616No. 30\u865f, Gongyuan Rd, Xingang Township, Chiayi County, Taiwan 616",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5533226,
+            "lng": 120.3453884
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 5 374 0123"
+    },
+    {
+        "id": "ChIJb9H42g--bjQRo8YjYzBptAY",
+        "name": "\u5c0f\u6642\u5019\u5927\u9905",
+        "address": "621, Taiwan, Chiayi County, Minxiong Township, 1\u4e4b10\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5247501,
+            "lng": 120.4217156
+        },
+        "rating": 3.8,
+        "international_phone_number": "+886 5 221 7973"
+    },
+    {
+        "id": "ChIJvU8NUcibbjQR0XSSRL_M3w8",
+        "name": "\u9996\u5862\u723e\u97d3\u5f0f\u6599\u7406",
+        "address": "613, Taiwan, Chiayi County, Puzi City, \u7965\u548c\u4e8c\u8def\u897f\u6bb521\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4581116,
+            "lng": 120.2867797
+        },
+        "rating": 4.2,
+        "rating_n": 531,
+        "international_phone_number": "+886 5 362 1323"
+    }
+]
