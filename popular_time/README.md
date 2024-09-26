@@ -1,42 +1,50 @@
+# 等候時間預測
 
-# Waiting Time Prediction
+## 專案概述
 
-## Project Overview
-When planning a trip, one crucial factor to consider is the amount of time spent at each spot. However, data retrieved from the Google API does not always include waiting time. This project aims to use popular times data to train a model to predict the waiting time for a site, enabling better planning for travelers.
+在規劃旅程時，考慮每個景點的停留時間是非常重要的。然而，透過 Google API 取得的資料並不總是包含等候時間。本專案的目標是利用熱門時段的資料，訓練一個模型來預測景點的等候時間，以便旅客能更妥善地安排行程。
 
-Considering the potential sparsity of data, I collected popular time data from all spots within Chiayi City, Chiayi County, and Tainan to build and improve the predictive model.
+考量到資料稀疏性的可能，我蒐集了嘉義市、嘉義縣及台南各景點的熱門時段資料，以建立和優化預測模型。
 
-## Data Collection Steps
-1. **Install Required Module**
-   * Install the [Populartimes module](https://github.com/m-wrzr/populartimes) to retrieve popular time and waiting time data from the Google API.
+## 資料蒐集步驟
 
-2. **Gather Spot Names for Data Collection**
-   * Use the following tourism sites to obtain the spot names:
-     - [Travel in Chiayi City](https://travel.chiayi.gov.tw/)
-     - [Culture & Tourism Bureau of Chiayi County](https://tbocc.cyhg.gov.tw/)
-     - [TRAVEL TAINAN](https://www.twtainan.net/)
+1. **安裝所需套件**
 
-3. **Retrieve Popular Times and Waiting Time Data**
-   * Use Python scripts to fetch data categorized into four types:
-     1. **nopopular_notimeSpent.json**: Spots with no popular time and no waiting time data.
-     2. **popular_notimeSpent.json**: Spots with only popular time data. The model aims to predict waiting time using this data.
-     3. **nopopular_timeSpent.json**: Spots with only waiting time data.
-     4. **popular_timeSpent.json**: Spots containing both popular time and waiting time data, which will be used to train and test the predictive models.
-   
-   * Example commands to fetch data:
+   - 安裝 [Populartimes 套件](https://github.com/m-wrzr/populartimes) 來透過 Google API 取得熱門時段及等候時間的資料。
+
+2. **蒐集景點名稱以取得資料**
+
+   - 使用以下觀光網站來獲取景點名稱：
+     - [嘉遊網 Chiayi City Travel](https://travel.chiayi.gov.tw/)
+     - [嘉義縣政府文化觀光局](https://tbocc.cyhg.gov.tw/)
+     - [台南旅遊網 TRAVEL TAINAN](https://www.twtainan.net/)
+
+3. **取得熱門時段及等候時間資料**
+
+   - 使用 Python 腳本來抓取並分類資料為四種類型：
+
+     1. **nopopular_notimeSpent.json**：沒有熱門時段及等候時間的景點。
+     2. **popular_notimeSpent.json**：只有熱門時段資料的景點。這部分資料是我們希望利用來預測等候時間的重點。
+     3. **nopopular_timeSpent.json**：只有等候時間資料的景點。
+     4. **popular_timeSpent.json**：包含熱門時段及等候時間的景點，可用於訓練及測試預測模型。
+
+   - 抓取資料的指令範例：
+
      ```bash
      python3 getPopular_chiayi.py ./webcrab/chiayi_food.txt
-     # For Chiayi, use the getPopular_chiayi.py script
-     
+     # 嘉義資料使用 getPopular_chiayi.py 腳本
+
      python3 getPopular_tainan.py ./webcrab/tainan_food.txt
-     # For Tainan, use the getPopular_tainan.py script
+     # 台南資料使用 getPopular_tainan.py 腳本
      ```
 
-## Model Training
-* After data collection, train a model to predict waiting times using the popular times data.
-* Details on the prediction process and model performance can be found in `waiting_time.md`.
+## 模型訓練
 
-## Future Improvements
-- Experiment with different machine learning models and feature engineering to improve waiting time predictions.
-- Expand data collection to additional regions or spots to enhance model robustness.
-- Integrate the model into a user-friendly tool or API for easy access during travel planning.
+- 資料蒐集完成後，利用熱門時段資料訓練模型，預測景點的等候時間。
+- 有關預測過程及模型效能的詳細說明，請參考 `waiting_time.md`。
+
+## 未來改進
+
+- 嘗試使用不同的機器學習模型及特徵工程，以改善等候時間預測的準確性。
+- 擴展資料蒐集範圍，納入更多地區或景點，以提升模型的穩健性。
+- 將模型整合到易於使用的工具或 API 中，方便旅客在規劃行程時查詢。
