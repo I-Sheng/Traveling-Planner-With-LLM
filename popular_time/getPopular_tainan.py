@@ -3,6 +3,11 @@ import sys
 import json
 import populartimes
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_KEY = os.getenv('GOOGLE_MAP_API_KEY') #Load API key from .env
 
 
 def dumpList(data: list, file_path: str):
