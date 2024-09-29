@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "routing"
+version = "0.1.0"
+description = ""
+authors = ["isheng"]
+#readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ortools = "^9.11.4210"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
