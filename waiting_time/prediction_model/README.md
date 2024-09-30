@@ -11,7 +11,9 @@
 ## 損失函數（Loss Function）
 1. **MAE**: 使用 PyTorch 的 L1 loss 作為基準。
 1. Q Error: 
+```
 q<sub>error</sub> = |p - q| / q
+```
 其中，`p` 為預測值，`q` 為真實值。
 
 ## 模型性能比較
