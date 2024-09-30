@@ -35,7 +35,7 @@ Considering the potential sparsity of data, I collected popular time data from a
 
 ## Model Training
 * After data collection, train a model to predict waiting times using the popular times data.
-* Details on the prediction process and model performance can be found in `waiting_time.md`.
+* Details on the prediction process and model performance can be found in `prediciton_model`.
 
 ## Future Improvements
 - Experiment with different machine learning models and feature engineering to improve waiting time predictions.
