@@ -11,8 +11,10 @@
 ## 損失函數（Loss Function）
 1. **MAE**: 使用 PyTorch 的 L1 loss 作為基準。
 2. **Q Error**: 
-$$ q_{\text{error}} = \frac{|p - q|}{q} $$
-   其中，`p` 為預測值，`q` 為真實值。
+$$
+q_{\text{error}} += \frac{|p - q|}{q}
+$$
+其中，`p` 為預測值，`q` 為真實值。
 
 ## 模型性能比較
 
@@ -28,7 +30,7 @@ $$ q_{\text{error}} = \frac{|p - q|}{q} $$
 |          | model2  | 30.2178       | 84                | 0.4879      | 60              |
 | **LSTM** | model1  | 14.6243       | 1825              | 0.3841      | 1833            |
 |          | model2  | 36.4877       | 1629              | 0.5095      | 281             |
-* 我們最後選擇RNN的 model 來預測我們的停留時間上限，因為它在 model1, model2 裡均 Q loss 最小
+* 我們最後選擇 RNN 的 model 來預測我們的停留時間上限，因為它在 model1, model2 裡均 Q loss 最小
 ## 模型 Code
 
 - [GRU 模型代碼](https://colab.research.google.com/drive/1EdBMtwskH62YuKUllwOkzP5mXTN1yZBe?usp=sharing)
@@ -50,7 +52,7 @@ $$ q_{\text{error}} = \frac{|p - q|}{q} $$
 |          | newModel2 | 31.6792   | 76                 | 0.4752      | 12                   |
 | **LSTM** | model2    | 36.4877   | 1629               | 0.5095      | 281                  |
 |          | newModel2 | 31.1202   | 218                | 0.4752      | 49                   |
-* 我們最後選擇RNN的newModel2來預測我們的停留時間上限，因為她的Q loss 最小
+* 我們最後選擇 RNN 的 newModel2 來預測我們的停留時間上限，因為她的Q loss 最小
 ## newModel2 Code
 
 - [newModel2_RNN](https://colab.research.google.com/drive/1A41-HbKuhHhpkzfwtj6Aquuf_CHa10bC?usp=sharing)
