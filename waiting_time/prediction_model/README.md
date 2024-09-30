@@ -12,7 +12,7 @@
 1. **MAE**: 使用 PyTorch 的 L1 loss 作為基準。
 1. Q Error: 
 ```math
-q_{\text{error}} += \frac{|p - q|}{q}
+q_{\text{error}} = \frac{|p - q|}{q}
 ```
 其中，`p` 為預測值，`q` 為真實值。
 
