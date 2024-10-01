@@ -30,7 +30,7 @@ q_{\text{error}} = \frac{|p - q|}{q}
 |          | model2  | 30.2178       | 84                | 0.4879      | 60              |
 | **LSTM** | model1  | 14.6243       | 1825              | 0.3841      | 1833            |
 |          | model2  | 36.4877       | 1629              | 0.5095      | 281             |
-* 我們最後選擇 RNN 的 model 來預測我們的停留時間上限，因為它在 model1, model2 裡均 Q loss 最小
+* 我們最終選擇了 RNN 作為預測停留時間上限的模型，因為在 model1 和 model2 中，RNN 的 Q loss 都最小。
 ## 模型 Code
 
 - [GRU 模型代碼](https://colab.research.google.com/drive/1EdBMtwskH62YuKUllwOkzP5mXTN1yZBe?usp=sharing)
@@ -52,9 +52,13 @@ q_{\text{error}} = \frac{|p - q|}{q}
 |          | newModel2 | 31.6792   | 76                 | 0.4752      | 12                   |
 | **LSTM** | model2    | 36.4877   | 1629               | 0.5095      | 281                  |
 |          | newModel2 | 31.1202   | 218                | 0.4752      | 49                   |
-* 我們最後選擇 RNN 的 newModel2 來預測我們的停留時間上限，因為她的Q loss 最小
+* 我們最終選擇了 RNN 的新模型 newModel2 來預測停留時間上限，因為它的 Q loss 最小。
 ## newModel2 Code
 
 - [newModel2_RNN](https://colab.research.google.com/drive/1A41-HbKuhHhpkzfwtj6Aquuf_CHa10bC?usp=sharing)
 - [newModel2_GRU](https://colab.research.google.com/drive/1mMaPH6UVIoYmOsAe5Kx2lawdCpHZ_ADT?usp=sharing)
 - [newModel2_LSTM](https://colab.research.google.com/drive/1oFqsdrmMJPP93IabW7WCTEwBIro_0LZj?usp=sharing)
+
+## FQA
+* Q: 為何不使用 transformer?
+* A: 資料量太少，以天為單位共3117比訓練資料，若用transformer 可能無法訓練好
