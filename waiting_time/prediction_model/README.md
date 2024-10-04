@@ -20,7 +20,7 @@ q_{\text{error}} = \frac{|p - q|}{q}
 
 模型訓練目標為預測餐廳的等候時間，以 MAE 評估模型性能。下表中展示了每個模型的 `model1`（下限）與 `model2`（上限）的測試 MAE loss 和 Q loss 以及對應的 epoch。
 
-| Model    | Version | Best MAE Loss | Epoch of Best MAE | Best Q Loss | Epoch of Best Q Loss |
+|     | Model | Best MAE Loss | Epoch of Best MAE | Best Q Loss | Epoch of Best Q Loss |
 | -------- | ------- | ------------- | ----------------- | ----------- | --------------- |
 | **CNN**  | model1  | 13.9163       | 75                | 0.3780      | 81              |
 |          | model2  | 26.0074       | 85                | 0.4995      | 53              |
@@ -44,7 +44,7 @@ q_{\text{error}} = \frac{|p - q|}{q}
 
 ### newModel2 模型與 model2 比較
 
-| Model    | Version   | Best Loss | Epoch of Best Loss | Best Q Loss | Epoch of Best Q Loss |
+|     | Model   | Best Loss | Epoch of Best Loss | Best Q Loss | Epoch of Best Q Loss |
 | -------- | --------- | --------- | ------------------ | ----------- | -------------------- |
 | **RNN**  | model2    | 27.2800   | 928                | 0.4866      | 890                  |
 |          | newModel2 | 27.0163   | 273                | 0.4682      | 138                  |
