@@ -61,4 +61,4 @@ q_{\text{error}} = \frac{|p - q|}{q}
 
 ## FQA
 * Q: 為何不使用 transformer?
-* A: 資料量太少，以天為單位共3117比訓練資料，若用transformer 可能無法訓練好
+* A: 1. 資料量太少，以天為單位共3117比訓練資料，若用transformer 可能無法訓練好 2. 因為任務簡單，只是預測停留時間上下限
