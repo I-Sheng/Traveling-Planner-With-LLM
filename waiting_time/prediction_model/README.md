@@ -22,7 +22,6 @@ q_{\text{error}} = \frac{|p - q|}{q}
 
 |     | Model | Best MAE Loss | Best Q Loss |
 | -------- | ------- | ------------- | ----------- |
-| **1d-CNN**  | model1  | 13.9163       | 0.3780      |
 |          | model2  | 26.0074       | 0.4995      |
 | **RNN**  | model1  | 13.4247       | 0.3534      |
 |          | model2  | 27.2800       | 0.4866      |
@@ -36,7 +35,6 @@ q_{\text{error}} = \frac{|p - q|}{q}
 - [GRU 模型代碼](https://colab.research.google.com/drive/1EdBMtwskH62YuKUllwOkzP5mXTN1yZBe?usp=sharing)
 - [LSTM 模型代碼](https://colab.research.google.com/drive/1sALbzUHX_04mqT4WX4AHy13H21vctoh0?usp=sharing)
 - [RNN 模型代碼](https://colab.research.google.com/drive/1ntiwLf7wpDGFm7hlah1YTZtEV0hzrvTA?usp=sharing)
-- [CNN 模型代碼](https://colab.research.google.com/drive/1Y5g_BWPK-AIgD9gtE9SQFj0OTxJIxwpv?usp=sharing)
 
 ## 新模型設計（newModel2）
 
