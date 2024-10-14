@@ -5,7 +5,7 @@
 ![旅遊規劃架構圖 (1)](https://github.com/user-attachments/assets/11ae480b-030c-4c18-a28f-2b630f2524e4)
 
 ## 使用者使用情境
-![推薦](https://github.com/user-attachments/assets/dcab964d-b282-4fd4-a675-58ed7603906e)
+![推薦](https://github.com/user-attachments/assets/609b5752-51d6-4b78-8682-69c3dd9d6091)
 ![行程規劃](https://github.com/user-attachments/assets/ec3ef899-9eaf-401b-9581-f4548327aa5e)
 
 ## 專案實作細節
