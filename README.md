@@ -7,9 +7,8 @@
 ![旅遊規劃架構圖 (1)](https://github.com/user-attachments/assets/11ae480b-030c-4c18-a28f-2b630f2524e4)
 
 ## 使用者使用情境
-![推薦](https://github.com/user-attachments/assets/7b400af9-99c3-4f69-b414-1d92bea13539)
-![行程規劃](https://github.com/user-attachments/assets/27bc6290-ebec-45ad-a6ad-03e5c3112d12)
-
+![推薦](https://github.com/user-attachments/assets/dcab964d-b282-4fd4-a675-58ed7603906e)
+![行程規劃](https://github.com/user-attachments/assets/ec3ef899-9eaf-401b-9581-f4548327aa5e)
 
 ## 專案實作細節
 根據專案架構圖，本專案以嘉義旅遊為目的地，實作分為四個主要部分：
