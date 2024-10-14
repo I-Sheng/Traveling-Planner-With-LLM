@@ -4,7 +4,7 @@
 此 GitHub repository 是國科會計畫「以 GPT 為核心的旅遊行程規劃系統」的專案。原計畫中預計使用 GPT（客製化的 ChatGPT）作為核心模型，但隨著科技技術的進步以及客製化需求的增加，現已改用 LangChain 進行實作。
 
 ## 專案架構圖
-![專案架構圖](https://github.com/user-attachments/assets/0197dbd5-e37b-46db-8469-679150e3a7d2)
+![旅遊規劃架構圖 (1)](https://github.com/user-attachments/assets/11ae480b-030c-4c18-a28f-2b630f2524e4)
 
 ## 使用者流程
 1. 使用者根據提示（Prompt）輸入喜好：
