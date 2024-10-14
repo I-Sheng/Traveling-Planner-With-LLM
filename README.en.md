@@ -4,7 +4,7 @@
 This GitHub repository is dedicated to the research project "A GPT-Centric Travel Itinerary Planning System," funded by the National Science and Technology Council. Initially, the project aimed to leverage GPT (a customized ChatGPT model) as its core system. However, with advancements in technology and increasing customization needs, LangChain is now being used for implementation.
 
 ## Project Architecture
-![旅遊規劃架構圖 (1)](https://github.com/user-attachments/assets/12ce4dd8-1250-4d6c-84d4-7d24436c5b34)
+![旅遊規劃架構圖 (1)](https://github.com/user-attachments/assets/64bbf934-b35a-4844-98da-70401c7f85de)
 
 
 ## User Workflow
