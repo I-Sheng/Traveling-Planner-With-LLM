@@ -1,6 +1,4 @@
 # 專案目的
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/I-Sheng/Traveling-Planner-With-LLM/blob/main/README.en.md)
-
 此 GitHub repository 是國科會計畫「以 GPT 為核心的旅遊行程規劃系統」的專案。原計畫中預計使用 GPT（客製化的 ChatGPT）作為核心模型，但隨著科技技術的進步以及客製化需求的增加，現已改用 LangChain 進行實作。
 
 ## 專案架構圖
