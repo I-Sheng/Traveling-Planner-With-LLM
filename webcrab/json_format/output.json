@@ -11,48 +11,36 @@
                "close" : 
                {
                   "day" : 0,
-                  "time" : "2100"
+                  "time" : "1430"
                },
                "open" : 
                {
                   "day" : 0,
-                  "time" : "1100"
+                  "time" : "1130"
                }
             },
             {
                "close" : 
                {
-                  "day" : 1,
-                  "time" : "1400"
-               },
-               "open" : 
-               {
-                  "day" : 1,
-                  "time" : "1100"
-               }
-            },
-            {
-               "close" : 
-               {
-                  "day" : 1,
+                  "day" : 0,
                   "time" : "2030"
                },
                "open" : 
                {
-                  "day" : 1,
-                  "time" : "1700"
+                  "day" : 0,
+                  "time" : "1730"
                }
             },
             {
                "close" : 
                {
                   "day" : 2,
-                  "time" : "1400"
+                  "time" : "1430"
                },
                "open" : 
                {
                   "day" : 2,
-                  "time" : "1100"
+                  "time" : "1130"
                }
             },
             {
@@ -64,19 +52,19 @@
                "open" : 
                {
                   "day" : 2,
-                  "time" : "1700"
+                  "time" : "1730"
                }
             },
             {
                "close" : 
                {
                   "day" : 3,
-                  "time" : "1400"
+                  "time" : "1430"
                },
                "open" : 
                {
                   "day" : 3,
-                  "time" : "1100"
+                  "time" : "1130"
                }
             },
             {
@@ -88,19 +76,19 @@
                "open" : 
                {
                   "day" : 3,
-                  "time" : "1700"
+                  "time" : "1730"
                }
             },
             {
                "close" : 
                {
                   "day" : 4,
-                  "time" : "1400"
+                  "time" : "1430"
                },
                "open" : 
                {
                   "day" : 4,
-                  "time" : "1100"
+                  "time" : "1130"
                }
             },
             {
@@ -112,19 +100,19 @@
                "open" : 
                {
                   "day" : 4,
-                  "time" : "1700"
+                  "time" : "1730"
                }
             },
             {
                "close" : 
                {
                   "day" : 5,
-                  "time" : "1400"
+                  "time" : "1430"
                },
                "open" : 
                {
                   "day" : 5,
-                  "time" : "1100"
+                  "time" : "1130"
                }
             },
             {
@@ -136,31 +124,43 @@
                "open" : 
                {
                   "day" : 5,
-                  "time" : "1700"
+                  "time" : "1730"
                }
             },
             {
                "close" : 
                {
                   "day" : 6,
-                  "time" : "2100"
+                  "time" : "1430"
                },
                "open" : 
                {
                   "day" : 6,
-                  "time" : "1100"
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : 
+               {
+                  "day" : 6,
+                  "time" : "1730"
                }
             }
          ],
          "weekday_text" : 
          [
-            "Monday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM",
-            "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM",
-            "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM",
-            "Thursday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM",
-            "Friday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM",
-            "Saturday: 11:00 AM – 9:00 PM",
-            "Sunday: 11:00 AM – 9:00 PM"
+            "Monday: Closed",
+            "Tuesday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
+            "Wednesday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
+            "Thursday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
+            "Friday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
+            "Saturday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
+            "Sunday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM"
          ]
       }
    },
