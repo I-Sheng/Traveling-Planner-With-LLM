@@ -14,7 +14,6 @@ def time_to_minutes(time):
 # time_string = "Tuesday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM"
 
 def time_to_window(time):
-    print('time: ', time)
     time = time.upper()
     status = time.split(":")[1].strip()
     if status == "CLOSED":
@@ -27,8 +26,6 @@ def time_to_window(time):
     matches = re.findall(r'(\d{1,2}:\d{2})', normalized_time_string)
     day_time = re.findall(r'(?:AM|PM)', normalized_time_string)
 
-    print(matches)
-    print(day_time)
 
     lower = matches[0] + day_time[0]
     upper = matches[-1] + day_time[-1]
@@ -40,10 +37,7 @@ def time_to_window(time):
     time_window = (time_windows[0], time_windows[-1])
     return time_window
 
-
-if __name__ == '__main__':
-
-
+def main():
     weekday_text:list = [
             "Monday: Closed",
             "Tuesday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
@@ -58,4 +52,9 @@ if __name__ == '__main__':
 
     for text in weekday_text:
         print(time_to_window(text))
+
+
+if __name__ == '__main__':
+    main()
+
 
