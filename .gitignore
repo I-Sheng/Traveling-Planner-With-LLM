@@ -3,5 +3,6 @@ db/
 poetry.lock
 .venv
 ref/
-output
+output*
 try*
+__pycache__

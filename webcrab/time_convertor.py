@@ -46,7 +46,7 @@ def main():
             "Friday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
             "Saturday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
             "Sunday: 11:30 AM – 2:30 PM, 5:30 – 8:30 PM",
-            "Sunday: 5:30 – 8:30 PM"
+            # "Sunday: 5:30 – 8:30 PM"
             ]
 
 

@@ -1,5 +1,6 @@
 import os
 import json
+from time_convertor import time_to_window
 
 def dumpJson(data: dict, file_path: str):
     with open(file_path, 'w') as file:
@@ -25,14 +26,15 @@ def merge(prefix: str):
 
         if 'opening_hours' in opening_data[key]['result']:
             data[key]['opening_hours'] = opening_data[key]['result']['opening_hours']['weekday_text']
+            # data[key]['time_window'] = time_to_window(data[key]['opening_hours'])
         else:
             print(f"Warning: 'opening_hours' not found for key: {key}")
             data.pop(key)
 
     dumpJson(data, f'{prefix}.json')
 
-def main():
 
+def main():
     merge('food')
     merge('sites')
 
