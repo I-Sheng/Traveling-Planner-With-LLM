@@ -17,19 +17,21 @@
         "international_phone_number": "+886 5 216 1867"
     },
     {
-        "id": "ChIJtQSpwIOWbjQRUXmf3g2Df1s",
-        "name": "\u5929\u5712\u8336\u884c",
-        "address": "No. 115, Deming Rd, West District, Chiayi City, Taiwan 600",
+        "id": "ChIJ-YLw1CqUbjQRQsbTfOiNJ7c",
+        "name": "\u6590\u5712\u8336\u838a",
+        "address": "No. 935-2\u865f, Youzhong Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "point_of_interest",
-            "food",
             "store",
+            "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4828442,
-            "lng": 120.431756
-        }
+            "lat": 23.48947,
+            "lng": 120.442753
+        },
+        "rating": 4.9,
+        "international_phone_number": "+886 5 234 6899"
     },
     {
         "id": "ChIJBxrFjMuVbjQRfQy1o4bMGV0",
@@ -66,7 +68,7 @@
             "lng": 120.4462136
         },
         "rating": 4.8,
-        "rating_n": 30,
+        "rating_n": 31,
         "international_phone_number": "+886 937 352 880"
     },
     {
@@ -75,9 +77,9 @@
         "address": "No. 29\u865f, Shanghai Rd, West District, Chiayi City, Taiwan 60056",
         "types": [
             "bakery",
-            "store",
             "point_of_interest",
             "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -89,13 +91,13 @@
     },
     {
         "id": "ChIJeyV2iE2UbjQR8KCUFDeJJuQ",
-        "name": "CASA\uff08\u8a02\u4f4d\u4f11\u5047\u8a73\u60c5\u8acb\u898bInstagram \uff09",
+        "name": "CASA",
         "address": "No. 132\u865f, Guangcai St, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
             "bar",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -103,7 +105,7 @@
             "lng": 120.458832
         },
         "rating": 4.8,
-        "rating_n": 342,
+        "rating_n": 372,
         "international_phone_number": "+886 5 278 6588"
     },
     {
@@ -112,9 +114,9 @@
         "address": "No. 165\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
-            "store",
-            "point_of_interest",
             "food",
+            "point_of_interest",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -125,19 +127,23 @@
         "international_phone_number": "+886 981 970 039"
     },
     {
-        "id": "ChIJa2wVWhiVbjQRVaUrz8OsOeM",
-        "name": "\u6a39\u590f\u5228\u51b0\u00b7\u7cf0\u5b50\u5c08\u58f2\u6240(\u516c\u4f11\u65e5\u8acb\u898bIG\u516c\u544a)",
-        "address": "No. 159\u865f, Guanghua Rd, East District, Chiayi City, Taiwan 600",
+        "id": "ChIJjXqddn2VbjQR6qIq7Ehmzi8",
+        "name": "Dou Dou Donut",
+        "address": "No. 26\u865f, Zhongyi St, West District, Chiayi City, Taiwan 600",
         "types": [
+            "bakery",
+            "store",
+            "food",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4793051,
-            "lng": 120.4505841
+            "lat": 23.4761954,
+            "lng": 120.4477578
         },
-        "rating": 4.6,
-        "rating_n": 366
+        "rating": 4.2,
+        "rating_n": 343,
+        "international_phone_number": "+886 915 700 919"
     },
     {
         "id": "ChIJbccDlwOVbjQRt-y-7sy0ZJU",
@@ -153,7 +159,7 @@
             "lng": 120.4630149
         },
         "rating": 4.7,
-        "rating_n": 48,
+        "rating_n": 49,
         "international_phone_number": "+886 5 276 2717"
     },
     {
@@ -171,27 +177,27 @@
             "lng": 120.4513239
         },
         "rating": 4.5,
-        "rating_n": 72,
+        "rating_n": 76,
         "international_phone_number": "+886 5 223 2701"
     },
     {
-        "id": "ChIJg2rNeHqVbjQRrGfpd0wxhX4",
-        "name": "HOT Hi-end Of Tiki",
-        "address": "No. 605\u865f, Guangcai St, West District, Chiayi City, Taiwan 600",
+        "id": "ChIJRRcRA_6VbjQRVXRSxNTTGH0",
+        "name": "\u79e3\u99ac\u9bdb\u9b5a\u71d2\u30fb\u5609\u7fa9",
+        "address": "166\u4e4b1\u865f, Beirong St, West District, Chiayi City, Taiwan 60049",
         "types": [
-            "bar",
+            "store",
+            "restaurant",
             "food",
             "point_of_interest",
-            "store",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4772578,
-            "lng": 120.4410403
+            "lat": 23.480563,
+            "lng": 120.4446704
         },
-        "rating": 4.9,
-        "rating_n": 148,
-        "international_phone_number": "+886 5 227 2720"
+        "rating": 5,
+        "rating_n": 1858,
+        "international_phone_number": "+886 978 506 313"
     },
     {
         "id": "ChIJL_iG1S-UbjQRCcYCXqloXkU",
@@ -200,8 +206,8 @@
         "types": [
             "cafe",
             "restaurant",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -209,7 +215,7 @@
             "lng": 120.4470138
         },
         "rating": 4.9,
-        "rating_n": 375,
+        "rating_n": 413,
         "international_phone_number": "+886 983 811 465"
     },
     {
@@ -229,14 +235,47 @@
         "international_phone_number": "+886 5 216 1919"
     },
     {
+        "id": "ChIJn3WRrjWUbjQRxMXx9A05G0Y",
+        "name": "\u62fe\u7b46",
+        "address": "No. 156\u865f, Chuiyang Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4747392,
+            "lng": 120.4572473
+        },
+        "rating": 4.7,
+        "rating_n": 314
+    },
+    {
+        "id": "ChIJdwdtkfqVbjQRdIwnHgEwpno",
+        "name": "COP bar-Cocktails Of Pioneers",
+        "address": "No. 54-1\u865f, Ximen St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4735621,
+            "lng": 120.4436486
+        },
+        "rating": 5,
+        "rating_n": 580
+    },
+    {
         "id": "ChIJNT2X8vOXbjQR9jjZXuhTzt8",
         "name": "\u596e\u8d77\u798f FENCHIFU",
         "address": "No. 153\u865f, Siwei Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "cafe",
-            "restaurant",
+            "bakery",
             "point_of_interest",
             "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -247,20 +286,57 @@
         "international_phone_number": "+886 900 770 117"
     },
     {
+        "id": "ChIJtx-3FDGUbjQR2fxgs5IpbSI",
+        "name": "\u7d14\u60c5\u5c08\u58f2\u6240",
+        "address": "No. 404\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4799394,
+            "lng": 120.450456
+        },
+        "rating": 4.5,
+        "rating_n": 964,
+        "international_phone_number": "+886 958 609 173"
+    },
+    {
+        "id": "ChIJk2vraaSXbjQRokBNAgH79jk",
+        "name": "\u5947\u559a\u5496\u5561\uff08\u4f11\u606f\u65e5\u8acb\u53c3\u8003ig\u7cbe\u9078\u3001FB)\uff09",
+        "address": "No. 254\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.482976,
+            "lng": 120.4528509
+        },
+        "rating": 4.8,
+        "rating_n": 296,
+        "international_phone_number": "+886 5 271 0886"
+    },
+    {
         "id": "ChIJM5VlNzGUbjQRtqtP5OeP6kU",
         "name": "Darenwei - Japanese and Indian Curry",
         "address": "No. 94, Chengren St, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.47815439999999,
             "lng": 120.4523951
         },
-        "rating": 4.6
+        "rating": 4.6,
+        "rating_n": 955
     },
     {
         "id": "ChIJhUEBjOyVbjQR3wX7_3F-uoo",
@@ -269,8 +345,8 @@
         "types": [
             "grocery_or_supermarket",
             "store",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -281,7 +357,7 @@
     },
     {
         "id": "ChIJw87V2kCVbjQR0NwGwTsewMQ",
-        "name": "\u9752\u6a59\u5761\u4e0a \u30cf\u30f3\u30c9\u30c9\u30ea\u30c3\u30d7\u30b3\u30fc\u30d2\u30fc \u624b\u6c96\u73c8\u7432\u5e97 / \u6765\u5e97\u8acb\u5148\u770b\u6ce8\u610f\u4e8b\u9805",
+        "name": "\u9752\u6a59\u5761\u4e0a \u624b\u6c96\u5496\u5561\u5c08\u9580\u5e97 \u30cf\u30f3\u30c9\u30c9\u30ea\u30c3\u30d7\u30b3\u30fc\u30d2\u30fc / \u6765\u5e97\u8acb\u5148\u770b\u6ce8\u610f\u4e8b\u9805",
         "address": "No. 39\u865f, Lane 106, Daye St, East District, Chiayi City, Taiwan 600",
         "types": [
             "cafe",
@@ -294,8 +370,8 @@
             "lat": 23.4633805,
             "lng": 120.4526088
         },
-        "rating": 4.6,
-        "rating_n": 158
+        "rating": 4.7,
+        "rating_n": 170
     },
     {
         "id": "ChIJMz9joDCUbjQR-V0W9ubSW2g",
@@ -312,25 +388,57 @@
             "lng": 120.4459178
         },
         "rating": 4.7,
-        "rating_n": 34,
+        "rating_n": 35,
         "international_phone_number": "+886 922 900 246"
     },
     {
-        "id": "ChIJ4xd2ROSVbjQRMXaax-8dzPA",
-        "name": "\u8fa3\u6728\u8336\u9928",
+        "id": "ChIJ2-UldACVbjQRcZv1lNhlp3w",
+        "name": "\u8fa3\u6728",
         "address": "No. 346\u865f, Lanjing St, West District, Chiayi City, Taiwan 600",
         "types": [
-            "restaurant",
-            "point_of_interest",
+            "cafe",
+            "store",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.47689919999999,
-            "lng": 120.4427617
+            "lat": 23.4769105,
+            "lng": 120.4427602
+        }
+    },
+    {
+        "id": "ChIJIYGy5cOVbjQRCUy7MmX0Cxg",
+        "name": "\u8d77\u98a8",
+        "address": "600, Taiwan, Chiayi City, East District, \u8208\u696d\u65b0\u675140\u865f",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.468833,
+            "lng": 120.4572541
         },
-        "rating": 4.3,
-        "rating_n": 171
+        "rating": 4.6,
+        "rating_n": 740,
+        "international_phone_number": "+886 5 228 4688"
+    },
+    {
+        "id": "ChIJy7AY-S2VbjQR-Q5KwkUhHUc",
+        "name": "Bar Door to Dream",
+        "address": "No. 164-3\u865f, Xirong St, West District, Chiayi City, Taiwan 60047",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4774845,
+            "lng": 120.4455073
+        },
+        "rating": 4.8,
+        "rating_n": 315,
+        "international_phone_number": "+886 5 229 3866"
     },
     {
         "id": "ChIJ6VHmMGWVbjQRqIhy-9z29Ks",
@@ -338,9 +446,9 @@
         "address": "No. 65\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
         "types": [
             "cafe",
-            "point_of_interest",
-            "food",
             "store",
+            "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -348,7 +456,7 @@
             "lng": 120.4524724
         },
         "rating": 4.7,
-        "rating_n": 112
+        "rating_n": 146
     },
     {
         "id": "ChIJV2ZbicaVbjQRpCB8JDmlhME",
@@ -356,9 +464,9 @@
         "address": "No. 9\u865f, Yanping St, East District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
-            "store",
-            "food",
             "point_of_interest",
+            "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -384,7 +492,7 @@
             "lng": 120.45094
         },
         "rating": 4.3,
-        "rating_n": 800,
+        "rating_n": 799,
         "international_phone_number": "+886 5 229 0190"
     },
     {
@@ -402,7 +510,7 @@
             "lng": 120.461178
         },
         "rating": 4.8,
-        "rating_n": 141,
+        "rating_n": 161,
         "international_phone_number": "+886 5 277 6636"
     },
     {
@@ -414,11 +522,11 @@
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4766594,
-            "lng": 120.4513467
+            "lat": 23.4768219,
+            "lng": 120.4513135
         },
         "rating": 4.9,
-        "rating_n": 14,
+        "rating_n": 20,
         "international_phone_number": "+886 5 225 2522"
     },
     {
@@ -427,8 +535,8 @@
         "address": "No. 228, Shanghai Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -436,7 +544,7 @@
             "lng": 120.4335921
         },
         "rating": 4.8,
-        "rating_n": 168,
+        "rating_n": 175,
         "international_phone_number": "+886 906 990 954"
     },
     {
@@ -458,6 +566,23 @@
         "international_phone_number": "+886 5 225 2077"
     },
     {
+        "id": "ChIJLwzu8ySUbjQRnrgsckWySU0",
+        "name": "Maosheng Sushi House",
+        "address": "No. 89\u865f, Xinrong Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4721408,
+            "lng": 120.444852
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 5 225 9543"
+    },
+    {
         "id": "ChIJXWQX6UCVbjQRiW_0v2sNFYA",
         "name": "\u5f88\u8ce2\u3002\u5f88\u8559\u3002",
         "address": "600, Taiwan, Chiayi City, West District, Zhongyi St, 93\u865f2 \u6a13",
@@ -469,6 +594,25 @@
             "lat": 23.4783378,
             "lng": 120.4474313
         }
+    },
+    {
+        "id": "ChIJaaw1MsuVbjQRYU95jQP6cUo",
+        "name": "\u6e6f\u57ce\u9d5d\u884c - \u6210\u4ec1\u5e97-\u5609\u7fa9\u5fc5\u5403\u7f8e\u98df/\u9910\u5ef3/\u9d5d\u8089\u6599\u7406 2024\u5728\u5730\u4eba\u63a8\u85a6/\u50b3\u7d71\u5c0f\u5403 \u5916\u5e36\u7f8e\u98df \u9d5d\u6cb9\u62cc\u98ef/\u9d5d\u51ac\u7c89/\u9d5d\u86cb/\u6ef7\u5473 \u98df\u5c1a\u73a9\u5bb6 \u5e73\u50f9\u71b1\u9580\u7279\u8272\u4eba\u6c23\u63a8\u85a6 PTT/Dcard",
+        "address": "No. 228\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.482967,
+            "lng": 120.4511993
+        },
+        "rating": 4.2,
+        "rating_n": 442,
+        "international_phone_number": "+886 953 650 350"
     },
     {
         "id": "ChIJc5Q78Z2VbjQR2WcZLx0OLTw",
@@ -487,14 +631,12 @@
     },
     {
         "id": "ChIJszXmekOVbjQRp26MXHwweNk",
-        "name": "\u5169 \u9846\u86cb Egg Egg Dessert",
+        "name": "\u5169 \u9846\u86cb\u751c\u9edeEgg Egg Dessert",
         "address": "No. 108\u865f, Lanjing St, East District, Chiayi City, Taiwan 600",
         "types": [
-            "cafe",
-            "bakery",
-            "point_of_interest",
-            "food",
             "store",
+            "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -502,46 +644,8 @@
             "lng": 120.4539007
         },
         "rating": 4.6,
-        "rating_n": 384,
+        "rating_n": 399,
         "international_phone_number": "+886 5 222 7708"
-    },
-    {
-        "id": "ChIJeawkLLOVbjQR-4AcOK6ryzg",
-        "name": "Chiayi City Historical Relic Museum",
-        "address": "No. 42, Gongyuan St, East District, Chiayi City, Taiwan 600",
-        "types": [
-            "museum",
-            "restaurant",
-            "point_of_interest",
-            "food",
-            "store",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.4810872,
-            "lng": 120.4675134
-        },
-        "rating": 4.3,
-        "international_phone_number": "+886 5 277 0518"
-    },
-    {
-        "id": "ChIJwcllssiVbjQRD7QqrKd4o4Y",
-        "name": "mumushan.dessert(\u5df2\u7121\u63d0\u4f9b\u5167\u7528\uff09",
-        "address": "No. 267\u865f, Xirong St, West District, Chiayi City, Taiwan 600",
-        "types": [
-            "bakery",
-            "store",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.480864,
-            "lng": 120.4448727
-        },
-        "rating": 4.6,
-        "rating_n": 256,
-        "international_phone_number": "+886 5 228 0067"
     },
     {
         "id": "ChIJjz1RjC2UbjQRroRsioI72Pc",
@@ -575,7 +679,7 @@
             "lng": 120.453651
         },
         "rating": 4.7,
-        "rating_n": 107
+        "rating_n": 123
     },
     {
         "id": "ChIJvVufJP6VbjQRyCUkZ78Qkfc",
@@ -591,7 +695,8 @@
             "lng": 120.4524478
         },
         "rating": 4.8,
-        "rating_n": 96
+        "rating_n": 110,
+        "international_phone_number": "+886 5 227 7299"
     },
     {
         "id": "ChIJvUqSPASVbjQRukW4apGPjrI",
@@ -600,8 +705,8 @@
         "types": [
             "bakery",
             "food",
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -609,18 +714,18 @@
             "lng": 120.4404694
         },
         "rating": 4.9,
-        "rating_n": 76
+        "rating_n": 82
     },
     {
         "id": "ChIJEWL3ibqVbjQRcWnNvrloWWY",
         "name": "\u79cb\u66f8\u5ba4",
         "address": "No. 494\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "cafe",
             "book_store",
-            "store",
-            "food",
+            "cafe",
             "point_of_interest",
+            "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -628,18 +733,18 @@
             "lng": 120.4447895
         },
         "rating": 4.8,
-        "rating_n": 55,
+        "rating_n": 68,
         "international_phone_number": "+886 937 669 222"
     },
     {
         "id": "ChIJZdRB_zSUbjQRvFeTJ0zvYZE",
         "name": "J x Acces",
-        "address": "No. 130, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "address": "No. 130\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "grocery_or_supermarket",
-            "store",
-            "food",
             "point_of_interest",
+            "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -647,52 +752,34 @@
             "lng": 120.455789
         },
         "rating": 4.8,
-        "rating_n": 38
+        "rating_n": 46
     },
     {
-        "id": "ChIJr4ZlZS6UbjQR1OusZ6vqUZU",
-        "name": "Archers Kitchen \u5f13\u7bad\u624b",
-        "address": "No. 2\u865f, Lane 13, Yong'an St, West District, Chiayi City, Taiwan 600",
+        "id": "ChIJow9qRZyVbjQRNHvzqP3lXXs",
+        "name": "Le Pissenlit \u76ae\u7d22\u5c3c\u6cd5\u5f0f\u5c0f\u9928",
+        "address": "No. 371\u865f, Section 3, Shixian Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "cafe",
-            "store",
             "restaurant",
             "food",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4714837,
-            "lng": 120.4522484
+            "lat": 23.461666,
+            "lng": 120.4358259
         },
-        "rating": 4.6,
-        "rating_n": 478,
-        "international_phone_number": "+886 5 228 8066"
-    },
-    {
-        "id": "ChIJqc1xjjGUbjQRz0_CqkVZuzo",
-        "name": "\u5609\u7fa9\u4e03\u5f69\u51b0\u679c\u5ba4",
-        "address": "No. 329\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
-        "types": [
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.4797533,
-            "lng": 120.4491093
-        },
-        "rating": 4.5,
-        "rating_n": 669,
-        "international_phone_number": "+886 5 227 1953"
+        "rating": 4.8,
+        "rating_n": 431,
+        "international_phone_number": "+886 5 235 0234"
     },
     {
         "id": "ChIJQzuiruqVbjQRi6n8uikXno4",
-        "name": "\u7396\u96f6\u751c\u98df\u6240",
+        "name": "\u7396\u96f6\u88fd\u83d3",
         "address": "No. 447\u865f, Guangcai St, West District, Chiayi City, Taiwan 600",
         "types": [
+            "food",
             "store",
             "point_of_interest",
-            "food",
             "establishment"
         ],
         "coordinates": {
@@ -700,8 +787,25 @@
             "lng": 120.4471312
         },
         "rating": 4.2,
-        "rating_n": 113,
+        "rating_n": 125,
         "international_phone_number": "+886 960 076 559"
+    },
+    {
+        "id": "ChIJ4ejIPTCUbjQRgE5YCc3IjI4",
+        "name": "\u5609\u7fa9-\u79d8\u6c0f\u5496\u5561(\u4f11\u5047\u65e5\u8207\u83dc\u55ae\u8acb\u53c3\u8003IG)",
+        "address": "No. 288\u865f, Yanping St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4767054,
+            "lng": 120.448291
+        },
+        "rating": 4.7,
+        "rating_n": 346
     },
     {
         "id": "ChIJUSYSKzCUbjQRzkLOIqOYmqM",
@@ -734,7 +838,7 @@
             "lng": 120.4499307
         },
         "rating": 4.7,
-        "rating_n": 168
+        "rating_n": 171
     },
     {
         "id": "ChIJKSKRbiyUbjQRGBRx6nW-IyA",
@@ -742,9 +846,9 @@
         "address": "No. 86\u865f, Beixing St, West District, Chiayi City, Taiwan 600",
         "types": [
             "book_store",
-            "store",
             "point_of_interest",
             "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -752,7 +856,7 @@
             "lng": 120.4428437
         },
         "rating": 4.6,
-        "rating_n": 263,
+        "rating_n": 268,
         "international_phone_number": "+886 5 231 1031"
     },
     {
@@ -769,8 +873,26 @@
             "lat": 23.4762236,
             "lng": 120.4534743
         },
-        "rating": 4.3,
+        "rating": 4.5,
         "international_phone_number": "+886 5 222 7171"
+    },
+    {
+        "id": "ChIJy5M1jy2UbjQRrxERunH9GJQ",
+        "name": "BES coffee",
+        "address": "No. 278\u865f, Changrong St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4828878,
+            "lng": 120.4469231
+        },
+        "rating": 4.8,
+        "rating_n": 289,
+        "international_phone_number": "+886 909 712 080"
     },
     {
         "id": "ChIJi5W7HTOVbjQREtfhYDtrmOo",
@@ -786,8 +908,8 @@
             "lat": 23.4757994,
             "lng": 120.4434168
         },
-        "rating": 4.7,
-        "rating_n": 139
+        "rating": 4.8,
+        "rating_n": 166
     },
     {
         "id": "ChIJlUns5TmUbjQRIEQJHEryRIY",
@@ -806,13 +928,48 @@
         "international_phone_number": "+886 5 225 9449"
     },
     {
+        "id": "ChIJEaMDozKVbjQRI2Crpui2t4Y",
+        "name": "\u570b\u738b\u8774\u8776\u5496\u5561 Roicafe",
+        "address": "600, Taiwan, Chiayi City, West District, Zhongshan Rd, 616\u865fF\u68df2\u6a13",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4759909,
+            "lng": 120.438864
+        },
+        "rating": 4.7,
+        "rating_n": 465,
+        "international_phone_number": "+886 903 898 995"
+    },
+    {
+        "id": "ChIJL5ft5DCUbjQRwgZ9QIxHwVY",
+        "name": "\u5143\u6a02\u5eb5",
+        "address": "No. 200\u865f, Heping Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4824299,
+            "lng": 120.4562177
+        },
+        "rating": 4.3,
+        "international_phone_number": "+886 5 223 0605"
+    },
+    {
         "id": "ChIJT9Wlhb6VbjQRoMG37ZAUoEw",
         "name": "\u5927\u9ea6\u5c0f\u9ea6\u65e5\u5f0f\u9152\u98df",
         "address": "No. 57\u865f, Ronghe St, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -820,7 +977,7 @@
             "lng": 120.4593709
         },
         "rating": 4.6,
-        "rating_n": 39,
+        "rating_n": 62,
         "international_phone_number": "+886 5 277 0052"
     },
     {
@@ -829,24 +986,43 @@
         "address": "No. 110\u865f, Yijiao E Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "book_store",
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.49514199999999,
             "lng": 120.4670297
         },
-        "rating": 4.6,
+        "rating": 4.7,
         "international_phone_number": "+886 5 277 6540"
+    },
+    {
+        "id": "ChIJ33Vo-oKWbjQRma6Wz-Hto2E",
+        "name": "Gelato Girl",
+        "address": "No. 396\u865f, Xingye W Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4678735,
+            "lng": 120.4367137
+        },
+        "rating": 4.9,
+        "international_phone_number": "+886 5 235 2016"
     },
     {
         "id": "ChIJWf-G1zGUbjQRRZhkqOXwPf8",
         "name": "\u8cf4\u4fe1\u6210\u8001\u9999\u8216",
         "address": "No. 463, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -878,8 +1054,8 @@
         "address": "No. 233\u865f, Gonghe Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -894,15 +1070,15 @@
         "name": "\u963f\u4e45\u5e2b-\u81fa\u7063\u7c73\u9ede\u5fc3\u7684\u5c08\u5bb6 | \u7d71\u767e\u98df\u54c1",
         "address": "No. 2\u865f, Baokang Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.5076984,
             "lng": 120.455555
         },
-        "rating": 4.1,
+        "rating": 4.3,
         "international_phone_number": "+886 5 275 5002"
     },
     {
@@ -910,12 +1086,11 @@
         "name": "\u5609\u6728\u5c45",
         "address": "No. 196\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
         "types": [
-            "cafe",
-            "home_goods_store",
             "lodging",
-            "point_of_interest",
+            "home_goods_store",
             "food",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -926,12 +1101,44 @@
         "international_phone_number": "+886 5 275 0369"
     },
     {
+        "id": "ChIJn7_mEMSVbjQR76fTM0rXFbg",
+        "name": "\u6e3c\u6a58\u5ba2\u65b0\u9bae\u679c\u512a\u683c\u5c08\u8ce3\u5e97",
+        "address": "No. 927\u865f, Yijiao St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.5003144,
+            "lng": 120.452078
+        },
+        "rating": 4.2,
+        "rating_n": 93,
+        "international_phone_number": "+886 5 275 0019"
+    },
+    {
+        "id": "ChIJNWCevIyWbjQRvgTgMkYvMvI",
+        "name": "\u9577\u5713\u98df\u54c1",
+        "address": "No. 1296, Beigang Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4911063,
+            "lng": 120.4017367
+        },
+        "rating": 3.9,
+        "international_phone_number": "+886 5 238 7138"
+    },
+    {
         "id": "ChIJsaI3EpapQjQReTx7qCQTJQU",
         "name": "\u4e00\u8336\u5de5\u623f",
         "address": "No. 1-1\u865f, Lane 14, Yongkang St, Da\u2019an District, Taipei City, Taiwan 106",
         "types": [
-            "cafe",
-            "food",
             "point_of_interest",
             "establishment"
         ],
@@ -939,33 +1146,70 @@
             "lat": 25.03138969999999,
             "lng": 121.529371
         },
-        "rating": 4.5,
+        "rating": 4.4,
         "international_phone_number": "+886 2 2341 5215"
+    },
+    {
+        "id": "ChIJt48aGTCUbjQRMAtUCZls8tM",
+        "name": "\u79cb\u53ef\u857e\u624b\u5de5\u751f\u5de7\u514b\u529b\uff08\u79cb\u8a69\u6642\u88dd\uff09",
+        "address": "\u865f No, No. 40, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.476478,
+            "lng": 120.4477712
+        },
+        "rating": 4.8,
+        "rating_n": 51,
+        "international_phone_number": "+886 5 229 3468"
     },
     {
         "id": "ChIJJ-W3OumVbjQR-PfJTOw5IWo",
         "name": "\u85af\u8077\u4eba\u98df\u54c1\u5546\u5e97-\u52c7\u4f2f\u5730\u74dc\u9165\u65d7\u8266\u9580\u5e02",
         "address": "No. 15\u865f, Qingnian St, West District, Chiayi City, Taiwan 600",
         "types": [
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.4690368,
             "lng": 120.4376461
         },
-        "rating": 4.4,
+        "rating": 4.3,
         "international_phone_number": "+886 988 711 232"
+    },
+    {
+        "id": "ChIJ-WF57DOUbjQRyaQjsRhun58",
+        "name": "Old Yard 1951",
+        "address": "No. 201\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4810985,
+            "lng": 120.4518709
+        },
+        "rating": 4.5,
+        "rating_n": 520,
+        "international_phone_number": "+886 5 227 1951"
     },
     {
         "id": "ChIJk4xXRH-VbjQRZZV3wBPHzys",
         "name": "\u611b\u592b\u592b\u5496\u5561ifufucoffee",
-        "address": "No. 552-1\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "address": "No. 48\u865f, Tairui 2nd St, West District, Chiayi City, Taiwan 600",
         "types": [
-            "bakery",
-            "pet_store",
             "cafe",
+            "pet_store",
+            "bakery",
             "restaurant",
             "point_of_interest",
             "food",
@@ -973,20 +1217,19 @@
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4942401,
-            "lng": 120.4528193
+            "lat": 23.4852762,
+            "lng": 120.4258113
         },
-        "rating": 4.6,
-        "international_phone_number": "+886 5 275 9119"
+        "rating": 4.5
     },
     {
         "id": "ChIJC8g2mRuVbjQRvXdbjPr_vYs",
-        "name": "\u693f\u8c50\u8336\u696d_\u9580\u5e02",
+        "name": "\u693f\u8c50\u8336\u696d_\u9580\u5e02\u300a\u512a\u8cea\u8336\u8449\u300b\u6bd4\u8cfd\u8336\u8449\uff5c\u9996\u9078\u8336\u8449\uff5c\u7cbe\u9078\uff5c\u9ad8\u54c1\u8cea\uff5c\u9ad8\u5c71\u8336\u8449\uff5c\u9001\u79ae\uff5c\u597d\u8336\u63a8\u85a6",
         "address": "No. 430\u865f, Liren Rd, East District, Chiayi City, Taiwan 60063",
         "types": [
             "store",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -997,25 +1240,25 @@
         "international_phone_number": "+886 972 622 000"
     },
     {
-        "id": "ChIJHwiGPUeVbjQRG9OHB0PjVQk",
-        "name": "\u5c0f\u592b\u59bb\u62cc\u9eb5 \u6a9c\u610f\u9580\u5e02(T14A\u9928)",
-        "address": "No. 4\u865f, Lane 378, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "id": "ChIJ26SudAuWbjQRgADhGRqZS6E",
+        "name": "\u5c0f\u592b\u59bb\u98df\u54c1\u4f01\u696d\u6709\u9650\u516c\u53f8(\u5c0f\u592b\u59bb\u62cc\u9eb5)",
+        "address": "621, Taiwan, Chiayi County, Minxiong Township, 590\u865f \u4e4b 11",
         "types": [
-            "store",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4860064,
-            "lng": 120.4551696
+            "lat": 23.5121578,
+            "lng": 120.4322826
         },
-        "rating": 4.4,
+        "rating": 4.3,
+        "rating_n": 71,
         "international_phone_number": "+886 5 220 0655"
     },
     {
-        "id": "ChIJ216ACjOUbjQRzaNynu8AL-w",
-        "name": "SweetFarm",
-        "address": "No. 300-3\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "id": "ChIJdbchjzGUbjQRGHXoANPwyag",
+        "name": "New Taiwan Bakery",
+        "address": "No. 294\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
             "store",
@@ -1024,11 +1267,11 @@
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4826793,
-            "lng": 120.4514157
+            "lat": 23.4800757,
+            "lng": 120.4493101
         },
-        "rating": 4.8,
-        "international_phone_number": "+886 5 277 0093"
+        "rating": 4.3,
+        "international_phone_number": "+886 5 222 2154"
     },
     {
         "id": "ChIJpw9jmy2UbjQRVT9C7GxHXbI",
@@ -1044,26 +1287,45 @@
             "lat": 23.4831551,
             "lng": 120.4464573
         },
-        "rating": 4.8,
-        "rating_n": 186,
+        "rating": 4.7,
+        "rating_n": 197,
         "international_phone_number": "+886 5 228 8073"
+    },
+    {
+        "id": "ChIJcfugjjOUbjQR9kN4ZJK50cs",
+        "name": "Fortune P\u00e2tisserie.",
+        "address": "No. 220\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4831902,
+            "lng": 120.4541181
+        },
+        "rating": 4.2,
+        "rating_n": 523,
+        "international_phone_number": "+886 5 225 6058"
     },
     {
         "id": "ChIJbwa-pDaUbjQRsrG97EEOFH4",
         "name": "\u6771\u5e02\u5834\u8881\u5bb6\u7fb9\u9eb5",
-        "address": "600, Taiwan, Chiayi City, East District, \u6771\u5e02\u5834\u98f2\u98df\u5340",
+        "address": "600, Taiwan, Chiayi City, East District, \u6771\u5e02\u5834\u56db\u534034\u865f",
         "types": [
+            "food",
             "store",
             "point_of_interest",
-            "food",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.47885149999999,
-            "lng": 120.4541713
+            "lat": 23.4785973,
+            "lng": 120.4543988
         },
-        "rating": 4.4,
-        "rating_n": 36
+        "rating": 4.5,
+        "rating_n": 44
     },
     {
         "id": "ChIJ1Z5j7DOUbjQRk9AGYpeKO5Y",
@@ -1072,10 +1334,10 @@
         "types": [
             "cafe",
             "meal_takeaway",
-            "store",
             "restaurant",
-            "food",
             "point_of_interest",
+            "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -1086,19 +1348,22 @@
         "international_phone_number": "+886 5 224 5033"
     },
     {
-        "id": "ChIJUVQYFqerQjQR5oaU-RSTDh8",
-        "name": "\u8a31\u5bb6\u73ed\u9905\u8216",
-        "address": "No. 68\u865f, Fude St, Xinyi District, Taipei City, Taiwan 110",
+        "id": "ChIJC1yiaciVbjQRx2A-Jk5s5KE",
+        "name": "\u8a31\u5bb6\u9298\u9905\u8216",
+        "address": "No. 655, Xinsheng Rd, East District, Chiayi City, Taiwan 600",
         "types": [
+            "bakery",
+            "food",
+            "store",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 25.037045,
-            "lng": 121.580802
+            "lat": 23.4936274,
+            "lng": 120.4568871
         },
-        "rating": 2,
-        "international_phone_number": "+886 2 8726 1168"
+        "rating": 4.3,
+        "international_phone_number": "+886 5 277 0888"
     },
     {
         "id": "ChIJXfMMM8SVbjQR0T_yBlhiMc0",
@@ -1113,12 +1378,12 @@
             "lat": 23.4986925,
             "lng": 120.4520565
         },
-        "rating": 4.4,
+        "rating": 3.8,
         "international_phone_number": "+886 933 358 193"
     },
     {
         "id": "ChIJkyabGMaVbjQRB9JiNJIqOiE",
-        "name": "\u9ec3\u91d1\u5ba2\u624b\u5de5\u86cb\u6372\u5c08\u8ce3\u5e97",
+        "name": "\u9ec3\u91d1\u5ba2\u86cb\u6372",
         "address": "No. 741, Xinsheng Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
@@ -1176,8 +1441,8 @@
         "types": [
             "bakery",
             "store",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1188,13 +1453,31 @@
         "international_phone_number": "+886 5 271 6358"
     },
     {
+        "id": "ChIJjwqujkQDaDQRVyV9E83nRmw",
+        "name": "Sunny Queen\u967d\u5149\u7687\u540e\u4eac\u7ad9\u5c0f\u78a7\u6f6d\u5e97",
+        "address": "231, Taiwan, New Taipei City, Xindian District, Zhongyang Rd, 157\u865f5\u6a13",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 24.9723569,
+            "lng": 121.5308004
+        },
+        "rating": 4.5,
+        "rating_n": 1767,
+        "international_phone_number": "+886 2 8913 6679"
+    },
+    {
         "id": "ChIJZS9m_jSUbjQR04DR-40UyHY",
-        "name": "\u5609\u7fa93\u5206\u751c\u7d05\u8c46\u9905",
+        "name": "\u5357\u5cf6\u7d05\u8c46\u9905",
         "address": "No. 130\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "food",
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1202,7 +1485,7 @@
             "lng": 120.455789
         },
         "rating": 4.5,
-        "rating_n": 409,
+        "rating_n": 414,
         "international_phone_number": "+886 928 668 367"
     },
     {
@@ -1219,7 +1502,7 @@
             "lat": 23.4786905,
             "lng": 120.4540887
         },
-        "rating": 4.7,
+        "rating": 4.8,
         "international_phone_number": "+886 5 227 3585"
     },
     {
@@ -1228,8 +1511,8 @@
         "address": "No. 195\u865f, Weixin Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "cafe",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1244,9 +1527,9 @@
         "name": "\u596e\u8d77\u798f\u7c73\u9905\u5e97-\u6a9c\u610f\u68ee\u6d3b\u6751\u9580\u5e02",
         "address": "No. 3\u865f, Lane 378, Gonghe Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "store",
             "point_of_interest",
             "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -1274,11 +1557,11 @@
     {
         "id": "ChIJHZNSWaWVbjQRbJdFNNtmV14",
         "name": "Le Chat Noir \u5c0f\u9ed1\u8c93",
-        "address": "No. 518, Linsen East Rd, East District, Chiayi City, Taiwan 600",
+        "address": "No. 518\u865f, Linsen East Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1286,7 +1569,7 @@
             "lng": 120.4711421
         },
         "rating": 4.5,
-        "rating_n": 104,
+        "rating_n": 110,
         "international_phone_number": "+886 932 125 244"
     },
     {
@@ -1304,25 +1587,25 @@
             "lat": 23.4735692,
             "lng": 120.4541226
         },
-        "rating": 3.9,
+        "rating": 4.2,
         "international_phone_number": "+886 5 222 3061"
     },
     {
-        "id": "ChIJbccDlwOVbjQRt-y-7sy0ZJU",
-        "name": "\u7136\u5f8c\u5de5\u4f5c\u5ba4\uff08\u7121\u5e97\u9762\u3001\u50c5\u958b\u653e\u9810\u7d04\u53d6\u8ca8\uff09",
-        "address": "60077, Taiwan, Chiayi City, East District, \u555f\u660e\u8def124\u865f",
+        "id": "ChIJj_BLPQCVbjQRoDffjhCRxQQ",
+        "name": "\u54c1\u6ecb\u7554\u5805\u679c\u5c08\u9580\u5e97(\u76ee\u524d\u50c5\u958b\u653eLINE\u7dda\u4e0a\u9810\u8a02)",
+        "address": "No. 205\u865f, Xiangrong St, West District, Chiayi City, Taiwan 600",
         "types": [
-            "point_of_interest",
+            "food",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4785858,
-            "lng": 120.4630149
+            "lat": 23.4883532,
+            "lng": 120.4460735
         },
-        "rating": 4.7,
-        "rating_n": 48,
-        "international_phone_number": "+886 5 276 2717"
+        "rating": 5,
+        "international_phone_number": "+886 976 393 226"
     },
     {
         "id": "ChIJ0wvSTU2UbjQR9TeqEzTaO1g",
@@ -1330,8 +1613,8 @@
         "address": "No. 46\u865f, Gongyuan St, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1339,60 +1622,43 @@
             "lng": 120.4691199
         },
         "rating": 4.2,
-        "rating_n": 164,
+        "rating_n": 171,
         "international_phone_number": "+886 5 275 1357"
     },
     {
-        "id": "ChIJXxoEFi6UbjQReQ3oJJtf9kI",
-        "name": "\u53f0\u7063\u9b6f\u8089\u98ef\u6c11\u751f\u5e97",
-        "address": "No. 224\u865f, Minsheng N Rd, West District, Chiayi City, Taiwan 600",
+        "id": "ChIJ-WF57DOUbjQRiQPYdiK_gt8",
+        "name": "\u72ac\u884c\u71d2\u3002 \u70e4\u86cb\u7cd5\u5c08\u8ce3\u5e97",
+        "address": "No. 178\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "restaurant",
             "food",
+            "store",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4799082,
-            "lng": 120.4462743
+            "lat": 23.4812841,
+            "lng": 120.4523574
         },
-        "rating": 3.8,
-        "international_phone_number": "+886 5 223 6765"
+        "rating": 4.4,
+        "rating_n": 564,
+        "international_phone_number": "+886 906 575 393"
     },
     {
         "id": "ChIJG_rcmAOVbjQRa_ljQXYJNQQ",
         "name": "\u6668\u5149\u5496\u5561",
         "address": "No. 98\u865f, Zhongxiao 1st St, East District, Chiayi City, Taiwan 600",
         "types": [
+            "store",
             "food",
             "point_of_interest",
-            "store",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.5056806,
-            "lng": 120.4495607
+            "lat": 23.5059684,
+            "lng": 120.4496694
         },
         "rating": 5,
         "international_phone_number": "+886 5 275 9128"
-    },
-    {
-        "id": "ChIJV5Shm9iVbjQRvtR-I6K-q2k",
-        "name": "\u62cd\u62cd\u6ce1\u8299",
-        "address": "60042, Taiwan, Chiayi City, West District, \u4e2d\u592e\u7b2c\u4e8c\u5546\u583447\u865f",
-        "types": [
-            "store",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.4785997,
-            "lng": 120.4491702
-        },
-        "rating": 4.6,
-        "rating_n": 91,
-        "international_phone_number": "+886 5 222 0189"
     },
     {
         "id": "ChIJleB4VS-UbjQRQECZFz-pFq0",
@@ -1415,8 +1681,8 @@
         "address": "600, Taiwan, Chiayi City, West District, 18\u865f, \u5609\u7fa9\u5e02\u6771\u5340\u6771\u5e02\u58344\u5340",
         "types": [
             "restaurant",
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
@@ -1424,7 +1690,7 @@
             "lng": 120.4539197
         },
         "rating": 4.4,
-        "rating_n": 17,
+        "rating_n": 24,
         "international_phone_number": "+886 5 225 1919"
     },
     {
@@ -1441,7 +1707,7 @@
             "lng": 120.4290557
         },
         "rating": 4.8,
-        "rating_n": 78,
+        "rating_n": 86,
         "international_phone_number": "+886 5 232 1268"
     },
     {
@@ -1465,16 +1731,16 @@
         "name": "Ming Xiang Ming Tea",
         "address": "600No. 47\u865f, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
         "types": [
+            "store",
             "food",
             "point_of_interest",
-            "store",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.4751784,
             "lng": 120.4535688
         },
-        "rating": 5,
+        "rating": 4.9,
         "international_phone_number": "+886 5 224 4888"
     },
     {
@@ -1482,15 +1748,15 @@
         "name": "\u52e4\u5104\u86cb\u54c1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
         "address": "No. 37\u865f, Xinmin Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.4519844,
             "lng": 120.4313964
         },
-        "rating": 3.6,
+        "rating": 3.7,
         "international_phone_number": "+886 5 235 4516"
     },
     {
@@ -1515,9 +1781,9 @@
         "address": "No. 28\u865f, Lane 195, Ren'ai Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "grocery_or_supermarket",
-            "store",
-            "food",
             "point_of_interest",
+            "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -1526,6 +1792,25 @@
         },
         "rating": 5,
         "international_phone_number": "+886 934 002 877"
+    },
+    {
+        "id": "ChIJUaBDBwSUbjQRKhg_xX-KwJc",
+        "name": "\u5609\u51a0\u559c(\u5477\u6163\u7fd2)\u714e\u9905",
+        "address": "60053, Taiwan, Chiayi City, West District, \u6e56\u5b50\u5167\u8def263\u865f",
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4500026,
+            "lng": 120.4414869
+        },
+        "rating": 4.2,
+        "rating_n": 211,
+        "international_phone_number": "+886 911 737 902"
     },
     {
         "id": "ChIJ26SudAuWbjQRgADhGRqZS6E",
@@ -1548,9 +1833,9 @@
         "address": "No. 178, Wuxian St, West District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
-            "point_of_interest",
             "food",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1567,16 +1852,16 @@
         "address": "No. 365\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
+            "food",
             "store",
             "point_of_interest",
-            "food",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.4787729,
             "lng": 120.4501398
         },
-        "rating": 3.9,
+        "rating": 4,
         "international_phone_number": "+886 977 286 038"
     },
     {
@@ -1586,10 +1871,10 @@
         "types": [
             "cafe",
             "bakery",
+            "store",
             "restaurant",
             "food",
             "point_of_interest",
-            "store",
             "establishment"
         ],
         "coordinates": {
@@ -1597,21 +1882,22 @@
             "lng": 120.4565519
         },
         "rating": 4.9,
+        "rating_n": 279,
         "international_phone_number": "+886 5 271 3103"
     },
     {
         "id": "ChIJk7JB15V2bjQRSNaC5Zmb7o8",
         "name": "33+V. Coffee Shop",
-        "address": "600No. 49\u865f, Yijiao E Rd, East District, Chiayi City, Taiwan 600",
+        "address": "No. 49\u865f, Yijiao E Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "cafe",
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4929146,
-            "lng": 120.4687416
+            "lat": 23.4930239,
+            "lng": 120.4687464
         },
         "rating": 4.5,
         "international_phone_number": "+886 5 277 4567"
@@ -1621,36 +1907,36 @@
         "name": "\u923a\u6cc9\u9f4bMm",
         "address": "No. 62\u865f, Guohua St, West District, Chiayi City, Taiwan 600",
         "types": [
+            "store",
             "food",
             "point_of_interest",
-            "store",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.4750139,
             "lng": 120.4490559
         },
-        "rating": 4.8,
+        "rating": 5,
         "international_phone_number": "+886 5 216 1189"
     },
     {
         "id": "ChIJN2U2BSCUbjQRApG144Zlm1E",
-        "name": "\u4eab\u505a\u5750DIY \u624b\u4f5c\u70d8\u7119",
-        "address": "600, Taiwan, Chiayi City, West District, Xingye W Rd, 387\u865f3\u6a13 \u5165\u53e3\u8655\u5728\u5f90\u5dde\u4e03\u8857",
+        "name": "\u4eab\u8da3\u62ffDIY \u624b\u4f5c\u70d8\u7119",
+        "address": "No. 580\u865f, Xingda Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "bakery",
             "restaurant",
             "food",
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4675103,
-            "lng": 120.4364091
+            "lat": 23.4851525,
+            "lng": 120.429133
         },
-        "rating": 4.7,
-        "international_phone_number": "+886 5 235 0701"
+        "rating": 4.8,
+        "international_phone_number": "+886 909 224 624"
     },
     {
         "id": "ChIJuTXtHzSUbjQR-t7BOFSLk0A",
@@ -1658,8 +1944,8 @@
         "address": "No. 238\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
@@ -1668,6 +1954,25 @@
         },
         "rating": 4.6,
         "international_phone_number": "+886 5 227 7861"
+    },
+    {
+        "id": "ChIJJwDZYKKWbjQRJT-qq9n2rJs",
+        "name": "\u50b2\u6f2b\u624b\u611f\u70d8\u7119\u5de5\u4f5c\u574a",
+        "address": "No. 102-1\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4807512,
+            "lng": 120.4595199
+        },
+        "rating": 4.8,
+        "rating_n": 380,
+        "international_phone_number": "+886 963 520 023"
     },
     {
         "id": "ChIJa0lbzgOVbjQRzOHpowHMJ3M",
@@ -1691,8 +1996,8 @@
         "name": "\u5609\u7af9\u5546\u884c",
         "address": "No. 258\u4e4b1\u865f, Xuanxin St, East District, Chiayi City, Taiwan 600",
         "types": [
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
@@ -1704,7 +2009,7 @@
     },
     {
         "id": "ChIJpyogHmCVbjQR4o_UakbYz2U",
-        "name": "\u521d\u5fc3\u8005\u8089\u8216(\u71df\u696d\u53d6\u8ca8\u6642\u9593\u516c\u5e03\u65bcFb\u3001IG)",
+        "name": "\u521d\u5fc3\u8005\u8089\u8216\uff5c24\u5c0f\u6642\u8089\u54c1\u81ea\u52d5\u8ca9\u8ce3",
         "address": "No. 213\u865f, Zhongxiao N St, East District, Chiayi City, Taiwan 600",
         "types": [
             "store",
@@ -1713,8 +2018,8 @@
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.5161846,
-            "lng": 120.4430489
+            "lat": 23.5161646,
+            "lng": 120.4430433
         },
         "rating": 4.8,
         "international_phone_number": "+886 972 125 977"
@@ -1733,7 +2038,6 @@
             "lng": 120.4887929
         },
         "rating": 4.7,
-        "rating_n": 255,
         "international_phone_number": "+886 5 271 9500"
     },
     {
@@ -1742,8 +2046,8 @@
         "address": "No. 382\u865f, Renai Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
@@ -1767,7 +2071,7 @@
             "lat": 23.4696817,
             "lng": 120.4414819
         },
-        "rating": 4.6,
+        "rating": 4.7,
         "international_phone_number": "+886 5 225 1070"
     },
     {
@@ -1787,19 +2091,17 @@
         "international_phone_number": "+886 965 818 822"
     },
     {
-        "id": "ChIJQcVoJOUWaTQR_d_uEcadZzs",
-        "name": "\u5fb7\u9716\u4e8b\u696d\u6709\u9650\u516c\u53f8",
-        "address": "428, Taiwan, \u53f0\u7063 Daya District, \u53f0\u4e2d\u5e02 \u5927\u96c5\u5340\u795e\u6797\u5357\u8def302\u865f\u4e4b1",
+        "id": "ChIJR5UAd_CVbjQRx9sMg2orSpA",
+        "name": "\u798f\u9716\u570b\u969b\u98df\u54c1\u6709\u9650\u516c\u53f8",
+        "address": "606, Taiwan, Chiayi County, Zhongpu Township, \u5927\u7fa9\u8def326\u5df742\u865f",
         "types": [
             "point_of_interest",
-            "store",
             "establishment"
         ],
         "coordinates": {
-            "lat": 24.2229094,
-            "lng": 120.6568917
-        },
-        "international_phone_number": "+886 4 2567 1687"
+            "lat": 23.4549292,
+            "lng": 120.4761162
+        }
     },
     {
         "id": "ChIJ3_fA2jGUbjQR2zxpusk2Ok8",
@@ -1807,8 +2109,8 @@
         "address": "No. 449\u865f, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "clothing_store",
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1839,8 +2141,8 @@
         "name": "\u82ac\u82b3\u5712\u4f01\u696d\u793e",
         "address": "No. 51\u865f, Bade Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "store",
             "point_of_interest",
+            "store",
             "establishment"
         ],
         "coordinates": {
@@ -1851,26 +2153,27 @@
         "international_phone_number": "+886 938 498 703"
     },
     {
-        "id": "ChIJuSoRRl6pQjQRmTS20LPCqeI",
-        "name": "\u5f18\u8ed2\u79d1\u6280\u6709\u9650\u516c\u53f8",
-        "address": "10491, Taiwan, Taipei City, Zhongshan District, SongJiang Rd, 185\u865f12\u865f\u6a13\u4e4b 3",
+        "id": "ChIJvVo1diGUbjQRJm6XCc2gDyo",
+        "name": "\u6bc5\u8ed2\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "address": "No. 63\u865f, Fuzhou 7th St, West District, Chiayi City, Taiwan 600",
         "types": [
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 25.05658039999999,
-            "lng": 121.5333861
+            "lat": 23.462074,
+            "lng": 120.4327535
         },
-        "international_phone_number": "+886 2 2515 9446"
+        "rating": 3.7,
+        "international_phone_number": "+886 5 284 1516"
     },
     {
         "id": "ChIJ1yiAe7mWbjQRDzNxpDkUx2M",
         "name": "\u9326\u9f8d\u91ac\u6cb9",
         "address": "No. 138\u865f, Liucuo Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "food",
             "point_of_interest",
+            "food",
             "establishment"
         ],
         "coordinates": {
@@ -1894,8 +2197,26 @@
             "lng": 120.4290557
         },
         "rating": 4.8,
-        "rating_n": 78,
+        "rating_n": 86,
         "international_phone_number": "+886 5 232 1268"
+    },
+    {
+        "id": "ChIJ-RrSvDCUbjQRBs0I8OaMNiY",
+        "name": "Saint Tower Coffee",
+        "address": "No. 10\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.475162,
+            "lng": 120.451827
+        },
+        "rating": 4.5,
+        "international_phone_number": "+886 5 228 2025"
     },
     {
         "id": "ChIJP3HnLy6UbjQRHxkcsv_fk8Q",
@@ -1903,8 +2224,8 @@
         "address": "No. 554\u865f, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
         "types": [
             "cafe",
-            "point_of_interest",
             "food",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
@@ -1919,41 +2240,40 @@
         "name": "\u6590\u5712\u8336\u838a",
         "address": "No. 935-2\u865f, Youzhong Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "store",
             "point_of_interest",
             "food",
+            "store",
             "establishment"
         ],
         "coordinates": {
             "lat": 23.48947,
             "lng": 120.442753
         },
-        "rating": 5,
+        "rating": 4.9,
         "international_phone_number": "+886 5 234 6899"
     },
     {
-        "id": "ChIJB5FdbPaVbjQR3jb5ENBaTCM",
-        "name": "\u7d66\u7d66\u8336\u8a18 kapkapchakee",
-        "address": "600, Taiwan, Chiayi City, West District, Xinrong Rd, 319\u3001321\u865f1\u6a13",
+        "id": "ChIJAdo_9YSVbjQRXkJBBvabero",
+        "name": "\u65b0\u60a6\u82b1\u5712\u9152\u5e97-\u9824\u7cb5\u8ed2",
+        "address": "60079, Taiwan, Chiayi City, East District, Baoshun Rd, 69\u865f2\u6a13",
         "types": [
-            "meal_takeaway",
             "restaurant",
             "food",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4789942,
-            "lng": 120.4440846
+            "lat": 23.5049108,
+            "lng": 120.4497828
         },
-        "rating": 4.6,
-        "rating_n": 165,
-        "international_phone_number": "+886 5 227 0300"
+        "rating": 4,
+        "rating_n": 320,
+        "international_phone_number": "+886 5 277 6266"
     },
     {
-        "id": "ChIJdTLAuiWUbjQRhJUIUNYl8q0",
-        "name": "Oi Griddle CKAEs \u7f8e\u5f0f\u9b06\u9905",
-        "address": "No. 92-1\u865f, Ximen St, West District, Chiayi City, Taiwan 600",
+        "id": "ChIJQ6z727SVbjQRlvMEpbpQZ4c",
+        "name": "FUN\u9b06\u6642\u523b \u624b\u5de5\u9b06\u9905\u5c08\u8ce3\u5e97",
+        "address": "No. 81\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "restaurant",
             "point_of_interest",
@@ -1961,9 +2281,28 @@
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.47428,
-            "lng": 120.4436278
+            "lat": 23.4839317,
+            "lng": 120.4620986
         },
-        "rating": 4.1
+        "rating": 4.6,
+        "international_phone_number": "+886 976 670 255"
+    },
+    {
+        "id": "ChIJu4Fb5TSUbjQR6hAN9zn3850",
+        "name": "Sameki Udon",
+        "address": "No. 188\u865f, Anle St, East District, Chiayi City, Taiwan 600009",
+        "types": [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4825105,
+            "lng": 120.455239
+        },
+        "rating": 4.7,
+        "international_phone_number": "+886 5 216 6808"
     }
 ]

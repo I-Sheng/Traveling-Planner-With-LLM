@@ -131,7 +131,7 @@ def merge_json(file1, file2):
     food = loadJson(file2 + '.json')
     sites = add_data(sites)
     merge_dict = {**sites, **food}
-    dumpJson(merge_dict, 'sitesData.json')
+    dumpJson(merge_dict, 'sitesData_opening.json')
 
 
 

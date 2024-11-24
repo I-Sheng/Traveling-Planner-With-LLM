@@ -12,8 +12,8 @@
             "lat": 23.482197,
             "lng": 120.463946
         },
-        "rating": 4.8,
-        "rating_n": 151,
+        "rating": 4.7,
+        "rating_n": 157,
         "international_phone_number": "+886 5 277 3188"
     },
     {
@@ -58,7 +58,7 @@
             "lat": 23.4802028,
             "lng": 120.4011635
         },
-        "rating": 4.4
+        "rating": 4.5
     },
     {
         "id": "ChIJ1TU4_DKUbjQRcXyEqbW8ep8",
@@ -76,25 +76,6 @@
         },
         "rating": 4.3,
         "international_phone_number": "+886 5 277 4488"
-    },
-    {
-        "id": "ChIJeawkLLOVbjQR-4AcOK6ryzg",
-        "name": "Chiayi City Historical Relic Museum",
-        "address": "No. 42, Gongyuan St, East District, Chiayi City, Taiwan 600",
-        "types": [
-            "museum",
-            "store",
-            "restaurant",
-            "point_of_interest",
-            "food",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.4810872,
-            "lng": 120.4675134
-        },
-        "rating": 4.3,
-        "international_phone_number": "+886 5 277 0518"
     },
     {
         "id": "ChIJwzwMTgKVbjQRm6UC6yOu2k8",
@@ -146,23 +127,38 @@
         "rating": 5
     },
     {
-        "id": "ChIJeawkLLOVbjQR-4AcOK6ryzg",
-        "name": "Chiayi City Historical Relic Museum",
-        "address": "No. 42, Gongyuan St, East District, Chiayi City, Taiwan 600",
+        "id": "ChIJOb09b8uVbjQRigoLMNW9rpE",
+        "name": "Hinoki Village",
+        "address": "No. 370\u865f, Gonghe Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "museum",
-            "restaurant",
-            "point_of_interest",
+            "tourist_attraction",
+            "clothing_store",
             "food",
             "store",
+            "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4810872,
-            "lng": 120.4675134
+            "lat": 23.4856377,
+            "lng": 120.454812
         },
         "rating": 4.3,
-        "international_phone_number": "+886 5 277 0518"
+        "international_phone_number": "+886 5 276 1601"
+    },
+    {
+        "id": "ChIJi57tFwCVbjQRYoVn0nKzgYo",
+        "name": "\u516b\u734e\u6eaa\u7fa9\u6e21\u7891\u66a8\u7fa9\u6c11\u5854",
+        "address": "No. 1\u865f, Mituo Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.462744,
+            "lng": 120.470602
+        },
+        "rating": 5,
+        "international_phone_number": "+886 5 278 8225"
     },
     {
         "id": "ChIJT6aMg62VbjQR14NA4gQQHNk",
@@ -176,8 +172,20 @@
             "lat": 23.48411,
             "lng": 120.470779
         },
-        "rating": 4.2,
+        "rating": 4.3,
         "international_phone_number": "+886 5 229 4593"
+    },
+    {
+        "id": "ChIJc6nqO_yUbjQR6YMTUsBjYTk",
+        "name": "\u5609\u7fa9\u5927\u5b78\u690d\u7269\u5712",
+        "address": "600, Taiwan, Chiayi City, East District, \u5609\u7fa9\u5927\u5b78\u690d\u7269\u5712",
+        "types": [
+            "premise"
+        ],
+        "coordinates": {
+            "lat": 23.4737573,
+            "lng": 120.4884585
+        }
     },
     {
         "id": "ChIJMcNwkjaUbjQRRpW1Gr5ElvY",
@@ -208,43 +216,28 @@
             "lat": 23.47929999999999,
             "lng": 120.4417865
         },
-        "rating": 4.3,
+        "rating": 4.1,
         "international_phone_number": "+886 5 229 4838"
     },
     {
-        "id": "ChIJDYUeQ0mUbjQRL5Xvh3KV620",
-        "name": "228 Memorial Park",
-        "address": "No. 695, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600",
-        "types": [
-            "tourist_attraction",
-            "park",
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.476334,
-            "lng": 120.462411
-        },
-        "rating": 3.9,
-        "international_phone_number": "+886 5 278 6228"
-    },
-    {
-        "id": "ChIJi3PTogiVbjQRhiUWmaiAWuI",
-        "name": "\u6749\u6c60",
+        "id": "ChIJ65vxe8yVbjQR3AHU5TZHL9A",
+        "name": "Chiayi Cultural Center",
         "address": "No. 275\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
         "types": [
+            "tourist_attraction",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4885467,
-            "lng": 120.4525767
+            "lat": 23.4873499,
+            "lng": 120.4525804
         },
-        "rating": 4.5
+        "rating": 4.6,
+        "international_phone_number": "+886 5 278 8225"
     },
     {
         "id": "ChIJCWIRjW-VbjQRK1Ku9xDD1_Q",
-        "name": "\u5f4c\u9640\u6620\u6708\u6a4b",
+        "name": "Amitabha Reflecting Moonlight Bridge",
         "address": "600, Taiwan, Chiayi City, East District, 600\u5609\u7fa9\u5e02\u6771\u5340",
         "types": [
             "tourist_attraction",
@@ -252,26 +245,11 @@
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4615452,
-            "lng": 120.4683762
+            "lat": 23.4615378,
+            "lng": 120.4682327
         },
         "rating": 4.2,
-        "rating_n": 688
-    },
-    {
-        "id": "ChIJhWCuzLKVbjQR4UdMM9o5aQQ",
-        "name": "Chiayi Shinto Shrine Remains",
-        "address": "Chiayi Park, East District, Chiayi City, Taiwan 600",
-        "types": [
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.4816356,
-            "lng": 120.4684913
-        },
-        "rating": 4.2
+        "rating_n": 697
     },
     {
         "id": "ChIJk6TZmrqVbjQR8br5jgCuv3g",
@@ -286,7 +264,24 @@
             "lng": 120.4765195
         },
         "rating": 3.9,
-        "rating_n": 161
+        "rating_n": 160
+    },
+    {
+        "id": "ChIJt3n1tzOUbjQRinnlGfh1QsU",
+        "name": "Chiayi Renwu Temple",
+        "address": "No. 54, Beirong St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4816159,
+            "lng": 120.4508554
+        },
+        "rating": 4.6,
+        "international_phone_number": "+886 5 227 6283"
     },
     {
         "id": "ChIJBeBUZLWVbjQRTqJCdBz_uXw",
@@ -321,36 +316,17 @@
         "international_phone_number": "+886 5 278 8225"
     },
     {
-        "id": "ChIJM_Lr1BmUbjQRUx0htDYsHkY",
-        "name": "JiaYou Bicycle Trail",
-        "address": "600, Taiwan, Chiayi City, West District, Section 4, Shixian Rd, 600",
+        "id": "ChIJIzScPwCVbjQRT7iKWZhssis",
+        "name": "\u6e05\u5609\u6176\u5341\u4e8c\u5e74\u5317\u8def\u5354\u5de6\u71df\u5341\u4e8c\u9580\u53e4\u7832",
+        "address": "No. 22\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4622183,
-            "lng": 120.4472894
-        },
-        "rating": 4.3,
-        "international_phone_number": "+886 5 224 8917"
-    },
-    {
-        "id": "ChIJDYUeQ0mUbjQRL5Xvh3KV620",
-        "name": "228 Memorial Park",
-        "address": "No. 695, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600",
-        "types": [
-            "tourist_attraction",
-            "park",
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.476334,
-            "lng": 120.462411
-        },
-        "rating": 3.9,
-        "international_phone_number": "+886 5 278 6228"
+            "lat": 23.4837746,
+            "lng": 120.4652723
+        }
     },
     {
         "id": "ChIJqRqN4M2VbjQRkjjPQmIqLW0",
@@ -385,6 +361,22 @@
         "international_phone_number": "+886 5 274 3721"
     },
     {
+        "id": "ChIJHx27NU2UbjQRMYjtb-KSE3M",
+        "name": "Sun-Shooting Tower",
+        "address": "No. 46, Gongyuan St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4812766,
+            "lng": 120.4690514
+        },
+        "rating": 4.1,
+        "international_phone_number": "+886 5 275 1357"
+    },
+    {
         "id": "ChIJsTp8CzqUbjQRkH0TelcIO44",
         "name": "Su Zhou Lian Ancestral Shrine",
         "address": "No. 326\u865f, Chuiyang Rd, East District, Chiayi City, Taiwan 600",
@@ -397,7 +389,7 @@
             "lat": 23.4743686,
             "lng": 120.4515364
         },
-        "rating": 4.2,
+        "rating": 4.3,
         "international_phone_number": "+886 5 271 9346"
     },
     {
@@ -416,7 +408,7 @@
     },
     {
         "id": "ChIJI8WlNvXrbjQRDFnfoUipazQ",
-        "name": "\u767e\u5e74\u8304\u51ac\u8001\u6a39",
+        "name": "\u767e\u5e74\u8304\u82f3\u8001\u6a39",
         "address": "602, Taiwan, Chiayi County, Fanlu Township, \u5609124-1\u9109\u905360\u865f",
         "types": [
             "tourist_attraction",
@@ -428,7 +420,7 @@
             "lng": 120.595368
         },
         "rating": 5,
-        "rating_n": 1
+        "rating_n": 2
     },
     {
         "id": "ChIJNXeVaceVbjQRDcZq3LWk488",
@@ -443,6 +435,7 @@
             "lng": 120.4578743
         },
         "rating": 4.2,
+        "rating_n": 88,
         "international_phone_number": "+886 5 276 5298"
     },
     {
@@ -475,35 +468,20 @@
         }
     },
     {
-        "id": "ChIJIXui7MyVbjQRSJfxMod_QfM",
-        "name": "Chiayi Municipal Museum",
-        "address": "No. 275-1, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "id": "ChIJFefxJDWUbjQRXsoKifrWy1o",
+        "name": "Jiuhua Mountain Temple",
+        "address": "No. 255, Minquan Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "museum",
+            "place_of_worship",
             "tourist_attraction",
             "point_of_interest",
             "establishment"
         ],
         "coordinates": {
-            "lat": 23.4871617,
-            "lng": 120.4517201
+            "lat": 23.483155,
+            "lng": 120.4563395
         },
-        "rating": 4.3,
-        "international_phone_number": "+886 5 278 0303"
-    },
-    {
-        "id": "ChIJBVfZAtaVbjQRYqznbUmx3GY",
-        "name": "\u5609\u7fa9\u516c\u5712\u4e03\u864e\u6232\u6c34\u5340",
-        "address": "600, Taiwan, \u5609\u7fa9\u5e02\u6771\u5340\u6771\u5ddd\u91cc",
-        "types": [
-            "point_of_interest",
-            "establishment"
-        ],
-        "coordinates": {
-            "lat": 23.4820556,
-            "lng": 120.4653199
-        },
-        "rating": 4.8,
-        "rating_n": 5
+        "rating": 4.6,
+        "international_phone_number": "+886 5 278 2555"
     }
 ]

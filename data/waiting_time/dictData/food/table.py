@@ -14,14 +14,24 @@ def loadJson(file_path: str):
 
 
 def main():
+    prefix = "food"
+    path_prefix = "food"
     table = {}
     data1 = loadJson("popular_timeSpent.json")
     data2 = loadJson("popular_notimeSpent.json")
     data3 = loadJson("nopopular_timeSpent.json")
     data4 = loadJson("nopopular_notimeSpent.json")
 
+
+    dumpJson(list(data1.values()), f"../../{path_prefix}/chiayi_{prefix}_popular_timeSpent.json")
+    dumpJson(list(data2.values()), f"../../{path_prefix}/chiayi_{prefix}_popular_notimeSpent.json")
+    dumpJson(list(data3.values()), f"../../{path_prefix}/chiayi_{prefix}_nopopular_timeSpent.json")
+    dumpJson(list(data4.values()), f"../../{path_prefix}/chiayi_{prefix}_nopopular_notimeSpent.json")
+
+
     mergeList = {**data1, **data2, **data3, **data4}
     for key, value in mergeList.items():
+        key = " ".join(key.split(" ")[:-1])
         table[value['name']] = key
 
     print(len(table))

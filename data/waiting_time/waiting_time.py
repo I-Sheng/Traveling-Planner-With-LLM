@@ -211,18 +211,35 @@ addTimeSpent(food_pnt, unseen_predictions)
 table = getData("dictData/table.json")
 foodDict = dict()
 for record in food_pt:
+  if "food" not in record['types']:
+      record['types'].append("food")
   foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+
+
 for record in food_npt:
+  if "food" not in record['types']:
+      record['types'].append("food")
   foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+
 for record in food_pnt:
+  if "food" not in record['types']:
+      record['types'].append("food")
   foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 siteDict = dict()
 for record in site_pt:
+  if "site" not in record['types']:
+      record['types'].append("site")
   siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+
 for record in site_npt:
+  if "site" not in record['types']:
+      record['types'].append("site")
   siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+
 for record in site_pnt:
+  if "site" not in record['types']:
+      record['types'].append("site")
   siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 typeDict = dict()
@@ -251,6 +268,8 @@ average[1] = int(round(average[1]))
 average
 
 for record in food_npnt:
+  if "food" not in record['types']:
+      record['types'].append("food")
   name = table[record['name']]
   foodDict[name] = {}
   foodDict[name] = {'address': record['address'], 'types': record['types']}
@@ -263,6 +282,7 @@ for record in food_npnt:
     time_spent[0] += typeDict[type_]['time_spent'][:,0].median().item()
     time_spent[1] += typeDict[type_]['time_spent'][:,1].median().item()
     type_num += 1
+
   time_spent[0] /= type_num
   time_spent[1] /= type_num
   time_spent[0] = round(time_spent[0])
@@ -272,6 +292,8 @@ for record in food_npnt:
   foodDict[name]['time_spent'] = time_spent
 
 for record in site_npnt:
+  if "site" not in record['types']:
+      record['types'].append("site")
   name = table[record['name']]
   siteDict[name] = {}
   siteDict[name] = {'address': record['address'], 'types': record['types']}
@@ -319,7 +341,6 @@ merged_dict = {}
 
 for key, value in foodDict.items():
     merged_dict[key] = {**value, "metadata": {"type": "food"}}
-    print(merged_dict[key])
 
 for key, value in siteDict.items():
     merged_dict[key] = {**value, "metadata":{"type": "site"}}
@@ -330,7 +351,7 @@ for key, value in siteDict.items():
 json_string = json.dumps(merged_dict, indent=4)  # Use indent for pretty-printing
 
 # Print JSON string
-print(json_string)
+# print(json_string)
 
 # Save to a file
 file_name = "sitesData_waiting.json"
@@ -341,7 +362,7 @@ with open( file_name , "r") as json_file:
     data = json.load(json_file)
 
 # Print the loaded data
-print(data)
+# print(data)
 
 #siteDict[record['name']] = {'address': record['address'], 'rating': record['rating'], 'time_spent': record['time_spent'], 'types': record['types']}
 
