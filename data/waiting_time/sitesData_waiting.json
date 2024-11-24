@@ -1,0 +1,4325 @@
+{
+    "\u963f\u6f58\u8089\u5305\uff5c\u5275\u59cb-\u6587\u5316\u5e97": {
+        "address": "No. 473\u865f, Wenhua Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.8,
+        "time_spent": [
+            10,
+            10
+        ],
+        "types": [
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Dou Dou Donut": {
+        "address": "No. 26\u865f, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            15,
+            45
+        ],
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u79e3\u99ac\u9bdb\u9b5a\u71d2\u30fb\u5609\u7fa9": {
+        "address": "166\u4e4b1\u865f, Beirong St, West District, Chiayi City, Taiwan 60049",
+        "rating": 5,
+        "time_spent": [
+            20,
+            20
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u971c\u7a7a\u73c8\u7432": {
+        "address": "No. 132\u865f, Guohua St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            60,
+            120
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u834f\u82d2\u5496\u5561": {
+        "address": "No. 97\u865f, Gongyuan St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            60,
+            120
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c71\u65e5\u521d Back to The Origin\u4fe1\u624b\u5de5\u574a\u5168\u65b0\u54c1\u724c\u5f62\u8c61": {
+        "address": "No. 512\u865f, Xingye W Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4,
+        "time_spent": [
+            10,
+            10
+        ],
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u62fe\u7b46": {
+        "address": "No. 156\u865f, Chuiyang Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.7,
+        "time_spent": [
+            20,
+            45
+        ],
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "SMALL PLATES (caf'e & brunch)": {
+        "address": "No. 4\u865f, Lane 557, Chuiyang Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            60,
+            120
+        ],
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7d14\u60c5\u5c08\u58f2\u6240": {
+        "address": "No. 404\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            20,
+            20
+        ],
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7fa9\u5e02\u7acb\u5716\u66f8\u9928\u9ec3\u8cd3\u7d00\u5ff5\u5716\u66f8\u9928": {
+        "address": "No. 328\u865f, Yanping St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            120,
+            120
+        ],
+        "types": [
+            "library",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "WT_kitchen": {
+        "address": "No. 430\u865f, Minquan Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            60,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6843\u57ce\u8c46\u82b1\uff08\u8208\u696d\u5e97\uff09": {
+        "address": "No. 313\u865f, Xingye E Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            15,
+            15
+        ],
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e00\u9280\u4ed9\u8349\u5275\u59cb\u5e97\uff5c\u6cb9\u982d\u96de\u86cb\u7cd5\uff5c\u54c1\u82b1\u8c46\u82b1": {
+        "address": "525\u865f, \u897f\u533a, Jiayi, \u4e2d\u6b63\u8def\u897f\u5340\u5609\u7fa9\u5e02 Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            25,
+            25
+        ],
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u82b1\u6dfa\u8525 Brunch Osteria": {
+        "address": "No. 182\u865f, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            60,
+            90
+        ],
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Maosheng Sushi House": {
+        "address": "No. 89\u865f, Xinrong Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 3.9,
+        "time_spent": [
+            45,
+            45
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u76db\u98df\u5496\u54e9\u5e97-\u5609\u7fa9\u5e97": {
+        "address": "No. 443\u865f, Yanping St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            60,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7fa9\u58fa\u8c46\u82b1 \u751c\u54c1\u9910\u5ef3 \u8c46\u6f3f\u8c46\u82b1\u7db2\u7f8e\u5e97": {
+        "address": "No. 402\u865f, Chuiyang Rd, West District, Chiayi City, Taiwan 60043",
+        "rating": 4.3,
+        "time_spent": [
+            30,
+            60
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u30b9\u30d4\u30fc\u30c9 Supiido": {
+        "address": "No. 50\u865f, Beirong St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.8,
+        "time_spent": [
+            20,
+            20
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7a40\u8c37": {
+        "address": "No. 132\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            60,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "TMD": {
+        "address": "600, Taiwan, Chiayi City, West District, \u5fd7\u6607\u88578\u865f",
+        "rating": 4.3,
+        "time_spent": [
+            45,
+            120
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u852c\u76c8\u5e02\u5834\u706b\u934b\u5609\u7fa9\u6c11\u751f\u9580\u5e02": {
+        "address": "No. 43\u865f, Minsheng N Rd, West District, Chiayi City, Taiwan 60048",
+        "rating": 4.1,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u71d2\u8089\u89c0\u6b62": {
+        "address": "No. 467\u865f, Zhongxing Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            10,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7da0\u6d32 Oasis Brunch": {
+        "address": "No. 161\u865f, Lanjing St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5f04\u4f86\u5c0f\u9910\u684c": {
+        "address": "No. 53\u865f, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7fa9-\u79d8\u6c0f\u5496\u5561(\u4f11\u5047\u65e5\u8207\u83dc\u55ae\u8acb\u53c3\u8003IG)": {
+        "address": "No. 288\u865f, Yanping St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            45,
+            120
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "STARBUCKS Xingnan Shop": {
+        "address": "No. 323\u865f, Section 1, Fuxing S Rd, Da\u2019an District, Taipei City, Taiwan 106",
+        "rating": 4.1,
+        "time_spent": [
+            45,
+            150
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u570b\u738b\u8774\u8776\u5496\u5561 Roicafe": {
+        "address": "600, Taiwan, Chiayi City, West District, Zhongshan Rd, 616\u865fF\u68df2\u6a13",
+        "rating": 4.7,
+        "time_spent": [
+            15,
+            90
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5df4\u502b\u53f8\u5eb7 Baron Scones": {
+        "address": "No. 297\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            15,
+            60
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u65e9\u6668\u5c0f\u59d0Good morning": {
+        "address": "600No. 200\u865f, Heping Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4,
+        "time_spent": [
+            30,
+            60
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c0f\u8001\u95c6\u751c\u54c1\u5e97": {
+        "address": "No. 242, Yanping St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            25,
+            25
+        ],
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5927\u738b\u5343\u91d1": {
+        "address": "No. 1296\u865f, Beigang Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4,
+        "time_spent": [
+            15,
+            15
+        ],
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u897f\u5e02\u9b6f\u719f\u8089": {
+        "address": "No. 52\u865f, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "rating": 3.9,
+        "time_spent": [
+            20,
+            20
+        ],
+        "types": [
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "SMARTFISH (Guanghua Branch)": {
+        "address": "No. 122, Guanghua Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            15,
+            60
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c0f\u4f0d\u59b9\u9ebb\u8fa3\u6dbc\u9eb5": {
+        "address": "No. 282\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            30,
+            30
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6728\u66f4 MUGENERATION": {
+        "address": "No. 189\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            60,
+            120
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8056\u4fdd\u7f85\u70d8\u7119\u82b1\u5712 \u6c11\u65cf\u5e97": {
+        "address": "No. 81\u865f, Minzu Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.9,
+        "time_spent": [
+            10,
+            10
+        ],
+        "types": [
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Sunny Queen\u967d\u5149\u7687\u540e\u4eac\u7ad9\u5c0f\u78a7\u6f6d\u5e97": {
+        "address": "231, Taiwan, New Taipei City, Xindian District, Zhongyang Rd, 157\u865f5\u6a13",
+        "rating": 4.4,
+        "time_spent": [
+            90,
+            150
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u858f\u84ee\u574a\u7cbe\u7dfb\u990a\u751f\u98f2\u54c1\u5c08\u8ce3\u5e97": {
+        "address": "No. 75, Tailin St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            10,
+            10
+        ],
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Tao Cheng Fried Chicken": {
+        "address": "No. 698\u865f, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            15,
+            15
+        ],
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u63d0\u5a1c\u591a\u5496\u5561": {
+        "address": "No. 167\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            60,
+            150
+        ],
+        "types": [
+            "cafe",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7396\u5496\u5561 Jiou Cafe": {
+        "address": "No. 387\u865f, Xingye E Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            15,
+            90
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8af8\u7f85\u5c71\u793e\u6dbc\u9eb5\u5e97": {
+        "address": "No. 638\u865f, Minzu Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            30,
+            30
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Morikoohii \u68ee \u5496\u5561": {
+        "address": "No. 1, Lane 199, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            20,
+            60
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u84c1\u53e4\u65e9\u5473\u73fe\u70e4\u86cb\u7cd5": {
+        "address": "No. 181\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            10,
+            10
+        ],
+        "types": [
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u798f\u6e90\u8089\u7cbd \u9802\u516d\u5e97": {
+        "address": "No. 53\u4e4b1\u865f, Dingzhongxia St, Zhongpu Township, Chiayi County, Taiwan 606",
+        "rating": 4.2,
+        "time_spent": [
+            15,
+            15
+        ],
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u51a0\u559c(\u5477\u6163\u7fd2)\u714e\u9905": {
+        "address": "60053, Taiwan, Chiayi City, West District, \u6e56\u5b50\u5167\u8def263\u865f",
+        "rating": 4.2,
+        "time_spent": [
+            15,
+            15
+        ],
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u820a\u6642\u5149\u65b0\u9bae\u4e8b": {
+        "address": "No. 494\u865f, Renai Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            30,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Shell-Ginger Story House": {
+        "address": "600, Taiwan, Chiayi City, East District, \u4fdd\u5fe0\u4e00\u8857359 \u865f",
+        "rating": 4,
+        "time_spent": [
+            60,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5609\u7fa9\u54c1\u5b89\u8c46\u6f3f\u8c46\u82b1": {
+        "address": "No. 335\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            25,
+            25
+        ],
+        "types": [
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u85cf.\u5496\u5561 \u5609\u7fa9\u4e2d\u5c71\u5e97": {
+        "address": "No. 233\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            45,
+            150
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e0a\u5cf6\u5496\u5561 Sun Island Coffee": {
+        "address": "No. 156\u865f, Xingye E Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            15,
+            15
+        ],
+        "types": [
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Museum Of Old Taiwan Tiles": {
+        "address": "No. 282\u865f, Linsen W Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Liu Li Zhang Turkey Rice": {
+        "address": "No. 197\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 3.7,
+        "time_spent": [
+            25,
+            25
+        ],
+        "types": [
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6771\u5712\u8ed2\u5712\u6797\u9910\u5ef3": {
+        "address": "No. 350\u865f, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            60,
+            120
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6620\u6708\u6a4b\u8001\u5e2b\u5085\u624b\u6417\u5f69\u8679\u7c89\u7cbf\u51b7\u71d2\u51b0\u5609\u7fa9\u5fc5\u5403\u7f8e\u98df": {
+        "address": "600, Taiwan, Chiayi City, East District, \u91cc\u89aa\u6c34\u8def123\u865f\u7e7c\u7e8c\u5f80\u524d\u76f4\u884c800\u516c\u5c3a",
+        "rating": 4.5,
+        "time_spent": [
+            20,
+            45
+        ],
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "THEFREEN BURGER": {
+        "address": "60041, Taiwan, Chiayi City, East District, Zhongshan Rd, 203\u865f1\u6a13",
+        "rating": 4.3,
+        "time_spent": [
+            20,
+            60
+        ],
+        "types": [
+            "cafe",
+            "bakery",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5353\u6b66\u5496\u5561": {
+        "address": "No. 194\u865f, Minsheng N Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            15,
+            120
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u65b0\u60a6\u82b1\u5712\u9152\u5e97-\u9824\u7cb5\u8ed2": {
+        "address": "60079, Taiwan, Chiayi City, East District, Baoshun Rd, 69\u865f2\u6a13",
+        "rating": 3.8,
+        "time_spent": [
+            45,
+            150
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Sameki Udon": {
+        "address": "No. 188\u865f, Anle St, East District, Chiayi City, Taiwan 600009",
+        "rating": 4.7,
+        "time_spent": [
+            45,
+            45
+        ],
+        "types": [
+            "restaurant",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u597d\u597d\u5bb6\u6162\u719f\u5496\u54e9": {
+        "address": "No. 69\u865f, Minsheng S Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.9,
+        "time_spent": [
+            45,
+            90
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8d77\u98a8": {
+        "address": "600, Taiwan, Chiayi City, East District, \u8208\u696d\u65b0\u675140\u865f",
+        "rating": 4.6,
+        "time_spent": [
+            15,
+            90
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Ka Jia Li American Restaurant": {
+        "address": "600, Taiwan, Chiayi City, West District, \u570b\u83ef\u8857351\u5df719\u865f",
+        "rating": 4.4,
+        "time_spent": [
+            60,
+            180
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Le Pissenlit \u76ae\u7d22\u5c3c\u6cd5\u5f0f\u5c0f\u9928": {
+        "address": "No. 371\u865f, Section 3, Shixian Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.8,
+        "time_spent": [
+            45,
+            120
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5800\u5ddd\u8336\u4e8b": {
+        "address": "No. 15\u865f, Lane 37, Wufeng S Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            60,
+            120
+        ],
+        "types": [
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u50b2\u6f2b\u624b\u611f\u70d8\u7119\u5de5\u4f5c\u574a": {
+        "address": "No. 102-1\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.8,
+        "time_spent": [
+            10,
+            90
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5cac\u5cf6 Jia Da\u00f2": {
+        "address": "600, Taiwan, Chiayi City, East District, Gongming Rd, 372-1\u865f1\u6a13",
+        "rating": 4.3,
+        "time_spent": [
+            20,
+            24
+        ],
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Forward roasters": {
+        "address": "No. 205\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            14,
+            24
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "COP bar-Cocktails Of Pioneers": {
+        "address": "No. 54-1\u865f, Ximen St, West District, Chiayi City, Taiwan 600",
+        "rating": 5,
+        "time_spent": [
+            42,
+            56
+        ],
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5947\u559a\u5496\u5561": {
+        "address": "No. 254\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.8,
+        "time_spent": [
+            21,
+            36
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Bar Door to Dream": {
+        "address": "No. 164-3\u865f, Xirong St, West District, Chiayi City, Taiwan 60047",
+        "rating": 4.8,
+        "time_spent": [
+            40,
+            59
+        ],
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e00\u6dbc\u88fd\u51b0\u6240": {
+        "address": "No. 331\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            26,
+            49
+        ],
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4ee8\u4e18\u73c8\u7432 Sachuu cafe": {
+        "address": "No. 45\u865f, Hangzhou 3rd St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.7,
+        "time_spent": [
+            23,
+            62
+        ],
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6e6f\u57ce\u9d5d\u884c\uff5c\u6982\u5ff5\u5eda\u623f - \u6210\u4ec1\u5e97": {
+        "address": "No. 228\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            20,
+            30
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u79c9\u68ee\u9152\u5ba4BAR BINGSEN": {
+        "address": "No. 528\u865f, Linsen W Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.9,
+        "time_spent": [
+            58,
+            90
+        ],
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Daisy\u7684\u96dc\u8ca8\u5e97": {
+        "address": "No. 73, Weixin Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            20,
+            20
+        ],
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9f3b\u5b54\u5148\u751f\u624b\u4f5c\u65e9\u5348\u9910\uff08\u50c5\u63d0\u4f9b\u73fe\u5834\u5019\u4f4d\uff09": {
+        "address": "600, Taiwan, Chiayi City, East District, Chengren St, 273\u865f\u4e4b1",
+        "rating": 4.5,
+        "time_spent": [
+            22,
+            26
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "ROOF": {
+        "address": "600, Taiwan, Chiayi City, West District, Houyi St, 172\u865f5\u6a13",
+        "rating": 4.6,
+        "time_spent": [
+            35,
+            42
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c0f\u7d05\u5e3d\u7fa9\u5f0f\u51b0\u6dc7\u6dcb Gelato Girl": {
+        "address": "No. 396\u865f, Xingye W Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.9,
+        "time_spent": [
+            23,
+            33
+        ],
+        "types": [
+            "bakery",
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e09\u54e5\u8089\u4e7e": {
+        "address": "No. 75\u865f, Lanjing St, East District, Chiayi City, Taiwan 600012",
+        "rating": 4.4,
+        "time_spent": [
+            16,
+            20
+        ],
+        "types": [
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u91d1\u724c\u5ddd\u83dc\u6599\u7406": {
+        "address": "No. 120\u865f, Xingda Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            60,
+            83
+        ],
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6e3c\u6a58\u5ba2\u65b0\u9bae\u679c\u512a\u683c\u5c08\u8ce3\u5e97": {
+        "address": "No. 927\u865f, Yijiao St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            23,
+            34
+        ],
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u79cb\u53ef\u857e\u624b\u5de5\u751f\u5de7\u514b\u529b\uff08\u79cb\u8a69\u6642\u88dd\uff09": {
+        "address": "\u865f No, No. 40, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.8,
+        "time_spent": [
+            21,
+            34
+        ],
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Old Yard 1951": {
+        "address": "No. 201\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            20,
+            23
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "New Taiwan Bakery": {
+        "address": "No. 294\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            29,
+            34
+        ],
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Fortune P\u00e2tisserie.": {
+        "address": "No. 220\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            21,
+            25
+        ],
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u61b6\u6e58\u57d5\u91ce\u751f\u611b\u7389\u5c08\u8ce3\u5e97": {
+        "address": "No. 788\u865f, Chuiyang Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            30,
+            51
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5df4\u7f8e\u98df\u5802": {
+        "address": "No. 396\u865f, Gongming Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            23,
+            30
+        ],
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Three little bunnies gelato restaurant": {
+        "address": "600, Taiwan, Chiayi City, East District, \u555f\u660e\u8def255\u865f",
+        "rating": 4.5,
+        "time_spent": [
+            42,
+            69
+        ],
+        "types": [
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Meow Mi Cafe": {
+        "address": "No. 43\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.9,
+        "time_spent": [
+            24,
+            29
+        ],
+        "types": [
+            "cafe",
+            "clothing_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u72ac\u884c\u71d2\u3002 \u70e4\u86cb\u7cd5\u5c08\u8ce3\u5e97": {
+        "address": "No. 178\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.4,
+        "time_spent": [
+            22,
+            22
+        ],
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9732\u6bd4\u592b\u4eba\u5403\u505a\u8cb7": {
+        "address": "No. 50\u865f, Yuandong St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.7,
+        "time_spent": [
+            14,
+            24
+        ],
+        "types": [
+            "real_estate_agency",
+            "parking",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u65e5\u65e5\u597d\u8fb2\u8106\u86cb\u6372 \u5782\u694a\u5e97": {
+        "address": "No. 120\u865f, Chuiyang Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.9,
+        "time_spent": [
+            21,
+            22
+        ],
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Saint Tower Coffee": {
+        "address": "No. 10\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            26,
+            28
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "i-WOOD Village": {
+        "address": "No. 909-3\u865f, Wenhua Rd, West District, Chiayi City, Taiwan 60029",
+        "rating": 4.6,
+        "time_spent": [
+            44,
+            55
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u963f\u5bcc\u751f\u9b5a\u7247": {
+        "address": "No. 112\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5929\u5712\u8336\u884c": {
+        "address": "No. 115, Deming Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5e38\u5e38": {
+        "address": "No. 344\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            45
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u53f0\u7063\u963f\u91cc\u5c71\u77f3\u69d5\u8336\u5340\u8336\u8fb2\u81ea\u7522\u81ea\u92b7\u6eff\u51a0\u8336\u5712-\u5609\u7279\u7522\u5354": {
+        "address": "No. 308\u865f, Changrong St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "home_goods_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Redu Chocolate Workshop": {
+        "address": "No. 29\u865f, Shanghai Rd, West District, Chiayi City, Taiwan 60056",
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "CASA\uff08\u8a02\u4f4d\u4f11\u5047\u8a73\u60c5\u8acb\u898bInstagram \uff09": {
+        "address": "No. 132\u865f, Guangcai St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "bar",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            32,
+            56
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "BIG MOM CUPCAKE": {
+        "address": "No. 165\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6a39\u590f\u5228\u51b0\u00b7\u7cf0\u5b50\u5c08\u58f2\u6240(\u516c\u4f11\u65e5\u8acb\u898bIG\u516c\u544a)": {
+        "address": "No. 159\u865f, Guanghua Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7136\u5f8c\u5de5\u4f5c\u5ba4\uff08\u7121\u5e97\u9762\u3001\u50c5\u958b\u653e\u9810\u7d04\u53d6\u8ca8\uff09": {
+        "address": "60077, Taiwan, Chiayi City, East District, \u555f\u660e\u8def124\u865f",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c71\u8336\u82b1\u8207\u9e7f\u4e4b\u68ee": {
+        "address": "600, Taiwan, Chiayi City, East District, Chengren St, 226\u865f1\u6a13",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "HOT Hi-end Of Tiki": {
+        "address": "No. 605\u865f, Guangcai St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bar",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            29,
+            49
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c0f\u53e3\u54c1s": {
+        "address": "No. 453\u865f, Guangcai St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6df1\u6839\u9aee\u5eca": {
+        "address": "No. 139, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "hair_care",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u596e\u8d77\u798f FENCHIFU": {
+        "address": "No. 153\u865f, Siwei Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Darenwei - Japanese and Indian Curry": {
+        "address": "No. 94, Chengren St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Jun\u624b\u611f\u4f5c\u7269\u5de5\u4f5c\u5ba4": {
+        "address": "No. 19\u865f, Ronghe St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "grocery_or_supermarket",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9752\u6a59\u5761\u4e0a \u30cf\u30f3\u30c9\u30c9\u30ea\u30c3\u30d7\u30b3\u30fc\u30d2\u30fc \u624b\u6c96\u73c8\u7432\u5e97 / \u6765\u5e97\u8acb\u5148\u770b\u6ce8\u610f\u4e8b\u9805": {
+        "address": "No. 39\u865f, Lane 106, Daye St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u820a\u7f8e\u597d \u751f\u6d3b\u5668\u5177 \u53e4\u9053\u5177": {
+        "address": "No. 2\u865f, Xirong St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8fa3\u6728\u8336\u9928": {
+        "address": "No. 346\u865f, Lanjing St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Liaison\u6817\u8449(\u6240\u6709\u71df\u696d\u8cc7\u8a0a\u8acb\u4ee5FB\u516c\u544a\u70ba\u4e3b)": {
+        "address": "No. 65\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6615\u6a02\u3129\u311d\u02cb\u53ef\u980c\u5c08\u8ce3\u5e97(\u539f\u5e78\u798f\u7121\u9650)": {
+        "address": "No. 9\u865f, Yanping St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6696\u809a\u76ae\u5496\u5561": {
+        "address": "600, Taiwan, Chiayi City, East District, Gongming Rd, 386\u865f1\u6a13",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Coffee Soulution \u73c8\u7432\u89e3\u65b9": {
+        "address": "No. 62\u865f, Anle St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u679d\u690f zh\u012b y\u0101": {
+        "address": "No. 215\u865f, Yanping St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e0a\u6d77\u8def\u516b\u74a0\u65e5\u5f0f\u6599\u7406": {
+        "address": "No. 228, Shanghai Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9a5b\u5bb6\u9eb5\u5305": {
+        "address": "No. 614, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5f88\u8ce2\u3002\u5f88\u8559\u3002": {
+        "address": "600, Taiwan, Chiayi City, West District, Zhongyi St, 93\u865f2 \u6a13",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u502b\u306e\u6728\u5de5\u574a": {
+        "address": "600, Taiwan, Chiayi City, West District, Zhongshan Rd, 616\u865fK\u68df1\u6a13",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5169 \u9846\u86cb Egg Egg Dessert": {
+        "address": "No. 108\u865f, Lanjing St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            23,
+            50
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Chiayi City Historical Relic Museum": {
+        "address": "No. 42, Gongyuan St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "museum",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            33,
+            52
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "mumushan.dessert(\u5df2\u7121\u63d0\u4f9b\u5167\u7528\uff09": {
+        "address": "No. 267\u865f, Xirong St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8352\u5edfTemple": {
+        "address": "No. 681\u865f, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            33,
+            58
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u67d2\u500b\u6708\u2027\u9eb5\u5305\u6240": {
+        "address": "No. 215\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6597\u9152BAR DOUJIOU -": {
+        "address": "No. 82\u865f, Chengren St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            33,
+            58
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "2and1/2Dogs Bakery \u5169\u96bb\u4f34": {
+        "address": "No, No. 10\u65b0\u6c11\u8def728\u5df7 West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u79cb\u66f8\u5ba4": {
+        "address": "No. 494\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "book_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "J x Acces": {
+        "address": "No. 130, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Archers Kitchen \u5f13\u7bad\u624b": {
+        "address": "No. 2\u865f, Lane 13, Yong'an St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            56
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7fa9\u4e03\u5f69\u51b0\u679c\u5ba4": {
+        "address": "No. 329\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7396\u96f6\u751c\u98df\u6240": {
+        "address": "No. 447\u865f, Guangcai St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Hand On The Pizza": {
+        "address": "No. 129-1, Zhongyi St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Bar SKITZ \u904e\u9580": {
+        "address": "No. 330-1\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            33,
+            58
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5cf6\u547c\u518a\u5e97": {
+        "address": "No. 86\u865f, Beixing St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "book_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Hinoki Cho Turkey Rice": {
+        "address": "No. 101\u865f, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5496\u5561\u4e00\u6d3e the coffee folks": {
+        "address": "No. 152\u865f, Ximen St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u83ab\u7d22\u9aee\u85dd\u574a": {
+        "address": "No. 39\u865f, Wufeng S Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "hair_care",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5927\u9ea6\u5c0f\u9ea6\u65e5\u5f0f\u9152\u98df": {
+        "address": "No. 57\u865f, Ronghe St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6d2a\u96c5\u66f8\u623f": {
+        "address": "No. 110\u865f, Yijiao E Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "book_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8cf4\u4fe1\u6210\u8001\u9999\u8216": {
+        "address": "No. 463, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e0a\u7d05\u4e38\u6885\u88fd\u79ae\u54c1\u5c08\u8ce3": {
+        "address": "No. 323\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e00\u9593\u8336\u5c4b": {
+        "address": "No. 233\u865f, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u963f\u4e45\u5e2b-\u81fa\u7063\u7c73\u9ede\u5fc3\u7684\u5c08\u5bb6 | \u7d71\u767e\u98df\u54c1": {
+        "address": "No. 2\u865f, Baokang Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            53
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u6728\u5c45": {
+        "address": "No. 196\u865f, Xingzhong St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "home_goods_store",
+            "lodging",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e00\u8336\u5de5\u623f": {
+        "address": "No. 1-1\u865f, Lane 14, Yongkang St, Da\u2019an District, Taipei City, Taiwan 106",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u85af\u8077\u4eba\u98df\u54c1\u5546\u5e97-\u52c7\u4f2f\u5730\u74dc\u9165\u65d7\u8266\u9580\u5e02": {
+        "address": "No. 15\u865f, Qingnian St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u611b\u592b\u592b\u5496\u5561ifufucoffee": {
+        "address": "No. 552-1\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "pet_store",
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            51
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u693f\u8c50\u8336\u696d_\u9580\u5e02": {
+        "address": "No. 430\u865f, Liren Rd, East District, Chiayi City, Taiwan 60063",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c0f\u592b\u59bb\u62cc\u9eb5 \u6a9c\u610f\u9580\u5e02(T14A\u9928)": {
+        "address": "No. 4\u865f, Lane 378, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "SweetFarm": {
+        "address": "No. 300-3\u865f, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Five Woods \u4e94\u6728\u5496\u5561": {
+        "address": "No. 193\u865f, Linsen W Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6771\u5e02\u5834\u8881\u5bb6\u7fb9\u9eb5": {
+        "address": "600, Taiwan, Chiayi City, East District, \u6771\u5e02\u5834\u98f2\u98df\u5340",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Harmony Coffee & Tea": {
+        "address": "No. 223\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "meal_takeaway",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            50
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u8a31\u5bb6\u73ed\u9905\u8216": {
+        "address": "No. 68\u865f, Fude St, Xinyi District, Taipei City, Taiwan 110",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6771\u767c\u990a\u8702\u5834": {
+        "address": "No. 839\u865f, Yijiao St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9ec3\u91d1\u5ba2\u624b\u5de5\u86cb\u6372\u5c08\u8ce3\u5e97": {
+        "address": "No. 741, Xinsheng Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9019\u88e1 \u9910\u9928": {
+        "address": "No. 6, Lane 35, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5927\u638c\u6ac3\u9ad8\u9e97\u83dc\u714e\u9905\u8216/\u5609\u7fa9\u7f8e\u98df/\u5609\u7fa9\u5c0f\u5403/\u5609\u7fa9\u714e\u9905/\u897f\u5340\u7f8e\u98df/\u897f\u5340\u5c0f\u5403/\u897f\u5340\u714e\u9905": {
+        "address": "600, Taiwan, Chiayi City, West District, \u5eb7\u6a02\u8857412\u865f",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5357\u99a8\u98df\u54c1\u5e97": {
+        "address": "No. 358\u865f, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7fa93\u5206\u751c\u7d05\u8c46\u9905": {
+        "address": "No. 130\u865f, Zhongshan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u528d\u8679\u83dc\u5200\u4e94\u91d1\u884c": {
+        "address": "No. 296\u865f, Guangcai St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "hardware_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5e78\u798f\u539f\u5728\u5496\u5561": {
+        "address": "No. 195\u865f, Weixin Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u596e\u8d77\u798f\u7c73\u9905\u5e97-\u6a9c\u610f\u68ee\u6d3b\u6751\u9580\u5e02": {
+        "address": "No. 3\u865f, Lane 378, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u860b\u679c\u838a\u5712\u6709\u9650\u516c\u53f8": {
+        "address": "600, Taiwan, Chiayi City, West District, Lanjing St, 465\u865f6\u865f\u6a13\u4e4b3",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Le Chat Noir \u5c0f\u9ed1\u8c93": {
+        "address": "No. 518, Linsen East Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7fa9\u8521\u5bb6\u5305\u5b50\u9945\u982d\u5e97": {
+        "address": "No. 13\u865f, Wufeng S Rd, East District, Chiayi City, Taiwan 60037",
+        "types": [
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c04\u65e5\u5854\u666f\u89c0\u5496\u5561\u5ef3": {
+        "address": "No. 46\u865f, Gongyuan St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u53f0\u7063\u9b6f\u8089\u98ef\u6c11\u751f\u5e97": {
+        "address": "No. 224\u865f, Minsheng N Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6668\u5149\u5496\u5561": {
+        "address": "No. 98\u865f, Zhongxiao 1st St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u62cd\u62cd\u6ce1\u8299": {
+        "address": "60042, Taiwan, Chiayi City, West District, \u4e2d\u592e\u7b2c\u4e8c\u5546\u583447\u865f",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5510\u599d\u6f22\u65b9\u751f\u7269\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8": {
+        "address": "No. 465\u865f, Lanjing St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u65b0\u660e\u6d25\u9b5a\u4e38": {
+        "address": "600, Taiwan, Chiayi City, West District, 18\u865f, \u5609\u7fa9\u5e02\u6771\u5340\u6771\u5e02\u58344\u5340",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7fa9\u8208\u91ac\u5712-\u7fa9\u8208\u5609\u91c0\u91ac\u6cb9": {
+        "address": "600, Taiwan, Chiayi City, West District, \u5317\u65b0\u8def250\u5df752\u865f",
+        "types": [
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            53
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7fd4\u9f8d\u8349\u5065\u5eb7\u9928": {
+        "address": "No. 349\u865f, You'ai Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Ming Xiang Ming Tea": {
+        "address": "600No. 47\u865f, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u52e4\u5104\u86cb\u54c1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8": {
+        "address": "No. 37\u865f, Xinmin Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            53
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u798f\u6a1f\u826f\u6750-\u6728\u5275\u5de5\u574a(\u963f\u53d4\u62cd\u651d\u5730\u9ede-\u6b63\u8208\u6728\u4f5c)": {
+        "address": "No. 37\u865f, Lane 134, Weixin Rd, East District, Chiayi City, Taiwan 60049",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9f8d\u5e2b\u7236\u9ec3\u91d1\u50b3\u5947\u6ce1\u83dc": {
+        "address": "No. 28\u865f, Lane 195, Ren'ai Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5c0f\u592b\u59bb\u98df\u54c1\u4f01\u696d\u6709\u9650\u516c\u53f8(\u5c0f\u592b\u59bb\u62cc\u9eb5)": {
+        "address": "621, Taiwan, Chiayi County, Minxiong Township, 590\u865f \u4e4b 11",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9ed1\u723e\u8a69\u5065\u5eb7\u70d8\u7119": {
+        "address": "No. 178, Wuxian St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u65b9\u584a\u571f\u53f8": {
+        "address": "No. 365\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "bakery",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            24,
+            42
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6b63\u65b9\u82b3Cafe": {
+        "address": "No. 103\u865f, Linsen East Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            25,
+            51
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "33+V. Coffee Shop": {
+        "address": "600No. 49\u865f, Yijiao E Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u923a\u6cc9\u9f4bMm": {
+        "address": "No. 62\u865f, Guohua St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4eab\u505a\u5750DIY \u624b\u4f5c\u70d8\u7119": {
+        "address": "600, Taiwan, Chiayi City, West District, Xingye W Rd, 387\u865f3\u6a13 \u5165\u53e3\u8655\u5728\u5f90\u5dde\u4e03\u8857",
+        "types": [
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            45
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u53ef\u5473\u8089\u4e7e": {
+        "address": "No. 238\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Master Ron": {
+        "address": "No. 337\u865f, Zhongzheng Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5609\u7af9\u5546\u884c": {
+        "address": "No. 258\u4e4b1\u865f, Xuanxin St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            53
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u521d\u5fc3\u8005\u8089\u8216(\u71df\u696d\u53d6\u8ca8\u6642\u9593\u516c\u5e03\u65bcFb\u3001IG)": {
+        "address": "No. 213\u865f, Zhongxiao N St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u4e94\u67f3\u5712\u4f11\u9592\u8fb2\u5834": {
+        "address": "600, Taiwan, Chiayi City, East District, 44-13\u865f",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u65b0\u660e\u6d25\u5275\u610f\u7f8e\u98df\u9910\u98f2": {
+        "address": "No. 382\u865f, Renai Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6eff\u68e0\u8336\u54c1 Main Tang Co., Ltd.": {
+        "address": "No. 481\u865f, Yong'an St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5927\u4e38\u79a7\u6c34\u7522\u6709\u9650\u516c\u53f8": {
+        "address": "No. 112, Xingye E Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5fb7\u9716\u4e8b\u696d\u6709\u9650\u516c\u53f8": {
+        "address": "428, Taiwan, \u53f0\u7063 Daya District, \u53f0\u4e2d\u5e02 \u5927\u96c5\u5340\u795e\u6797\u5357\u8def302\u865f\u4e4b1",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "BLAXK Gallery": {
+        "address": "No. 449\u865f, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            43
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5e15\u6d77\u5c0f\u98df\u7e3d\u90e8": {
+        "address": "600, Taiwan, Chiayi City, West District, Guohua St, 58 \u865f1\u6a13",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u82ac\u82b3\u5712\u4f01\u696d\u793e": {
+        "address": "No. 51\u865f, Bade Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u5f18\u8ed2\u79d1\u6280\u6709\u9650\u516c\u53f8": {
+        "address": "10491, Taiwan, Taipei City, Zhongshan District, SongJiang Rd, 185\u865f12\u865f\u6a13\u4e4b 3",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u9326\u9f8d\u91ac\u6cb9": {
+        "address": "No. 138\u865f, Liucuo Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            28,
+            53
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "25\u00d740\u85dd\u6587\u7a7a\u9593": {
+        "address": "No. 554\u865f, Zhongzheng Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            62
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u6590\u5712\u8336\u838a": {
+        "address": "No. 935-2\u865f, Youzhong Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            26,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "\u7d66\u7d66\u8336\u8a18 kapkapchakee": {
+        "address": "600, Taiwan, Chiayi City, West District, Xinrong Rd, 319\u3001321\u865f1\u6a13",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            27,
+            47
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Oi Griddle CKAEs \u7f8e\u5f0f\u9b06\u9905": {
+        "address": "No. 92-1\u865f, Ximen St, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            55
+        ],
+        "metadata": {
+            "type": "food"
+        }
+    },
+    "Song of the Forest": {
+        "address": "Wenhua Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            60,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Hinoki Village": {
+        "address": "No. 370\u865f, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "tourist_attraction",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Botanical Garden": {
+        "address": "600, Taiwan, Chiayi City, East District, \u738b\u7530\u91cc\u5c71\u5b50\u9802270\u865f",
+        "rating": 4.6,
+        "time_spent": [
+            60,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "KANO Park": {
+        "address": "600, Taiwan, Chiayi City, East District, \u5c71\u4ed4\u9802249-1\u865f",
+        "rating": 4.3,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Cultural & Creative Industries Park": {
+        "address": "No. 616\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            25,
+            90
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Park": {
+        "address": "600, Taiwan, Chiayi City, East District, \u555f\u660e\u8def264\u865f",
+        "rating": 4.4,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Fountain Circle": {
+        "address": "600, Taiwan, Chiayi City, West District, \u5609\u7fa9\u5e02\u4e03\u5f69\u5674\u6c34\u5713\u74b0",
+        "rating": 4.3,
+        "time_spent": [
+            10,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Beixianghu Park": {
+        "address": "No. 600\u865f, Wenhua Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            60,
+            60
+        ],
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Rippling Moonlit Talk": {
+        "address": "600, Taiwan, Chiayi City, East District, \u9e7f\u5bee\u91cc\u7d05\u6bdb\u57e4187-4\u865f",
+        "rating": 4.2,
+        "time_spent": [
+            45,
+            45
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u798f\u6b0a\u81ea\u884c\u8eca\u9053": {
+        "address": "621, Taiwan, Chiayi County, Minxiong Township, 621",
+        "rating": 4,
+        "time_spent": [
+            90,
+            90
+        ],
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Alishan Forest Railway Garage Park": {
+        "address": "No. 2\u865f, Linsen W Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            60,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Wenhua Road Night Market": {
+        "address": "Wenhua Rd, West District, Chiayi City, Taiwan 600",
+        "rating": 4.2,
+        "time_spent": [
+            20,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Sleeping Forest": {
+        "address": "No. 239\u865f, Gonghe Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4,
+        "time_spent": [
+            45,
+            45
+        ],
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Sun-Shooting Tower": {
+        "address": "No. 46, Gongyuan St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            60,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Old Prison": {
+        "address": "No. 140, Weixin Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.3,
+        "time_spent": [
+            25,
+            60
+        ],
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Art Museum": {
+        "address": "No. 101\u865f, Guangning St, West District, Chiayi City, Taiwan 600",
+        "rating": 4.5,
+        "time_spent": [
+            62,
+            68
+        ],
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "ChiaPei Station": {
+        "address": "East District, Chiayi City, Taiwan 600",
+        "rating": 3.9,
+        "time_spent": [
+            48,
+            56
+        ],
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5929\u5e72\u5730\u652f\u7246\u4e4b\u9053": {
+        "address": "600, Taiwan, Chiayi City, East District, 600",
+        "rating": 4.8,
+        "time_spent": [
+            51,
+            57
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u798f\u5eb7\u5b89\u7d00\u529f\u7891": {
+        "address": "600, Taiwan, Chiayi City, East District, \u555f\u660e\u8def26\u865f\u53f0\u7063 \u865f",
+        "rating": 4.5,
+        "time_spent": [
+            47,
+            56
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u4e00\u6c5f\u5c71\u7d00\u5ff5\u7891": {
+        "address": "600, Taiwan, Chiayi City, East District, 600",
+        "rating": 4.5,
+        "time_spent": [
+            46,
+            56
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Xingjia Suspension Bridge": {
+        "address": "Xingjiadiao Bridge, East District, Chiayi City, Taiwan 600",
+        "rating": 4.1,
+        "time_spent": [
+            52,
+            58
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Ren Wu Temple": {
+        "address": "No. 54, Beirong St, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            42,
+            55
+        ],
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Zhongzheng Park": {
+        "address": "No. 115\u865f, Beirong St, West District, Chiayi City, Taiwan 600",
+        "rating": 3.6,
+        "time_spent": [
+            45,
+            56
+        ],
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Confucius Temple": {
+        "address": "600, Taiwan, Chiayi City, East District, Gongyuan St, \u5609\u7fa9\u516c\u5712\u5167",
+        "rating": 4.2,
+        "time_spent": [
+            35,
+            53
+        ],
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Cheng Huang Temple": {
+        "address": "No. 168\u865f, Wufeng N Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            23,
+            49
+        ],
+        "types": [
+            "place_of_worship",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u9673\u6f84\u6ce2\u756b\u67b6-\u862d\u6f6d\u4e09\u4fe1\u4ead\u65c1": {
+        "address": "600, Taiwan, Chiayi City, East District, \u5c0f\u96c5\u8def340\u865f-1",
+        "rating": 3.8,
+        "time_spent": [
+            51,
+            57
+        ],
+        "types": [
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "KANO\u5712\u5340\u661f\u5149\u6e9c\u6ed1\u68af": {
+        "address": "600, Taiwan, Chiayi City, East District, 600",
+        "rating": 4.7,
+        "time_spent": [
+            42,
+            55
+        ],
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Jiuhua Mountain Temple": {
+        "address": "No. 255, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "rating": 4.6,
+        "time_spent": [
+            64,
+            72
+        ],
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Kano\u904a\u5ba2\u4e2d\u5fc3-\u5609\u7fa9\u4e4b\u68eeJmori": {
+        "address": "600, Taiwan, Chiayi City, East District, \u6771\u5ddd269\u865f",
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5609\u7fa9\u88fd\u6750\u6240\u5712\u5340": {
+        "address": "No. 4\u865f, Linsen W Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5be6\u9a57\u6728\u5834": {
+        "address": "No. 24\u865f, Lane 134, Weixin Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5927\u6eaa\u539d\u6c34\u74b0\u5883\u6559\u80b2\u5712\u5340": {
+        "address": "No. 651\u865f, Daxi Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5609\u7fa9\u6148\u9f8d\u5bfa": {
+        "address": "No. 206\u865f, Changrong St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            39,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Lantan Trail": {
+        "address": "East District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            45,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Lantan Dam": {
+        "address": "600, Taiwan, Chiayi City, East District, \u7d05\u6bdb\u57e4187\u865f",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            45,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5609\u7fa9\u5e02\u74b0\u5e02\u81ea\u884c\u8eca\u9053": {
+        "address": "No. 638\u865f, Wenhua Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u6c34\u6e90\u5730\u6c34\u9336\u5ba4-\u5e02\u5b9a\u53e4\u8e5f": {
+        "address": "No. 2, Minquan Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u7d05\u6bdb\u4e95": {
+        "address": "No. 83\u865f, Lanjing St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Vision Station": {
+        "address": "No. 524\u865f, Zhongshan Rd, West District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "228 Memorial Park": {
+        "address": "No. 695, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            45,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u6749\u6c60": {
+        "address": "No. 275\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5f4c\u9640\u6620\u6708\u6a4b": {
+        "address": "600, Taiwan, Chiayi City, East District, 600\u5609\u7fa9\u5e02\u6771\u5340",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Shinto Shrine Remains": {
+        "address": "Chiayi Park, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            32,
+            56
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5609\u7fa9\u5e02\u5713\u6797\u4ed4\u793e\u5340": {
+        "address": "Lane 566, Dongyi Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "R School GaYi \u71df\u7e55\u587e": {
+        "address": "No. 17, Lane 134, Weixin Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Cultural Affairs Bureau, Chiayi City": {
+        "address": "No. 275\u865f, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "JiaYou Bicycle Trail": {
+        "address": "600, Taiwan, Chiayi City, West District, Section 4, Shixian Rd, 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u57e4\u5b50\u982d\u690d\u7269\u5712": {
+        "address": "600, Taiwan, \u5609\u7fa9\u5e02\u897f\u5340\u9999\u6e56\u91cc",
+        "types": [
+            "premise",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u7965\u592a\u6587\u5316\u9928": {
+        "address": "No. 30\u865f, Lane 285, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            46,
+            60
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Su Zhou Lian Ancestral Shrine": {
+        "address": "No. 326\u865f, Chuiyang Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Lantan Lake": {
+        "address": "Lantan Lake, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u767e\u5e74\u8304\u51ac\u8001\u6a39": {
+        "address": "602, Taiwan, Chiayi County, Fanlu Township, \u5609124-1\u9109\u905360\u865f",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            40,
+            58
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi City, East Village Community Development Association Top": {
+        "address": "No. 538, Yijiao St, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "North Gate Station": {
+        "address": "600, Taiwan, Chiayi City, East District, Gonghe Rd, 428 \u865f",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            39,
+            56
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u4e19\u5348\u9707\u707d\u7d00\u5ff5\u7891": {
+        "address": "600, Taiwan, Chiayi City, East District, 600",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "Chiayi Municipal Museum": {
+        "address": "No. 275-1, Zhongxiao Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            46,
+            60
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    },
+    "\u5609\u7fa9\u516c\u5712\u4e03\u864e\u6232\u6c34\u5340": {
+        "address": "600, Taiwan, \u5609\u7fa9\u5e02\u6771\u5340\u6771\u5ddd\u91cc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "time_spent": [
+            30,
+            57
+        ],
+        "metadata": {
+            "type": "site"
+        }
+    }
+}

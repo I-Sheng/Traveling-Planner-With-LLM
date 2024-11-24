@@ -9,7 +9,7 @@ load_dotenv()
 
 API_KEY = os.getenv('GOOGLE_MAP_API_KEY') #Load API key from .env
 
-def dumpList(data: list, file_path: str):
+def dumpDict(data: list, file_path: str):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent=4)
 
@@ -57,7 +57,7 @@ def getPlaceId(item:str, output: str = "output.json")-> list:
 
 
 
-def getSiteData(placeIdList):
+def getSiteData(placeIdList, name):
     target :dict = {}
     # print("length of placeId is", len(placeIdList))
     for placeId in placeIdList:
@@ -79,21 +79,21 @@ def getSiteData(placeIdList):
     if "populartimes" in target:
         if "time_spent" in target:
             popular_timeSpent = loadList("popular_timeSpent.json")
-            popular_timeSpent.append(target)
-            dumpList(popular_timeSpent, "popular_timeSpent.json")
+            popular_timeSpent[name] = target
+            dumpDict(popular_timeSpent, "popular_timeSpent.json")
         else:
             popular_notimeSpent = loadList("popular_notimeSpent.json")
-            popular_notimeSpent.append(target)
-            dumpList(popular_notimeSpent, "popular_notimeSpent.json")
+            popular_notimeSpent[name] = target
+            dumpDict(popular_notimeSpent, "popular_notimeSpent.json")
     else:
         if "time_spent" in target:
             nopopular_timeSpent = loadList("nopopular_timeSpent.json")
-            nopopular_timeSpent.append(target)
-            dumpList(nopopular_timeSpent, "nopopular_timeSpent.json")
+            nopopular_timeSpent[name] = target
+            dumpDict(nopopular_timeSpent, "nopopular_timeSpent.json")
         else:
             nopopular_notimeSpent = loadList("nopopular_notimeSpent.json")
-            nopopular_notimeSpent.append(target)
-            dumpList(nopopular_notimeSpent, "nopopular_notimeSpent.json")
+            nopopular_notimeSpent[name] = target
+            dumpDict(nopopular_notimeSpent, "nopopular_notimeSpent.json")
 
 
 
@@ -102,16 +102,17 @@ def getSiteData(placeIdList):
 def main():
     argv = sys.argv
     listFile: str = "items"
-    if len(argv) > 2:
-        print("Only inclue listOfName")
+    if len(argv) != 3:
+        print("Only inclue listOfName and Prefix")
         return
-    elif len(argv) == 2:
+    elif len(argv) == 3:
         listFile:str = argv[1]
+        prefix: str = argv[2]
         # Open a file in read mode
-    dumpList([], "nopopular_notimeSpent.json")
-    dumpList([], "popular_notimeSpent.json")
-    dumpList([], "nopopular_timeSpent.json")
-    dumpList([], "popular_timeSpent.json")
+    dumpDict({}, "chiayi_{prefix}_nopopular_notimeSpent.json")
+    dumpDict({}, "chiayi_{prefix}_popular_notimeSpent.json")
+    dumpDict({}, "chiayi_{prefix}_nopopular_timeSpent.json")
+    dumpDict({}, "chiayi_{prefix}_popular_timeSpent.json")
 
     with open(listFile, 'r') as file:
         for line in file:
@@ -119,7 +120,7 @@ def main():
             placeIdList, name = getPlaceId(line)
             if placeIdList == 'error':
                 continue
-            getSiteData(placeIdList)
+            getSiteData(placeIdList, name)
             print(f'{name} complete execute')
 
 
