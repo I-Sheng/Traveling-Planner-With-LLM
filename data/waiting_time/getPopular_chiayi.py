@@ -102,17 +102,16 @@ def getSiteData(placeIdList, name):
 def main():
     argv = sys.argv
     listFile: str = "items"
-    if len(argv) != 3:
-        print("Only inclue listOfName and Prefix")
+    if len(argv) != 2:
+        print("Only inclue listOfName")
         return
-    elif len(argv) == 3:
+    elif len(argv) == 2:
         listFile:str = argv[1]
-        prefix: str = argv[2]
         # Open a file in read mode
-    dumpDict({}, "chiayi_{prefix}_nopopular_notimeSpent.json")
-    dumpDict({}, "chiayi_{prefix}_popular_notimeSpent.json")
-    dumpDict({}, "chiayi_{prefix}_nopopular_timeSpent.json")
-    dumpDict({}, "chiayi_{prefix}_popular_timeSpent.json")
+    dumpDict({}, f"nopopular_notimeSpent.json")
+    dumpDict({}, f"popular_notimeSpent.json")
+    dumpDict({}, f"nopopular_timeSpent.json")
+    dumpDict({}, f"popular_timeSpent.json")
 
     with open(listFile, 'r') as file:
         for line in file:

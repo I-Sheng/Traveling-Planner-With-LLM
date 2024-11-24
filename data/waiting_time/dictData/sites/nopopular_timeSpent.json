@@ -1,0 +1,24 @@
+{
+    "\u7344\u653f\u535a\u7269\u9928 \u5609\u7fa9": {
+        "id": "ChIJZQXTocqVbjQRC5IKyMH0RdY",
+        "name": "Chiayi Old Prison",
+        "address": "No. 140, Weixin Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4861648,
+            "lng": 120.4586564
+        },
+        "rating": 4.3,
+        "rating_n": 5569,
+        "international_phone_number": "+886 5 278 9242",
+        "time_spent": [
+            30,
+            60
+        ]
+    }
+}

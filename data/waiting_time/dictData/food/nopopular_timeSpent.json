@@ -1,0 +1,25 @@
+{
+    "\u5800\u5ddd\u8336\u4e8b \u5609\u7fa9": {
+        "id": "ChIJfdtS132VbjQR0RLUWPsnmro",
+        "name": "\u5800\u5ddd\u8336\u4e8b",
+        "address": "No. 15\u865f, Lane 37, Wufeng S Rd, East District, Chiayi City, Taiwan 600",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 23.4728588,
+            "lng": 120.4547386
+        },
+        "rating": 4.6,
+        "rating_n": 506,
+        "international_phone_number": "+886 5 227 2672",
+        "time_spent": [
+            60,
+            120
+        ]
+    }
+}
