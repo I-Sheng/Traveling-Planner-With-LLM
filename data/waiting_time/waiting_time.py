@@ -207,21 +207,23 @@ unseen_predictions = getUnseenPredictions(food_path + 'chiayi_food_popular_notim
 unseen_predictions = postProcess(unseen_predictions)
 addTimeSpent(food_pnt, unseen_predictions)
 
+
+table = getData("dictData/table.json")
 foodDict = dict()
 for record in food_pt:
-  foodDict[record['name']] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+  foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 for record in food_npt:
-  foodDict[record['name']] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+  foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 for record in food_pnt:
-  foodDict[record['name']] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+  foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 siteDict = dict()
 for record in site_pt:
-  siteDict[record['name']] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+  siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 for record in site_npt:
-  siteDict[record['name']] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+  siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 for record in site_pnt:
-  siteDict[record['name']] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
+  siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 typeDict = dict()
 for site in foodDict.values():
@@ -249,9 +251,10 @@ average[1] = int(round(average[1]))
 average
 
 for record in food_npnt:
-  foodDict[record['name']] = {}
-  foodDict[record['name']]['rating'] = record['rating'] if  'rating' in record else None
-  foodDict[record['name']] = {'address': record['address'], 'types': record['types']}
+  name = table[record['name']]
+  foodDict[name] = {}
+  foodDict[name] = {'address': record['address'], 'types': record['types']}
+  foodDict[name]['rating'] = record['rating'] if  'rating' in record else None
   time_spent = [0, 0]
   type_num = 0
   for type_ in record['types']:
@@ -266,12 +269,13 @@ for record in food_npnt:
   time_spent[1] = round(time_spent[1])
   if type_num == 0:
     time_spent = average.copy()
-  foodDict[record['name']]['time_spent'] = time_spent
+  foodDict[name]['time_spent'] = time_spent
 
 for record in site_npnt:
-  siteDict[record['name']] = {}
-  siteDict[record['name']]['rating'] = record['rating'] if  'rating' in record else None
-  siteDict[record['name']] = {'address': record['address'], 'types': record['types']}
+  name = table[record['name']]
+  siteDict[name] = {}
+  siteDict[name] = {'address': record['address'], 'types': record['types']}
+  siteDict[name]['rating'] = record['rating'] if  'rating' in record else None
   time_spent = [0, 0]
   type_num = 0
   for type_ in record['types']:
@@ -286,11 +290,12 @@ for record in site_npnt:
   time_spent[1] = round(time_spent[1])
   if type_num == 0:
     time_spent = average.copy()
-  siteDict[record['name']]['time_spent'] = time_spent
+  siteDict[name]['time_spent'] = time_spent
 
-len(foodDict)
 
-len(siteDict)
+print(len(foodDict))
+
+print(len(siteDict))
 
 # all_food = torch.empty(0,2) # initialize all_food as a 2D tensor with size (0, 2)
 # for food in foodDict.keys():

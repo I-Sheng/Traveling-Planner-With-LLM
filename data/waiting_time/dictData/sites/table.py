@@ -1,0 +1,31 @@
+import os
+import json
+
+def dumpJson(data: dict, file_path: str):
+    with open(file_path, 'w') as file:
+        json.dump(data, file, indent=4)
+
+def loadJson(file_path: str):
+    with open(file_path, 'r') as file:
+      json_data = file.read()
+      data = json.loads(json_data)
+    file.close()
+    return data
+
+
+def main():
+    table = {}
+    data1 = loadJson("popular_timeSpent.json")
+    data2 = loadJson("popular_notimeSpent.json")
+    data3 = loadJson("nopopular_timeSpent.json")
+    data4 = loadJson("nopopular_notimeSpent.json")
+
+    mergeList = {**data1, **data2, **data3, **data4}
+    for key, value in mergeList.items():
+        table[value['name']] = key
+
+    print(len(table))
+    dumpJson(table, "table.json")
+
+if __name__ == "__main__":
+    main()
