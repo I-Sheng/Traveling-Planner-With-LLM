@@ -4,7 +4,7 @@ from data_time import convert_time_windows, get_stay_time
 
 def create_data_model(day:int, sites: list):
     data = {}
-    data["time_matrix"] = travel_time(sites)
+    sites, data["time_matrix"] = travel_time(sites)
     data["numlocations_"] = len(data["time_matrix"])
     data["name"] = sites
     data["time_windows"] = convert_time_windows(sites)
@@ -25,6 +25,6 @@ def main(day:int, sites:str):
 
 
 if __name__ == "__main__":
-    main(2, "射日塔, 嘉義樹木園, Eleventh Cafe 射日塔景觀咖啡館, 北香湖公園, 嘉義市環市自行車道, 嘉義文化創意產業園區, 堀川茶事")
+    main(1, "射日塔, 嘉義樹木園, Eleventh Cafe 射日塔景觀咖啡館, 北香湖公園, 嘉義市環市自行車道, 嘉義文化創意產業園區, 堀川茶事")
     # convert_time_windows("射日塔, 嘉義樹木園, Eleventh Cafe 射日塔景觀咖啡館, 北香湖公園, 嘉義市環市自行車道, 嘉義文化創意產業園區, 堀川茶事".split(', '))
 

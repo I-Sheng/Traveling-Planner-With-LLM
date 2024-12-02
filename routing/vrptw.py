@@ -135,7 +135,7 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
 
 
     time = "Time"
-    horizon = 100 # set waiting time for time window & total routing time
+    horizon = 1440 # set waiting time for time window & total routing time
     routing.AddDimension(
             time_evaluator_index,
             horizon,  # allow waiting time
@@ -158,7 +158,10 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
             print(f'close_time: {close_time}')
             assert("something wrong")
 
-        time_dimension.CumulVar(index).SetRange(int(open_time), int(close_time))
+        open_time = int(open_time)
+        close_time = int(close_time)
+        print("open", open_time, "close",  close_time)
+        time_dimension.CumulVar(index).SetRange(open_time, close_time)
         routing.AddToAssignment(time_dimension.SlackVar(index))
     # Add time window constraints for each vehicle start node
     for vehicle_id in range(data["num_vehicles"]):
