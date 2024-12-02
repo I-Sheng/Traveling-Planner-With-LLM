@@ -28,10 +28,13 @@ db = Chroma(persist_directory=persistent_directory,
             embedding_function=embeddings)
 
 # Step 1: Retrieval Chain
-def retrieve_documents(query, retrieval_num):
+def retrieve_documents_metadata(query, retrieval_num, metadata):
     retriever = db.as_retriever(
         search_type="similarity",
-        search_kwargs={"k": retrieval_num},
+        search_kwargs={
+            "k": retrieval_num,
+            "filter": metadata
+        },
     )
 
     # Retrieve the documents
@@ -41,6 +44,14 @@ def retrieve_documents(query, retrieval_num):
 
     return relevant_docs
 
+# Step 1: Retrieval Chain
+def retrieve_documents(query, day):
+    sites = retrieve_documents_metadata(query, day * 5, {"type": "site"})
+    food = retrieve_documents_metadata(query, day * 3, {"type": "food"})
+
+    relevant_docs = sites + food
+
+    return relevant_docs
 
 # Step 2: Combine retrieved content with the original query
 def combine_with_retrieval(query, retrieved_docs):
@@ -68,13 +79,11 @@ def main(day: int, preference:str):
     # Define the user's question
     # days = int(input("預計旅遊天數(請輸入數字): "))
     # preference = input("請輸入旅遊偏好: ")
-    template = "我的偏好是 {preference}。請以列表方式，幫我推薦 {sites_number} 個旅遊景點，{food_number} 個餐廳"
+    template = "我的偏好是 {preference}。請以列表方式，幫我景點推薦"
     prompt_template = ChatPromptTemplate.from_template(template)
 
 # print("-----Prompt from Template-----")
-    sites_number = day * 7
-    food_number = day * 1
-    prompt = prompt_template.invoke({"preference": "preference", "sites_number": sites_number, "food_number": food_number})
+    prompt = prompt_template.invoke({"preference": "preference"})
 # print(prompt)
     prompt_content = prompt.messages[0].content  # Assuming prompt contains HumanMessage
 
@@ -83,7 +92,7 @@ def main(day: int, preference:str):
 
 # Run the chain with the initial query
     start = time.time()
-    retrieved_docs = retrieve_documents(prompt_content, sites_number)  # Step 1
+    retrieved_docs = retrieve_documents(prompt_content, day)  # Step 1
     end = time.time()
 # print('Time for step1: ', end-start)
     start = time.time()
@@ -95,14 +104,16 @@ def main(day: int, preference:str):
     end = time.time()
 # print('Time for step3: ', end-start)
     start = time.time()
-    retrieved_docs = retrieve_documents(llm_response, sites_number + food_number)  # Step 4
+    retrieved_docs = retrieve_documents(llm_response, day)  # Step 4
     end = time.time()
 # print('Time for step4: ', end-start)
 
-    return [ doc.metadata['key'] for doc in retrieved_docs ]
     # for i, doc in enumerate(retrieved_docs, 1):
         # print(f"Document {i}:\n{doc.page_content}\n")
         # print(f"Name: \n{doc.metadata['key']}\n")
+
+    # print([ doc.metadata['key'] for doc in retrieved_docs ])
+    return [ doc.metadata['key'] for doc in retrieved_docs ]
 
 if __name__ == "__main__":
     main(2, "親子旅遊")

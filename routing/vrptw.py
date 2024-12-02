@@ -158,7 +158,7 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
             print(f'close_time: {close_time}')
             assert("something wrong")
 
-        time_dimension.CumulVar(index).SetRange(open_time, close_time)
+        time_dimension.CumulVar(index).SetRange(int(open_time), int(close_time))
         routing.AddToAssignment(time_dimension.SlackVar(index))
     # Add time window constraints for each vehicle start node
     for vehicle_id in range(data["num_vehicles"]):
@@ -221,11 +221,11 @@ def print_solution(
     # [END solution_printer]
 
 
-def main():
+def routing(data:dict):
     """Entry point of the program."""
     # Instantiate the data problem.
     # [START data]
-    data = create_data_model()
+    # data = create_data_model()
     # [END data]
 
     # Create the routing index manager
@@ -266,5 +266,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    data:dict = create_data_model()
+    routing(data)
 # [END program]

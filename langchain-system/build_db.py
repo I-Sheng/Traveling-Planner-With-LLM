@@ -17,7 +17,7 @@ def split_json_by_keys(json_data):
     split_data = []
     for key, value in json_data.items():
         # Convert each key-value pair into a Document object with metadata
-        split_data.append(Document(page_content=key + '\n'+ value['content'], metadata={"key": key}))
+        split_data.append(Document(page_content=key + '\n'+ value['content'], metadata={**value['metadata'], "key": key}))
     return split_data
 
 def split_json_by_keys_title(json_data):
@@ -70,7 +70,7 @@ def build_chroma_db(file_path, persistent_directory, action):
 if __name__ == '__main__':
     # Define the directory containing the text file and the persistent directory
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_dir, "..", "webcrab", "sitesData.json")
+    file_path = os.path.join(current_dir, "data", "sitesData.json")
     persistent_directory = os.path.join(current_dir, "db", "site_content_db")
     build_chroma_db(file_path, persistent_directory,  split_json_by_keys)
 
