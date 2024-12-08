@@ -10,7 +10,7 @@ def getJson(fileName: str):
 
 
 def get_stay_time(sites: list):
-    data = getJson('../data/sitesData.json')
+    data = getJson('./data/sitesData.json')
     arr = []
     for site in sites:
         timelist = data[site]['time_spent']
@@ -19,7 +19,7 @@ def get_stay_time(sites: list):
     return arr
 
 def convert_time_windows(sites):
-    data = getJson('../data/sitesData.json')
+    data = getJson('./data/sitesData.json')
     time_windows:list = []
     for site in sites:
         weekend = data[site]["opening_hours"][-2:]

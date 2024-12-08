@@ -1,0 +1,8 @@
+.env
+db/
+poetry.lock
+.venv
+ref/
+output*
+try*
+__pycache__

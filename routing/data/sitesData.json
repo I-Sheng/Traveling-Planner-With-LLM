@@ -2152,7 +2152,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjdFnCq%2FbU%2F3buWB61hzLZO34xdm6PP3HLwxcme6LJ4q4umhghu57mRUDR4CUQsOa4%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjdFnCq%2FbU%2F3buWB61hzLZOZoUM%2BfXMinXIuesFP4ugKQqYtKEmR%2BP4QzxfSWHJR74%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2193,7 +2193,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgB%2FUbPKhZlRMj%2B5L%2BJybVtxDbRpEB%2BRNLrg1JUCzxmm%2B0%2FIh9ZHmAVcuj3KoVmjFc%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4Eqg2YktAnQ4nGXxVi%2FZg4x5LxkEkH8UzjDirTNucv0DwUYlzArmI%2FaZuwriLPEjsAWc%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:19:30-21:40",
             "Tuesday:19:30-21:40",
             "Wednesday:19:30-21:40",
@@ -2223,7 +2223,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjA4esePzBadQtbTRG9RMpdeePcYpxAT27AzE39b997WoN2C4jHn2TN8Ki5Bhet1tE%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjA4esePzBadQtbTRG9RMpdeePcYpxAT27AzE39b997WoN2C4jHn2TN8Ki5Bhet1tE%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2237,8 +2237,8 @@
         "address": "No. 168, Gaotie W Rd, Taibao City, Chiayi County, Taiwan 612",
         "rating": 4.3,
         "time_spent": [
-            61,
-            62
+            0,
+            0
         ],
         "types": [
             "train_station",
@@ -2260,7 +2260,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4Eqhl6Z4xOWNfPZzgEToTBU0vrFltGeMsSMQbNTy7%2B9KeyGD3f0yzcMB9qpwXoZqjZSU%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgB%2FUbPKhZlRMj%2B5L%2BJybVt04wBOsjUQ%2FYf92DGS4QdzDChh5xw5VDBZvj4OK1jILo%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:04:50-23:00",
             "Tuesday:04:50-23:00",
             "Wednesday:04:50-23:00",
@@ -2298,7 +2298,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgB%2FUbPKhZlRMj%2B5L%2BJybVtuMqrLI%2FDnAILdojcDPW%2BnO%2FFg8R1PiPLmTFYDTnquZU%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjjVpUoFiF8Tool9ku4Bdz3%2FaymkJ7VW%2B%2FRgEUWiOT5cLAYipKZ5vHmGXkoB9DLGYE%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2329,7 +2329,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgUE252zXHp9U6ZizYlurPv97n%2Ba4dglVZWp%2FGkW37pBoXvzS1Kldi1VV%2BcRJQygbY%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgUE252zXHp9U6ZizYlurPv97n%2Ba4dglVZWp%2FGkW37pBoXvzS1Kldi1VV%2BcRJQygbY%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2362,7 +2362,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjItlUlL7DAISsVr1CLL81nF463G71kJHgpfr4KkTffZDaKwmdT0bUjtpsH18HaQFo%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjItlUlL7DAISsVr1CLL81nF463G71kJHgpfr4KkTffZDaKwmdT0bUjtpsH18HaQFo%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:08:30-16:00",
             "Tuesday:08:30-16:00",
             "Wednesday:08:30-16:00",
@@ -2425,7 +2425,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgB%2FUbPKhZlRMj%2B5L%2BJybVtphCuygyNGl408xDC3cdubM5jmJpGCeM8iBe9cIwPEaE%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqhWLRH1SWhNe9u7hAV2ycAnTgb%2BV7YAdbtS%2FdzZ%2BnFhdXIYvWAf1XvWp5LSHVMcy90%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2457,7 +2457,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgPaj66929C5stTrr4FWgnme%2FpFFI1tzuoLIdRfwCLDuFDgkv9QRWHjnY6287FRKWA%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgPaj66929C5stTrr4FWgnme%2FpFFI1tzuoLIdRfwCLDuFDgkv9QRWHjnY6287FRKWA%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2488,7 +2488,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjMTMBlLz4prDZMS6z%2BomHDC3GeS2s16PC%2F4jG0F8JqiQe6wr4ND6fAtCPjmxYJsZI%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqjMTMBlLz4prDZMS6z%2BomHDC3GeS2s16PC%2F4jG0F8JqiQe6wr4ND6fAtCPjmxYJsZI%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",
@@ -2519,7 +2519,7 @@
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgUE252zXHp9U6ZizYlurPveLsnS0xD3QlW22hPnGIYBy7qy2s6B%2FwP91zGvEFfclo%3D",
             "https://travel.chiayi.gov.tw/UploadPlugin?file=pqXwu0jB%2FWTieAO2E3%2FE7MJHgZEDxBqubJcoVfr4EqgUE252zXHp9U6ZizYlurPveLsnS0xD3QlW22hPnGIYBy7qy2s6B%2FwP91zGvEFfclo%3D"
         ],
-        "weekday_text": [
+        "opening_hours": [
             "Monday:00:00-24:00",
             "Tuesday:00:00-24:00",
             "Wednesday:00:00-24:00",

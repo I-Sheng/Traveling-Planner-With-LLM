@@ -2,7 +2,7 @@ from distance_matrix import travel_time
 from vrptw import routing
 from data_time import convert_time_windows, get_stay_time
 
-def create_data_model(day:int, sites: list):
+def create_data_model(day:int, sites: list, start_time: int, end_time:int):
     data = {}
     sites, data["time_matrix"] = travel_time(sites)
     data["numlocations_"] = len(data["time_matrix"])
@@ -12,19 +12,22 @@ def create_data_model(day:int, sites: list):
     data["num_vehicles"] = day
     data["service_unit"] = 1
     data["depot"] = 0
+    data["start_time"] = start_time
+    data["end_time"] = end_time
     return data
 
 
 
-def main(day:int, sites:str):
+def main(day:int, sites:str, start_time:int = 480, end_time:int = 1200, start_point = '嘉義火車站'):
     sites = sites.split(', ')
-    data = create_data_model(day, sites)
-    print(data)
-    routing(data)
+    sites = [start_point] + [site for site in sites if site != '嘉義火車站']
+    print(sites)
+    data = create_data_model(day, sites, start_time, end_time)
+    # print(data)
+    return routing(data)
 
 
 
 if __name__ == "__main__":
-    main(1, "射日塔, 嘉義樹木園, Eleventh Cafe 射日塔景觀咖啡館, 北香湖公園, 嘉義市環市自行車道, 嘉義文化創意產業園區, 堀川茶事")
-    # convert_time_windows("射日塔, 嘉義樹木園, Eleventh Cafe 射日塔景觀咖啡館, 北香湖公園, 嘉義市環市自行車道, 嘉義文化創意產業園區, 堀川茶事".split(', '))
+    main(1,  "嘉義市環市自行車道, 嘉義市立博物館, 嘉義文化創意產業園區, 嘉義公園, 嘉義市史蹟資料館, 上島咖啡, 七彩冰果室, 舊時光新鮮事, 燒肉觀止", 480, 1200 )
 
