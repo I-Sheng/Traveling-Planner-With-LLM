@@ -121,7 +121,7 @@ def add_data(sites:dict):
     data = loadJson(file)
     for site, week_time in site_dict.items():
         sites[site] = data[site]
-        sites[site]['weekday_text'] = site_dict[site]
+        sites[site]['opening_hours'] = site_dict[site]
 
     return sites
 
@@ -131,6 +131,7 @@ def merge_json(file1, file2):
     food = loadJson(file2 + '.json')
     sites = add_data(sites)
     merge_dict = {**sites, **food}
+    merge_dict['嘉義火車站']['time_spent'] = [0,0]
     dumpJson(merge_dict, 'sitesData_opening.json')
 
 
