@@ -9,7 +9,7 @@ export default async function handler(
     return res.status(405).json({ error: "Method not allowed" });
   }
 
-  const { day, sites } = req.body;
+  const { day, sites, start_time, end_time, start_point } = req.body;
 
   try {
     // Make a request to the local API (or external endpoint) with the data
@@ -18,7 +18,7 @@ export default async function handler(
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ day, sites }),
+      body: JSON.stringify({ day, sites, start_time, end_time, start_point }),
     });
 
     if (!response.ok) {
