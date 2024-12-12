@@ -75,20 +75,20 @@ class RNN2(nn.Module):
     #print('after fc3:', out)
     return out
 
-site_path = "sites/"
-food_path = "food/"
+site_path = "dictData/sites/"
+food_path = "dictData/food/"
 model_path = "prediction_model/"
 
 
-site_pt = getData(site_path + 'chiayi_site_popular_timeSpent.json')
-site_pnt = getData(site_path + 'chiayi_site_popular_notimeSpent.json')
-site_npt = getData(site_path + 'chiayi_site_nopopular_timeSpent.json')
-site_npnt = getData(site_path + 'chiayi_site_nopopular_notimeSpent.json')
+site_pt = getData(site_path + 'chiayi_site_popular_timeSpent.json').values()
+site_pnt = getData(site_path + 'chiayi_site_popular_notimeSpent.json').values()
+site_npt = getData(site_path + 'chiayi_site_nopopular_timeSpent.json').values()
+site_npnt = getData(site_path + 'chiayi_site_nopopular_notimeSpent.json').values()
 
-food_pt = getData(food_path + 'chiayi_food_popular_timeSpent.json')
-food_pnt = getData(food_path + 'chiayi_food_popular_notimeSpent.json')
-food_npt = getData(food_path + 'chiayi_food_nopopular_timeSpent.json')
-food_npnt = getData(food_path + 'chiayi_food_nopopular_notimeSpent.json')
+food_pt = getData(food_path + 'chiayi_food_popular_timeSpent.json').values()
+food_pnt = getData(food_path + 'chiayi_food_popular_notimeSpent.json').values()
+food_npt = getData(food_path + 'chiayi_food_nopopular_timeSpent.json').values()
+food_npnt = getData(food_path + 'chiayi_food_nopopular_notimeSpent.json').values()
 
 food_para1 = torch.load(model_path + food_path + 'model1.pt', map_location=torch.device('cpu'))
 food_para2 = torch.load( model_path + food_path + 'newModel2.pt', map_location=torch.device('cpu'))
