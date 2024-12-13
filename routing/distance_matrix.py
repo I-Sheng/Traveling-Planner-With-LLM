@@ -59,7 +59,9 @@ class DistanceMatrix():  # Extend unittest.TestCase
                 dist = src['elements'][j]
                 # print(dist)
                 if 'duration_in_traffic' in dist:
-                    tmp.append(math.ceil(dist['duration_in_traffic']['value'] / 60))
+                    minutes:int = math.ceil(dist['duration_in_traffic']['value'] / 60)
+                    minutes += (10 - (minutes % 10))
+                    tmp.append(minutes)
                 else:
                     print("No duration_in_traffic in the element, something go wrong!")
                     tmp.append(1441)
@@ -73,11 +75,11 @@ def travel_time(sites: list):
     # print(sites)
     distance_matrix = DistanceMatrix()
     exist_sites, arr = distance_matrix.matrixTo2dArray(sites)
-    print('successfully get the 2d array!')
-    for ele in arr:
-        for i in ele:
-            print(i, end=' ')
-        print()
+    # print('successfully get the 2d array!')
+    # for ele in arr:
+    #     for i in ele:
+    #         print(i, end=' ')
+    #     print()
     return exist_sites, arr
 
 if __name__ == "__main__":

@@ -120,7 +120,6 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
               </button>
             </form>
           </div>
-          <p>{selectedOptions.join(", ")}</p>
         </div>
       )}
     </>
