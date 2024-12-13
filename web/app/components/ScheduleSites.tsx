@@ -84,7 +84,10 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
     time = time + start_time;
     let hours: number = (time / 60) | 0;
     let minutes: number = time % 60;
-    return `${hours}點 ${minutes}分`;
+    if (minutes < 10) {
+      return `${hours}:0${minutes}`;
+    }
+    return `${hours}:${minutes}`;
   };
 
   const groupByDay = (data: NodeProps[]): Record<number, NodeProps[]> => {
@@ -98,7 +101,29 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
   };
   return (
     <div>
-      <ul className="flex flex-wrap gap-8 justify-center items-center mt-20 mb-20">
+      <div className="mt-10">
+        <h2 className="text-2xl font-bold text-center mb-6">行程安排</h2>
+        <div className="bg-gray-100 p-6 rounded-lg shadow-lg">
+          <ul className="space-y-4">
+            {scheduleSites.map((node, index) => (
+              <li
+                key={index}
+                className="flex flex-col items-start bg-white p-4 border rounded-lg shadow-md hover:shadow-lg transition-shadow"
+              >
+                <span className="text-lg font-semibold text-gray-700">
+                  景點 {index + 1}: {node.name}
+                </span>
+                <span className="text-sm text-gray-500 mt-2">
+                  到達時間: {transferArrivalTime(node.arrival)}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+      <h2 className="text-2xl font-bold text-center mt-16">行程詳情</h2>
+
+      <ul className="flex flex-wrap gap-8 justify-center items-center mt-5 mb-20">
         {Object.entries(groupByDay(scheduleSites)).map(([vehicle, items]) => (
           <div
             key={vehicle}

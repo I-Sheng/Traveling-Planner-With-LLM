@@ -45,8 +45,13 @@ const HomePage: React.FC = () => {
         <div className="min-h-screen flex flex-col">
           <Itravel />
           <main className="flex-grow bg-gradient-to-b from-blue-50 to-blue-100">
-            <div className="w-3/5 mx-auto flex justify-center items-center mt-20">
-              <p className="content-center font-bold text-2xl">嘉義一日遊</p>
+            <div className="w-3/5 mx-auto flex flex-col justify-center items-center mt-20">
+              <p className="content-center font-bold text-2xl mb-3">
+                嘉義一日遊
+              </p>
+              <p className="content-center font-regular text-xl">
+                起點: 嘉義火車站
+              </p>
             </div>
             <div className="w-full mx-auto mt-20 content-center flex flex-col items-center">
               <Preference
