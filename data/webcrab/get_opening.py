@@ -43,8 +43,8 @@ def parseJson(output:str)-> list:
 
 
 def getPlaceId(item:str, output: str = "output.json")-> list:
-    item = item + " 嘉義"
-    command = f"curl -X POST -d '{{\"textQuery\" : \"{item}\"}}' -H 'Content-Type: application/json' -H 'X-Goog-Api-Key: {API_KEY}' -H 'X-Goog-FieldMask: places.id,places.displayName,places.formattedAddress' 'https://places.googleapis.com/v1/places:searchText' > {output}"
+    site = item + " 嘉義"
+    command = f"curl -X POST -d '{{\"textQuery\" : \"{site}\"}}' -H 'Content-Type: application/json' -H 'X-Goog-Api-Key: {API_KEY}' -H 'X-Goog-FieldMask: places.id,places.displayName,places.formattedAddress' 'https://places.googleapis.com/v1/places:searchText' > {output}"
 
     os.system(command)
 #Here is debug Section

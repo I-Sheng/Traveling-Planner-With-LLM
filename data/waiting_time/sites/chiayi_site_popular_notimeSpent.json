@@ -13,7 +13,7 @@
             "lng": 120.4407365
         },
         "rating": 4.5,
-        "rating_n": 4487,
+        "rating_n": 4510,
         "international_phone_number": "+886 5 227 0016",
         "populartimes": [
             {
@@ -238,7 +238,6 @@
         "rating": 3.9,
         "rating_n": 473,
         "international_phone_number": "+886 5 278 6228",
-        "current_popularity": 2,
         "populartimes": [
             {
                 "name": "Monday",
@@ -460,9 +459,9 @@
             "lng": 120.32282
         },
         "rating": 4.3,
-        "rating_n": 2728,
+        "rating_n": 2734,
         "international_phone_number": "+886 2 4066 3000",
-        "current_popularity": 1,
+        "current_popularity": 15,
         "populartimes": [
             {
                 "name": "Monday",
@@ -682,7 +681,7 @@
             "lng": 120.4674786
         },
         "rating": 4.9,
-        "rating_n": 7,
+        "rating_n": 8,
         "populartimes": [
             {
                 "name": "Monday",
@@ -903,8 +902,7 @@
             "lng": 120.4496322
         },
         "rating": 4.3,
-        "rating_n": 903,
-        "current_popularity": 30,
+        "rating_n": 910,
         "populartimes": [
             {
                 "name": "Monday",
@@ -2005,9 +2003,8 @@
             "lat": 23.4809983,
             "lng": 120.4480833
         },
-        "rating": 3.9,
-        "rating_n": 26,
-        "current_popularity": 14,
+        "rating": 4,
+        "rating_n": 27,
         "populartimes": [
             {
                 "name": "Monday",
@@ -2229,7 +2226,7 @@
             "lng": 120.4665004
         },
         "rating": 4.2,
-        "rating_n": 122,
+        "rating_n": 123,
         "populartimes": [
             {
                 "name": "Monday",
@@ -2451,7 +2448,7 @@
             "lng": 120.454027
         },
         "rating": 4.6,
-        "rating_n": 2216,
+        "rating_n": 2229,
         "international_phone_number": "+886 5 222 4116",
         "populartimes": [
             {
@@ -2664,8 +2661,8 @@
         "name": "Sleeping Forest",
         "address": "No. 239\u865f, Gonghe Rd, East District, Chiayi City, Taiwan 600",
         "types": [
-            "park",
             "tourist_attraction",
+            "park",
             "point_of_interest",
             "establishment"
         ],
@@ -2674,7 +2671,7 @@
             "lng": 120.4546625
         },
         "rating": 4,
-        "rating_n": 1406,
+        "rating_n": 1404,
         "international_phone_number": "+886 5 278 8225",
         "populartimes": [
             {
@@ -2895,8 +2892,8 @@
             "lat": 23.46866499999999,
             "lng": 120.477457
         },
-        "rating": 3.8,
-        "rating_n": 28,
+        "rating": 3.9,
+        "rating_n": 29,
         "international_phone_number": "+886 5 278 8225#129",
         "populartimes": [
             {
@@ -3116,8 +3113,8 @@
             "lat": 23.4821626,
             "lng": 120.4651617
         },
-        "rating": 4.6,
-        "rating_n": 42,
+        "rating": 4.5,
+        "rating_n": 43,
         "populartimes": [
             {
                 "name": "Monday",

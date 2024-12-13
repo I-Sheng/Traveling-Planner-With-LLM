@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import TravelCard from "./TravelCard";
 import data from "@/data/sitesData.json";
 import TravelTimeArrow from "./TravelTimeArrow";
+import Link from "next/link";
 
 interface ScheduleSitesProps {
   day: number;
@@ -11,6 +12,7 @@ interface ScheduleSitesProps {
   start_time: number;
   end_time: number;
   start_point: string;
+  onSubmit: () => void;
 }
 
 interface NodeProps {
@@ -27,10 +29,16 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
   start_time,
   end_time,
   start_point,
+  onSubmit,
 }) => {
   const [scheduleSites, setScheduleSites] = useState<NodeProps[]>([]);
   const [error, setError] = useState<string | null>(null);
 
+  const handleSubmit = () => {
+    onSubmit();
+    setError(null);
+    setScheduleSites([]);
+  };
   useEffect(() => {
     async function fetchScheduleSites() {
       try {
@@ -84,37 +92,64 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
         acc[item.vehicle] = [];
       }
       acc[item.vehicle].push(item);
+      console.log(acc);
       return acc;
     }, {});
   };
   return (
     <div>
-      <ul className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 gap-8 mt-20 mb-20 mx-28">
+      <ul className="flex flex-wrap gap-8 justify-center items-center mt-20 mb-20">
         {Object.entries(groupByDay(scheduleSites)).map(([vehicle, items]) => (
-          <div key={vehicle} className="flex flex-col p-4 border rounded-md">
+          <div
+            key={vehicle}
+            className="flex flex-col items-center justify-center p-4 border rounded-md"
+          >
             {items.map((node: NodeProps, index) => (
-              <li key={index} className="flex py-1">
-                <TravelCard
-                  title={node.name}
-                  imageSrc={data[node.name as keyof typeof data]["images"][0]}
-                  alt={node.name}
-                  arrive_time={transferArrivalTime(node.arrival)}
-                  stay_time={
-                    node.end_node
-                      ? null
-                      : scheduleSites[index + 1].arrival -
-                        node.travel -
-                        node.arrival
-                  }
-                />
-                {node.end_node === false && index !== 0 && (
-                  <TravelTimeArrow travelTime={node.travel} />
+              <React.Fragment key={index}>
+                {/* TravelCard */}
+                <li className="flex py-1">
+                  <TravelCard
+                    title={node.name}
+                    imageSrc={`images/${node.name}.jpg`}
+                    alt={node.name}
+                    arrive_time={transferArrivalTime(node.arrival)}
+                    stay_time={
+                      node.end_node
+                        ? null
+                        : items[index + 1]?.arrival - node.travel - node.arrival
+                    }
+                  />
+                </li>
+
+                {/* TravelTimeArrow */}
+                {index !== items.length - 1 && (
+                  <div className="flex justify-center my-2">
+                    <TravelTimeArrow travelTime={node.travel} />
+                  </div>
                 )}
-              </li>
+              </React.Fragment>
             ))}
           </div>
         ))}
       </ul>
+      <div className="flex items-center justify-center gap-36 mt-5 mb-20">
+        <form onSubmit={handleSubmit}>
+          <button
+            type="submit"
+            className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+          >
+            上一頁
+          </button>
+        </form>
+        <Link href="/">
+          <button
+            type="submit"
+            className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
+          >
+            完成規劃
+          </button>
+        </Link>
+      </div>
     </div>
   );
 };

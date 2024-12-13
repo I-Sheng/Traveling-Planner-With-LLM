@@ -26,6 +26,7 @@ def main():
 
         if key in waiting_data:
             data[key] = {**waiting_data[key], **opening_data[key]}
+            data[key]['content'] = data[key]['content'].split('\n\n\n')[0]
 
 
     for key in waiting_data.keys():

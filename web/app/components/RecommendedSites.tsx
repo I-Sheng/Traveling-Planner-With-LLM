@@ -35,6 +35,11 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
     setSubmitted(!submitted); // Set submitted to true to show confirmation
   };
 
+  const returnSubmit = () => {
+    handleSubmit();
+    setSelectedOptions([]);
+  };
+
   useEffect(() => {
     async function fetchRecommendedSites() {
       try {
@@ -63,6 +68,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
     }
 
     fetchRecommendedSites();
+    setSelectedOptions([]);
   }, [day, preference]); // Dependencies to re-fetch when day or preference changes
 
   if (error) {
@@ -78,6 +84,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
           start_time={480}
           end_time={1200}
           start_point="嘉義火車站"
+          onSubmit={returnSubmit}
         />
       ) : (
         <div>
@@ -87,7 +94,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
                 <Card
                   title={site}
                   description={data[site as keyof typeof data]["content"]}
-                  imageSrc={data[site as keyof typeof data]["images"][0]}
+                  imageSrc={`images/${site}.jpg`}
                   alt={site}
                   onToggle={toggleOption}
                 />
@@ -113,7 +120,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
               </button>
             </form>
           </div>
-          <h1>{selectedOptions.join(", ")}</h1>
+          <p>{selectedOptions.join(", ")}</p>
         </div>
       )}
     </>

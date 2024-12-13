@@ -42,7 +42,7 @@ class DistanceMatrix():  # Extend unittest.TestCase
     def matrixTo2dArray(self, sites: list):
         matrix = self.testAllParams(sites)
         neglect = []
-        for i in range(len(sites)):
+        for i in range(len(matrix['destination_addresses'])):
             if matrix['destination_addresses'][i] == '':
                 neglect.append(i)
 
@@ -73,11 +73,11 @@ def travel_time(sites: list):
     # print(sites)
     distance_matrix = DistanceMatrix()
     exist_sites, arr = distance_matrix.matrixTo2dArray(sites)
-    # print('successfully get the 2d array!')
-    # for ele in arr:
-        # for i in ele:
-            # print(i, end=' ')
-        # print()
+    print('successfully get the 2d array!')
+    for ele in arr:
+        for i in ele:
+            print(i, end=' ')
+        print()
     return exist_sites, arr
 
 if __name__ == "__main__":

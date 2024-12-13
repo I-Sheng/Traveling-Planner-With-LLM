@@ -151,10 +151,10 @@ def print_solution(data, manager, routing, assignment):  # pylint:disable=too-ma
 
             previous_index = index
             index = assignment.Value(routing.NextVar(index))
-            if not routing.IsEnd(index):
-                travel_time = data["time_matrix"][manager.IndexToNode(previous_index)][manager.IndexToNode(index)]
-                plan_output += f"Travel Time: {travel_time} -> "
-                arr[idx]['travel'] = travel_time
+            # if not routing.IsEnd(index):
+            travel_time = data["time_matrix"][manager.IndexToNode(previous_index)][manager.IndexToNode(index)]
+            plan_output += f"Travel Time: {travel_time} -> "
+            arr[idx]['travel'] = travel_time
 
         # Handle the last node
         idx += 1

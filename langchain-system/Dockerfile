@@ -10,6 +10,7 @@ RUN pip install -r requirements.txt
 
 # Copy the rest of the application code
 COPY . .
+RUN python build_db.py
 
 # Expose the port the app runs on
 EXPOSE 5001

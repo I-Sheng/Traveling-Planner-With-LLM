@@ -80,20 +80,20 @@ food_path = "dictData/food/"
 model_path = "prediction_model/"
 
 
-site_pt = getData(site_path + 'chiayi_site_popular_timeSpent.json').values()
-site_pnt = getData(site_path + 'chiayi_site_popular_notimeSpent.json').values()
-site_npt = getData(site_path + 'chiayi_site_nopopular_timeSpent.json').values()
-site_npnt = getData(site_path + 'chiayi_site_nopopular_notimeSpent.json').values()
+site_pt = list(getData(site_path + 'popular_timeSpent.json').values())
+site_pnt = list(getData(site_path + 'popular_notimeSpent.json').values())
+site_npt = list(getData(site_path + 'nopopular_timeSpent.json').values())
+site_npnt = list(getData(site_path + 'nopopular_notimeSpent.json').values())
 
-food_pt = getData(food_path + 'chiayi_food_popular_timeSpent.json').values()
-food_pnt = getData(food_path + 'chiayi_food_popular_notimeSpent.json').values()
-food_npt = getData(food_path + 'chiayi_food_nopopular_timeSpent.json').values()
-food_npnt = getData(food_path + 'chiayi_food_nopopular_notimeSpent.json').values()
+food_pt = list(getData(food_path + 'popular_timeSpent.json').values())
+food_pnt = list(getData(food_path + 'popular_notimeSpent.json').values())
+food_npt = list(getData(food_path + 'nopopular_timeSpent.json').values())
+food_npnt = list(getData(food_path + 'nopopular_notimeSpent.json').values())
 
-food_para1 = torch.load(model_path + food_path + 'model1.pt', map_location=torch.device('cpu'))
-food_para2 = torch.load( model_path + food_path + 'newModel2.pt', map_location=torch.device('cpu'))
-site_para1 = torch.load(model_path + site_path + 'model1.pt', map_location=torch.device('cpu'))
-site_para2 = torch.load(model_path + site_path + 'newModel2.pt', map_location=torch.device('cpu'))
+food_para1 = torch.load(model_path + 'food/' + 'model1.pt', map_location=torch.device('cpu'))
+food_para2 = torch.load( model_path + 'food/' + 'newModel2.pt', map_location=torch.device('cpu'))
+site_para1 = torch.load(model_path + 'sites/' + 'model1.pt', map_location=torch.device('cpu'))
+site_para2 = torch.load(model_path + 'sites/' + 'newModel2.pt', map_location=torch.device('cpu'))
 
 print(site_pt[0].keys())
 print(site_pnt[0].keys())
@@ -105,7 +105,7 @@ def getUnseenDataList(file_path):
     dayCount :list = []
     with open(file_path, 'r') as file:
         json_data = file.read()
-        data = json.loads(json_data)
+        data = list(json.loads(json_data).values())
         for record in data:
             populartimeList = [record['populartimes'][i]['data'] for i in range(7) if sum(record['populartimes'][i]['data']) != 0]
             for i in range(len(populartimeList)):
@@ -196,14 +196,14 @@ def addTimeSpent(sites: list, timeSpent: list):
 model1 = site_para1['best_q_model1'].to(device)
 model2 = site_para2['best_q_newModel2'].to(device)
 
-unseen_predictions = getUnseenPredictions(site_path + 'chiayi_site_popular_notimeSpent.json', site_para1, site_para2)
+unseen_predictions = getUnseenPredictions(site_path + 'popular_notimeSpent.json', site_para1, site_para2)
 unseen_predictions = postProcess(unseen_predictions)
 addTimeSpent(site_pnt, unseen_predictions)
 
 model1 = food_para1['best_q_model1'].to(device)
 model2 = food_para2['best_q_newModel2'].to(device)
 
-unseen_predictions = getUnseenPredictions(food_path + 'chiayi_food_popular_notimeSpent.json', food_para1, food_para2)
+unseen_predictions = getUnseenPredictions(food_path + 'popular_notimeSpent.json', food_para1, food_para2)
 unseen_predictions = postProcess(unseen_predictions)
 addTimeSpent(food_pnt, unseen_predictions)
 
@@ -213,33 +213,65 @@ foodDict = dict()
 for record in food_pt:
   if "food" not in record['types']:
       record['types'].append("food")
+
+  name = record['name']
+  if name not in table:
+      print(name , 'not in food table')
+      continue
   foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 
 for record in food_npt:
   if "food" not in record['types']:
       record['types'].append("food")
+
+  name = record['name']
+  if name not in table:
+      print(name , 'not in food table')
+      continue
   foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 for record in food_pnt:
   if "food" not in record['types']:
       record['types'].append("food")
+
+  name = record['name']
+  if name not in table:
+      print(name , 'not in food table')
+      continue
   foodDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 siteDict = dict()
 for record in site_pt:
   if "site" not in record['types']:
       record['types'].append("site")
+
+  name = record['name']
+  if name not in table:
+      print(name , 'not in food table')
+      continue
   siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 for record in site_npt:
   if "site" not in record['types']:
       record['types'].append("site")
+
+  name = record['name']
+  if name not in table:
+      print(name , 'not in food table')
+      continue
+
   siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 for record in site_pnt:
   if "site" not in record['types']:
       record['types'].append("site")
+
+  name = record['name']
+  if name not in table:
+      print(name , 'not in food table')
+      continue
+
   siteDict[table[record['name']]] = {'address': record['address'], 'rating': record['rating'] if 'rating' in record else None, 'time_spent': record['time_spent'], 'types': record['types']}
 
 typeDict = dict()

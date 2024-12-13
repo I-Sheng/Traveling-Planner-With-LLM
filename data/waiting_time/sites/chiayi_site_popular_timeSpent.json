@@ -16,7 +16,7 @@
             "lng": 120.4675134
         },
         "rating": 4.3,
-        "rating_n": 5224,
+        "rating_n": 5243,
         "international_phone_number": "+886 5 277 0518",
         "populartimes": [
             {
@@ -32,14 +32,14 @@
                     0,
                     0,
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    64,
+                    54,
+                    42,
+                    37,
+                    40,
+                    40,
+                    34,
+                    22,
                     0,
                     0,
                     0,
@@ -61,14 +61,14 @@
                     0,
                     0,
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    54,
+                    48,
+                    42,
+                    38,
+                    38,
+                    38,
+                    34,
+                    25,
                     0,
                     0,
                     0,
@@ -242,8 +242,8 @@
             "lng": 120.448254
         },
         "rating": 4.2,
-        "rating_n": 5775,
-        "current_popularity": 12,
+        "rating_n": 5788,
+        "current_popularity": 37,
         "populartimes": [
             {
                 "name": "Monday",
@@ -469,9 +469,9 @@
             "lng": 120.4678016
         },
         "rating": 4.6,
-        "rating_n": 1094,
+        "rating_n": 1105,
         "international_phone_number": "+886 5 276 4921",
-        "current_popularity": 1,
+        "current_popularity": 8,
         "populartimes": [
             {
                 "name": "Monday",
@@ -697,7 +697,8 @@
             "lng": 120.4648493
         },
         "rating": 4.3,
-        "rating_n": 1767,
+        "rating_n": 1779,
+        "current_popularity": 22,
         "populartimes": [
             {
                 "name": "Monday",
@@ -922,7 +923,7 @@
             "lng": 120.4384804
         },
         "rating": 4.6,
-        "rating_n": 10581,
+        "rating_n": 10624,
         "international_phone_number": "+886 5 232 2441",
         "populartimes": [
             {
@@ -1147,7 +1148,7 @@
             "lng": 120.4400247
         },
         "rating": 4.1,
-        "rating_n": 3116,
+        "rating_n": 3118,
         "international_phone_number": "+886 5 216 0500",
         "populartimes": [
             {
@@ -1364,8 +1365,8 @@
         "name": "Museum Of Old Taiwan Tiles",
         "address": "No. 282\u865f, Linsen W Rd, West District, Chiayi City, Taiwan 600",
         "types": [
-            "tourist_attraction",
             "museum",
+            "tourist_attraction",
             "point_of_interest",
             "establishment"
         ],
@@ -1374,7 +1375,7 @@
             "lng": 120.4460308
         },
         "rating": 4.5,
-        "rating_n": 3982,
+        "rating_n": 4009,
         "international_phone_number": "+886 905 012 390",
         "populartimes": [
             {
@@ -1600,9 +1601,9 @@
             "lng": 120.4471324
         },
         "rating": 4.3,
-        "rating_n": 3490,
+        "rating_n": 3497,
         "international_phone_number": "+886 5 222 6270",
-        "current_popularity": 3,
+        "current_popularity": 5,
         "populartimes": [
             {
                 "name": "Monday",
@@ -1827,7 +1828,7 @@
             "lng": 120.4484736
         },
         "rating": 4,
-        "rating_n": 4051,
+        "rating_n": 4058,
         "international_phone_number": "+886 5 276 8399",
         "populartimes": [
             {
@@ -2053,8 +2054,9 @@
             "lng": 120.48071
         },
         "rating": 4.2,
-        "rating_n": 3799,
+        "rating_n": 3812,
         "international_phone_number": "+886 5 224 8917",
+        "current_popularity": 17,
         "populartimes": [
             {
                 "name": "Monday",
@@ -2278,9 +2280,8 @@
             "lng": 120.4472894
         },
         "rating": 4.3,
-        "rating_n": 350,
+        "rating_n": 353,
         "international_phone_number": "+886 5 224 8917",
-        "current_popularity": 36,
         "populartimes": [
             {
                 "name": "Monday",
@@ -2505,7 +2506,7 @@
             "lng": 120.4512608
         },
         "rating": 4.2,
-        "rating_n": 8017,
+        "rating_n": 8038,
         "international_phone_number": "+886 5 277 9843",
         "populartimes": [
             {
@@ -2732,7 +2733,7 @@
             "lng": 120.449684
         },
         "rating": 4.2,
-        "rating_n": 29838,
+        "rating_n": 29926,
         "international_phone_number": "+886 5 225 4321",
         "populartimes": [
             {
@@ -2957,9 +2958,8 @@
             "lng": 120.4472894
         },
         "rating": 4.3,
-        "rating_n": 350,
+        "rating_n": 353,
         "international_phone_number": "+886 5 224 8917",
-        "current_popularity": 36,
         "populartimes": [
             {
                 "name": "Monday",
@@ -3185,8 +3185,9 @@
             "lng": 120.4652307
         },
         "rating": 4.4,
-        "rating_n": 14683,
-        "international_phone_number": "+886 5 274 4019",
+        "rating_n": 14704,
+        "international_phone_number": "+886 5 276 0054",
+        "current_popularity": 17,
         "populartimes": [
             {
                 "name": "Monday",
@@ -3412,7 +3413,7 @@
             "lng": 120.4517201
         },
         "rating": 4.4,
-        "rating_n": 2865,
+        "rating_n": 2885,
         "international_phone_number": "+886 5 278 0303",
         "populartimes": [
             {
@@ -3638,7 +3639,7 @@
             "lng": 120.2919684
         },
         "rating": 4.6,
-        "rating_n": 1967,
+        "rating_n": 1969,
         "international_phone_number": "+886 975 696 819",
         "populartimes": [
             {

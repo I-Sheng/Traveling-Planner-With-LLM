@@ -91,7 +91,7 @@
             "lat": 23.4793666,
             "lng": 120.4896926
         },
-        "rating": 4.4,
+        "rating": 4.5,
         "international_phone_number": "+886 5 229 4593"
     },
     {
@@ -133,8 +133,8 @@
         "types": [
             "tourist_attraction",
             "clothing_store",
-            "food",
             "store",
+            "food",
             "point_of_interest",
             "establishment"
         ],
@@ -216,7 +216,7 @@
             "lat": 23.47929999999999,
             "lng": 120.4417865
         },
-        "rating": 4.1,
+        "rating": 4.2,
         "international_phone_number": "+886 5 229 4838"
     },
     {
@@ -264,7 +264,7 @@
             "lng": 120.4765195
         },
         "rating": 3.9,
-        "rating_n": 160
+        "rating_n": 159
     },
     {
         "id": "ChIJt3n1tzOUbjQRinnlGfh1QsU",
@@ -280,7 +280,7 @@
             "lat": 23.4816159,
             "lng": 120.4508554
         },
-        "rating": 4.6,
+        "rating": 4.7,
         "international_phone_number": "+886 5 227 6283"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
         "id": "ChIJYVpXZFSUbjQRvZAY-TGwjas",
-        "name": "\u7965\u592a\u6587\u5316\u9928",
+        "name": "Shota cultural center",
         "address": "No. 30\u865f, Lane 285, Section 2, Daya Rd, East District, Chiayi City, Taiwan 600",
         "types": [
             "museum",
@@ -390,6 +390,7 @@
             "lng": 120.4515364
         },
         "rating": 4.3,
+        "rating_n": 50,
         "international_phone_number": "+886 5 271 9346"
     },
     {
