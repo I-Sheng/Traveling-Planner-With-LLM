@@ -53,7 +53,7 @@ const Card: React.FC<CardProps> = ({
             />
             <form onSubmit={onSubmit}>
               <button type="submit" className="font-semibold">
-                Learn more
+                Learn more...
               </button>
             </form>
           </div>

@@ -2,7 +2,6 @@
 
 import React, { useState, useEffect } from "react";
 import TravelCard from "./TravelCard";
-import data from "@/data/sitesData.json";
 import TravelTimeArrow from "./TravelTimeArrow";
 import Link from "next/link";
 
@@ -33,6 +32,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
 }) => {
   const [scheduleSites, setScheduleSites] = useState<NodeProps[]>([]);
   const [error, setError] = useState<string | null>(null);
+  const [isLoading, setLoading] = useState<boolean>(true);
 
   const handleSubmit = () => {
     onSubmit();
@@ -62,6 +62,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
 
         const data = await response.json();
 
+        setLoading(false);
         if (data.result && Array.isArray(data.result)) {
           setScheduleSites(data.result);
         } else {
@@ -83,7 +84,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
     time = time + start_time;
     let hours: number = (time / 60) | 0;
     let minutes: number = time % 60;
-    return `${hours}時 ${minutes}分`;
+    return `${hours}點 ${minutes}分`;
   };
 
   const groupByDay = (data: NodeProps[]): Record<number, NodeProps[]> => {
@@ -92,7 +93,6 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
         acc[item.vehicle] = [];
       }
       acc[item.vehicle].push(item);
-      console.log(acc);
       return acc;
     }, {});
   };
@@ -114,7 +114,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
                     alt={node.name}
                     arrive_time={transferArrivalTime(node.arrival)}
                     stay_time={
-                      node.end_node
+                      node.end_node || index == 0
                         ? null
                         : items[index + 1]?.arrival - node.travel - node.arrival
                     }
@@ -132,24 +132,26 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
           </div>
         ))}
       </ul>
-      <div className="flex items-center justify-center gap-36 mt-5 mb-20">
-        <form onSubmit={handleSubmit}>
-          <button
-            type="submit"
-            className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-          >
-            上一頁
-          </button>
-        </form>
-        <Link href="/">
-          <button
-            type="submit"
-            className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
-          >
-            完成規劃
-          </button>
-        </Link>
-      </div>
+      {!isLoading && (
+        <div className="flex items-center justify-center gap-36 mt-5 mb-20">
+          <form onSubmit={handleSubmit}>
+            <button
+              type="submit"
+              className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+            >
+              上一頁
+            </button>
+          </form>
+          <Link href="/">
+            <button
+              type="submit"
+              className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
+            >
+              完成規劃
+            </button>
+          </Link>
+        </div>
+      )}
     </div>
   );
 };

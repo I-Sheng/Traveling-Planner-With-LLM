@@ -20,7 +20,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
   const [error, setError] = useState<string | null>(null);
   const [selectedOptions, setSelectedOptions] = useState<string[]>([]);
   const [submitted, setSubmitted] = useState<boolean>(false);
-
+  const [isLoading, setLoading] = useState<boolean>(true);
   const toggleOption = (option: string) => {
     setSelectedOptions((prevSelectedOptions) => {
       const newSelectedOptions = prevSelectedOptions.includes(option)
@@ -56,7 +56,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
         }
 
         const data = await response.json();
-
+        setLoading(false);
         if (data.result && Array.isArray(data.result)) {
           setRecommendedSites(data.result);
         } else {
@@ -101,25 +101,27 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
               </li>
             ))}
           </ul>
-          <div className="flex items-center justify-center gap-36 mt-5 mb-20">
-            <form onSubmit={onSubmit}>
-              <button
-                type="submit"
-                className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-              >
-                上一頁
-              </button>
-            </form>
+          {!isLoading && (
+            <div className="flex items-center justify-center gap-36 mt-5 mb-20">
+              <form onSubmit={onSubmit}>
+                <button
+                  type="submit"
+                  className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+                >
+                  上一頁
+                </button>
+              </form>
 
-            <form onSubmit={handleSubmit}>
-              <button
-                type="submit"
-                className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
-              >
-                旅程規劃
-              </button>
-            </form>
-          </div>
+              <form onSubmit={handleSubmit}>
+                <button
+                  type="submit"
+                  className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
+                >
+                  旅程規劃
+                </button>
+              </form>
+            </div>
+          )}
         </div>
       )}
     </>
