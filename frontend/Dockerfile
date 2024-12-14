@@ -13,6 +13,13 @@ RUN npm install
 # Copy all source files to the working directory
 COPY . .
 
+# ENV
+ARG RECOMMEND_API_URL
+ARG ROUTING_API_URL
+
+ENV RECOMMEND_API_URL=$RECOMMEND_API_URL
+ENV ROUTING_API_URL=$ROUTING_API_URL
+
 # Build the Next.js application
 RUN npm run build
 

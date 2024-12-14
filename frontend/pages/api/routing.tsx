@@ -13,8 +13,7 @@ export default async function handler(
 
   try {
     // Make a request to the local API (or external endpoint) with the data
-    const apiUrl = process.env.ROUTING_API_URL;
-    console.log(apiUrl);
+    const apiUrl = process.env.NEXT_PUBLIC_ROUTING_API_URL;
 
     const response = await fetch(`${apiUrl}/routing`, {
       method: "POST",
