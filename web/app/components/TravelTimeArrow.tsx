@@ -6,8 +6,8 @@ interface TravelTimeArrowProps {
 
 const TravelTimeArrow: React.FC<TravelTimeArrowProps> = ({ travelTime }) => {
   const transferArrivalTime = (time: number) => {
-    let hours: number = (time / 60) | 0;
-    let minutes: number = time % 60;
+    const hours: number = (time / 60) | 0;
+    const minutes: number = time % 60;
     if (hours === 0) {
       return `${minutes}分`;
     }

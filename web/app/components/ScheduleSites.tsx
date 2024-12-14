@@ -68,13 +68,17 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
         } else {
           throw new Error("Unexpected data structure");
         }
-      } catch (error: any) {
-        setError(error.message);
+      } catch (error: unknown) {
+        if (error instanceof Error) {
+          setError(error.message);
+        } else {
+          setError("An unknown error occurred");
+        }
       }
     }
 
     fetchScheduleSites();
-  }, [sites]); // Dependencies to re-fetch when day or preference changes
+  }, [day, sites, start_time, end_time, start_point]); // Dependencies to re-fetch when day or preference changes
 
   if (error) {
     return <p>Error: {error}</p>;
@@ -82,8 +86,8 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
 
   const transferArrivalTime = (time: number) => {
     time = time + start_time;
-    let hours: number = (time / 60) | 0;
-    let minutes: number = time % 60;
+    const hours: number = (time / 60) | 0;
+    const minutes: number = time % 60;
     if (minutes < 10) {
       return `${hours}:0${minutes}`;
     }

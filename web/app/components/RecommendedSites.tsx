@@ -62,8 +62,12 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
         } else {
           throw new Error("Unexpected data structure");
         }
-      } catch (error: any) {
-        setError(error.message);
+      } catch (error: unknown) {
+        if (error instanceof Error) {
+          setError(error.message);
+        } else {
+          setError("An unknown error occurred");
+        }
       }
     }
 

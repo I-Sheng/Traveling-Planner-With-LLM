@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
+import Image from "next/image";
 
 interface TravelCardProps {
   title: string;
@@ -37,7 +38,7 @@ const TravelCard: React.FC<TravelCardProps> = ({
       }`}
     >
       <h2 className="text-xl font-bold mt-2 ml-2 mb-1">{title}</h2>
-      <img
+      <Image
         src={imageSrc}
         alt={alt}
         className="rounded-lg w-[600px] h-[350px] object-cover"

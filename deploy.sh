@@ -1,3 +1,4 @@
+#!/bin/bash
 cd langchain-system
 bash deploy.sh
 cd ../routing

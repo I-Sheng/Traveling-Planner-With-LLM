@@ -37,7 +37,7 @@ const HomePage: React.FC = () => {
         <RecommendedSitesComponent
           day={day}
           preference={selectedOptions.join("、")}
-          onChange={handleSubmit}
+          onSubmit={handleSubmit}
         />
       ) : (
         <div className="min-h-screen flex flex-col">

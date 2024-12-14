@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Image from "next/image";
 import Switch from "@/app/components/Switch";
 interface CardProps {
   title: string;
@@ -27,7 +28,7 @@ const Card: React.FC<CardProps> = ({
     <>
       {detail ? (
         <div className="flex flex-col items-start p-4 bg-white rounded-lg shadow-md text-black h-full">
-          <img
+          <Image
             src={imageSrc}
             alt={alt}
             className="rounded-lg w-[600px] h-[350px] object-cover"
