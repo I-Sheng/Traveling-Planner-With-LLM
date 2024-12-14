@@ -33,5 +33,5 @@ docker build -t recommend .
 docker rm -f recommend || true
 
 # Run the new container with the environment variable
-docker run -d -p 5001:5001 --env OPENAI_API_KEY=$OPENAI_API_KEY recommend
+docker run -d -p 5001:5001 --network langchain --env OPENAI_API_KEY=$OPENAI_API_KEY recommend
 
