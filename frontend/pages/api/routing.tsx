@@ -13,7 +13,10 @@ export default async function handler(
 
   try {
     // Make a request to the local API (or external endpoint) with the data
-    const response = await fetch("http://localhost:5002/routing", {
+    const apiUrl = process.env.ROUTING_API_URL;
+    console.log(apiUrl);
+
+    const response = await fetch(`${apiUrl}/routing`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

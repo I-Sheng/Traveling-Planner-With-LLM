@@ -1,0 +1,55 @@
+version: "3.9"
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    networks:
+      - langchain
+    environment:
+      - RECOMMEND_API_URL=http://recommend:5001
+      - ROUTING_API_URL=http://routing:5002
+
+  routing:
+    build:
+      context: ./routing
+      dockerfile: Dockerfile
+    container_name: routing
+    ports:
+      - "5002:5002"
+    networks:
+      - langchain
+    environment:
+      - GOOGLE_MAP_API_KEY=${GOOGLE_MAP_API_KEY}
+    #volumes:
+    #- ../data/sitesData.json:/app/data/sitesData.json
+
+  recommend:
+    build:
+      context: ./recommend
+      dockerfile: Dockerfile
+    container_name: recommend
+    ports:
+      - "5001:5001"
+    networks:
+      - langchain
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    #volumes:
+    #- ../data/sitesData.json:/app/data/sitesData.json
+
+  #nginx:
+  #image: nginx:stable-alpine
+  #ports:
+  #- "80:80"
+  #networks:
+  #- langchain
+  #volumes:
+  #- ./frontend/nginx.conf:/etc/nginx/conf.d/default.conf
+
+networks:
+  langchain:
+    driver: bridge

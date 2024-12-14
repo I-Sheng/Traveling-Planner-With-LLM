@@ -5,6 +5,7 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
+  console.log("enter recommend");
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed" });
   }
@@ -13,7 +14,9 @@ export default async function handler(
 
   try {
     // Make a request to the local API (or external endpoint) with the data
-    const response = await fetch("http://localhost:5001/recommend", {
+    const apiUrl = process.env.RECOMMEND_API_URL;
+    console.log(apiUrl);
+    const response = await fetch(`${apiUrl}/recommend`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -4,8 +4,10 @@ const nextConfig: NextConfig = {
   /* config options here */
   // Set the output to 'export' for static file generation
   distDir: "out", // Custom output directory  //output: "standalone",
-  // Enable React Strict Mode for highlighting potential issues in development
-  // reactStrictMode: true,
+  env: {
+    RECOMMEND_API_URL: process.env.RECOMMEND_API_URL || "http://recommend:5001",
+    ROUTING_API_URL: process.env.ROUTING_API_URL || "http://routing:5002",
+  },
 };
 
 export default nextConfig;
