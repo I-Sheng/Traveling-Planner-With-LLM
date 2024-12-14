@@ -1,5 +1,4 @@
 .env
-db/
 poetry.lock
 .venv
 ref/
