@@ -1,0 +1,3 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:I-Sheng/chiayi_traveling_web.git
