@@ -43,7 +43,6 @@ const HomePage: React.FC = () => {
         />
       ) : (
         <div className="min-h-screen flex flex-col">
-          <Itravel />
           <main className="flex-grow bg-gradient-to-b from-blue-50 to-blue-100">
             <div className="w-3/5 mx-auto flex flex-col justify-center items-center mt-20">
               <p className="content-center font-bold text-2xl mb-3">
@@ -66,7 +65,6 @@ const HomePage: React.FC = () => {
               </button>
             </div>
           </main>
-          <Footer />
         </div>
       )}
     </>
