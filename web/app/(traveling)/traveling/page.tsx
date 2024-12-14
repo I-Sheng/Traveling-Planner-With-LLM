@@ -2,8 +2,6 @@
 "use client";
 
 import React, { useState } from "react";
-import Itravel from "@/app/components/Itravel";
-import Footer from "@/app/components/Footer";
 import Preference from "@/app/components/Preference";
 import RecommendedSitesComponent from "@/app/components/RecommendedSites";
 
