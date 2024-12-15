@@ -101,7 +101,7 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
 
         open_time = int(open_time)
         close_time = int(close_time)
-        # print("open", open_time, "close",  close_time)
+        print("open", open_time, "close",  close_time)
         time_dimension.CumulVar(index).SetRange(open_time, close_time)
         routing.AddToAssignment(time_dimension.SlackVar(index))
     # Add time window constraints for each vehicle start node

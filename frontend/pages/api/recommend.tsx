@@ -10,7 +10,7 @@ export default async function handler(
   }
 
   const { day, preference } = req.body;
-
+  console.log("Calling recommend API");
   try {
     // Make a request to the local API (or external endpoint) with the data
     const apiUrl = process.env.NEXT_PUBLIC_RECOMMEND_API_URL;

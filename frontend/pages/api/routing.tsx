@@ -10,7 +10,7 @@ export default async function handler(
   }
 
   const { day, sites, start_time, end_time, start_point } = req.body;
-
+  console.log("Calling routing API");
   try {
     // Make a request to the local API (or external endpoint) with the data
     const apiUrl = process.env.NEXT_PUBLIC_ROUTING_API_URL;

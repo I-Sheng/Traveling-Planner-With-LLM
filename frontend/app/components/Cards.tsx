@@ -34,6 +34,9 @@ const Card: React.FC<CardProps> = ({
             width={600}
             height={350}
             className="rounded-lg object-cover"
+            onError={(e) => {
+              e.currentTarget.src = "/images/placeholder.jpg"; // Replace with your placeholder image
+            }}
           />
           <h2 className="text-lg font-bold mt-2 ml-2">{title}</h2>
           <p className="ml-2 mt-1">{description}</p>
