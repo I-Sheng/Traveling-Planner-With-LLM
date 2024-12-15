@@ -91,7 +91,7 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
         if location_idx == data["depot"]:
             continue
         index = manager.NodeToIndex(location_idx)
-        open_time = min(time_window[0] + service_time(data, location_idx) - start_time, 0)
+        open_time = max(time_window[0] + service_time(data, location_idx) - start_time, 0)
         close_time = min(time_window[1] - start_time, horizon)
         if open_time >= close_time:
             print(f'location: {location_idx}')
@@ -101,7 +101,7 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
 
         open_time = int(open_time)
         close_time = int(close_time)
-        print("open", open_time, "close",  close_time)
+        #print("open", open_time, "close",  close_time)
         time_dimension.CumulVar(index).SetRange(open_time, close_time)
         routing.AddToAssignment(time_dimension.SlackVar(index))
     # Add time window constraints for each vehicle start node

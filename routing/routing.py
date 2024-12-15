@@ -21,7 +21,7 @@ def create_data_model(day:int, sites: list, start_time: int, end_time:int):
 def main(day:int, sites:str, start_time:int = 480, end_time:int = 1200, start_point = '嘉義火車站'):
     sites = sites.split(', ')
     sites = [start_point] + [site for site in sites if site != start_point]
-    print(sites)
+    #print(sites)
     data = create_data_model(day, sites, start_time, end_time)
     # print(data)
     return routing(data)
