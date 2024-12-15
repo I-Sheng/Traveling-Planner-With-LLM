@@ -107,7 +107,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
     <div>
       <div className="mt-10">
         <h2 className="text-2xl font-bold text-center mb-6">行程安排</h2>
-        <div className="bg-gray-100 p-6 rounded-lg shadow-lg">
+        <div className="bg-blue-100 p-6 rounded-lg shadow-lg">
           <ul className="space-y-4">
             {scheduleSites.map((node, index) => (
               <li

@@ -6,7 +6,7 @@ const HomePage: React.FC = () => {
   return (
     <Link
       href="/traveling"
-      className="flex items-center justify-center h-screen bg-gray-100"
+      className="flex items-center justify-center h-screen"
     >
       <button
         type="submit"
