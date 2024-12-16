@@ -16,6 +16,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "嘉義旅遊規劃系統",
   description: "幫助使用者規劃嘉義一日遊",
+  viewport: "width=device-width, initial-scale=1.0",
 };
 
 export default function RootLayout({
