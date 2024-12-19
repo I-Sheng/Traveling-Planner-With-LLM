@@ -14,7 +14,9 @@ def get_stay_time(sites: list):
     arr = []
     for site in sites:
         timelist = data[site]['time_spent']
-        arr.append(sum(timelist) / len(timelist))
+        time = sum(timelist) // len(timelist)
+        time += time % 5
+        arr.append(time)
 
     return arr
 

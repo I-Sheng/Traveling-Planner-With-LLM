@@ -79,7 +79,8 @@ def main(day: int, preference:str):
     # Define the user's question
     # days = int(input("預計旅遊天數(請輸入數字): "))
     # preference = input("請輸入旅遊偏好: ")
-    template = "我的偏好是 {preference}。請以列表方式，幫我景點推薦"
+    #template = "我的偏好是 {preference}。請以列表方式，幫我景點推薦"
+    template = preference
     prompt_template = ChatPromptTemplate.from_template(template)
 
 # print("-----Prompt from Template-----")
