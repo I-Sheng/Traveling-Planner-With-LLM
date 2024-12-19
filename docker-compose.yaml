@@ -38,6 +38,7 @@ services:
       - langchain
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
     #volumes:
     #- ../data/sitesData.json:/app/data/sitesData.json
 

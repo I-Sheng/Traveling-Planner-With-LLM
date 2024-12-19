@@ -9,6 +9,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain.chains import SimpleSequentialChain
 from langchain_core.runnables import RunnableLambda
+from langchain_google_genai import ChatGoogleGenerativeAI
+
 import time
 
 
@@ -65,7 +67,8 @@ def combine_with_retrieval(query, retrieved_docs):
 
 # Create a ChatOpenAI model
 def query_llm(combined_input):
-    model = ChatOpenAI(model="gpt-4o-mini")
+    #model = ChatOpenAI(model="gpt-4o-mini")
+    model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
     messages = [
         SystemMessage(content="你是一個嘉義在地導遊。"),
         HumanMessage(content=combined_input),
