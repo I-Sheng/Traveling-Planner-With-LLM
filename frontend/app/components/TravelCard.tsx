@@ -41,8 +41,8 @@ const TravelCard: React.FC<TravelCardProps> = ({
       <Image
         src={imageSrc}
         alt={alt}
-        width={600}
-        height={350}
+        width={300}
+        height={175}
         className="rounded-lg object-cover"
       />
       <p className="font-medium text-lg mb-[1.5px] mt-0.5">
@@ -50,7 +50,7 @@ const TravelCard: React.FC<TravelCardProps> = ({
       </p>
       {stay_time !== null && (
         <p className="font-medium text-lg ">
-          停留時間: {transferTime(stay_time)}
+          預估停留時間: {transferTime(stay_time)}
         </p>
       )}
     </div>

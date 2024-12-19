@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Switch from "@/app/components/Switch";
+
 interface CardProps {
   title: string;
   description: string;
@@ -24,6 +25,7 @@ const Card: React.FC<CardProps> = ({
     setIsOn(!isOn);
     onToggle(title);
   };
+
   return (
     <>
       {detail ? (
@@ -33,7 +35,7 @@ const Card: React.FC<CardProps> = ({
             alt={alt}
             width={600}
             height={350}
-            className="rounded-lg object-cover"
+            className="rounded-lg object-cover w-full h-auto max-h-[300px] sm:max-h-[400px]"
             onError={(e) => {
               e.currentTarget.src = "/images/placeholder.jpg"; // Replace with your placeholder image
             }}
@@ -41,24 +43,30 @@ const Card: React.FC<CardProps> = ({
           <h2 className="text-lg font-bold mt-2 ml-2">{title}</h2>
           <p className="ml-2 mt-1">{description}</p>
           <form onSubmit={onSubmit}>
-            <button type="submit" className="text-lg mt-2 font-semibold">
+            <button
+              type="submit"
+              className="text-lg mt-2 font-semibold  hover:text-blue-500"
+            >
               Go Back
             </button>
           </form>
         </div>
       ) : (
-        <div className="flex flex-col items-center p-4 bg-white rounded-lg shadow-md text-black h-full w-full ">
+        <div className="flex flex-col items-center p-4 bg-white rounded-lg shadow-md text-black h-full w-full">
           <h2 className="text-lg font-bold mt-2 ml-2 content-center">
             {title}
           </h2>
-          <div className="flex flex-row items-center space-x-4 mt-4">
+          <div className="flex flex-col sm:flex-row items-center sm:space-x-4 mt-4 space-y-2 sm:space-y-0">
             <Switch
               isOn={isOn}
               handleToggle={handleToggle}
               id={`switch-${title}`}
             />
             <form onSubmit={onSubmit}>
-              <button type="submit" className="font-semibold">
+              <button
+                type="submit"
+                className="font-semibold  hover:text-blue-500"
+              >
                 Learn more...
               </button>
             </form>

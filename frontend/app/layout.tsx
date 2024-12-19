@@ -16,7 +16,6 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "嘉義旅遊規劃系統",
   description: "幫助使用者規劃嘉義一日遊",
-  viewport: "width=device-width, initial-scale=1.0",
 };
 
 export default function RootLayout({
@@ -25,9 +24,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="zh-tw">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-blue-100`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-blue-100 text-black`}
       >
         {children}
       </body>

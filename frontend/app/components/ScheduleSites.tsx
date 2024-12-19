@@ -115,7 +115,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
                 className="flex flex-col items-start bg-white p-4 border rounded-lg shadow-md hover:shadow-lg transition-shadow"
               >
                 <span className="text-lg font-semibold text-gray-700">
-                  景點 {index + 1}: {node.name}
+                  {node.name}
                 </span>
                 <span className="text-sm text-gray-500 mt-2">
                   到達時間: {transferArrivalTime(node.arrival)}
