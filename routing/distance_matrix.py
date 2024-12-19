@@ -39,12 +39,20 @@ class DistanceMatrix():  # Extend unittest.TestCase
         #print(matrix, type(matrix))
         return matrix
 
-    def matrixTo2dArray(self, sites: list):
+    def matrixTo2dArray(self, sites: list, time_windows):
         matrix = self.testAllParams(sites)
-        neglect = []
-        for i in range(len(matrix['destination_addresses'])):
-            if matrix['destination_addresses'][i] == '':
-                neglect.append(i)
+        if 'destination_addresses' not in matrix or not isinstance(matrix['destination_addresses'], list):
+            raise ValueError("Invalid matrix structure: 'destination_addresses' is missing or not a list.")
+
+        # Identify indices to neglect
+        neglect = [i for i, address in enumerate(matrix['destination_addresses']) if address == '']
+
+        # Validate time_windows length
+        if len(time_windows) != len(matrix['destination_addresses']):
+            raise ValueError("Mismatch between time_windows and destination_addresses length.")
+
+        # Filter time windows
+        time_windows2 = [time_windows[i] for i in range(len(time_windows)) if i not in neglect]
 
         arr = []
         for i in range(len(matrix['rows'])):
@@ -68,19 +76,19 @@ class DistanceMatrix():  # Extend unittest.TestCase
             arr.append(tmp)
 
 
-        return [sites[i] for i in range(len(matrix['destination_addresses'])) if matrix['destination_addresses'][i] != ''], arr
+        return [sites[i] for i in range(len(matrix['destination_addresses'])) if matrix['destination_addresses'][i] != ''], arr, time_windows2
 
 
-def travel_time(sites: list):
+def travel_time(sites: list, time_windows):
     # print(sites)
     distance_matrix = DistanceMatrix()
-    exist_sites, arr = distance_matrix.matrixTo2dArray(sites)
+    exist_sites, arr, time_windows = distance_matrix.matrixTo2dArray(sites, time_windows)
     # print('successfully get the 2d array!')
     # for ele in arr:
     #     for i in ele:
     #         print(i, end=' ')
     #     print()
-    return exist_sites, arr
+    return exist_sites, arr, time_windows
 
 if __name__ == "__main__":
     distance_matrix = DistanceMatrix()

@@ -68,10 +68,10 @@ def combine_with_retrieval(query, retrieved_docs):
 # Create a ChatOpenAI model
 def query_llm(combined_input):
     #model = ChatOpenAI(model="gpt-4o-mini")
-    model = ChatOpenAI(model="o1")
-    # model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+    #model = ChatOpenAI(model="o1-mini")
+    model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
     messages = [
-        #SystemMessage(content="你是一個嘉義在地導遊。"),
+        SystemMessage(content="你是一個嘉義在地導遊。"),
         HumanMessage(content=combined_input),
     ]
     result = model.invoke(messages)

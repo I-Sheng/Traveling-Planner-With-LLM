@@ -95,7 +95,6 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
         if time1 == 0 and time2 == 0:
             time_dimension.CumulVar(index).SetRange(open_time, close_time)
             continue
-        
         index = manager.NodeToIndex(location_idx)
         open_time = max(time1 + service_time(data, location_idx) - start_time, 0)
         close_time = min(time2 - start_time, horizon)

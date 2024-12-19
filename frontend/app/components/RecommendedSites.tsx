@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import Card from "@/app/components/Cards";
 import data from "@/data/sitesData.json";
 import ScheduleSitesComponent from "./ScheduleSites";
+import Image from "next/image";
 
 interface RecommendedSitesProps {
   day: number;
@@ -92,40 +93,53 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
         />
       ) : (
         <div>
-          <ul className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 gap-8 mt-20 mb-20 mx-28">
-            {recommendedSites.map((site: string, index) => (
-              <li key={index} className="flex py-1">
-                <Card
-                  title={site}
-                  description={data[site as keyof typeof data]["content"]}
-                  imageSrc={`/images/${site}.jpg`}
-                  alt={site}
-                  onToggle={toggleOption}
-                />
-              </li>
-            ))}
-          </ul>
-          {!isLoading && (
-            <div className="flex items-center justify-center gap-36 mt-5 mb-20">
-              <form onSubmit={onSubmit}>
-                <button
-                  type="submit"
-                  className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-                >
-                  上一頁
-                </button>
-              </form>
-
-              <form onSubmit={handleSubmit}>
-                <button
-                  type="submit"
-                  className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
-                >
-                  旅程規劃
-                </button>
-              </form>
-              <p>{selectedOptions.join(", ")}</p>
+          {isLoading ? (
+            <div className="flex flex-col items-center mt-[10%] justify-center gap-8">
+              <Image
+                src="/loading.gif"
+                alt="Waiting for AI generation..."
+                width={65}
+                height={65}
+                className="rounded-lg object-cover"
+                unoptimized
+              />
+              <p className="text-lg object-cover">Awaiting AI insight...</p>
             </div>
+          ) : (
+            <>
+              <ul className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 gap-8 mt-20 mb-20 mx-28">
+                {recommendedSites.map((site: string, index) => (
+                  <li key={index} className="flex py-1">
+                    <Card
+                      title={site}
+                      description={data[site as keyof typeof data]["content"]}
+                      imageSrc={`/images/${site}.jpg`}
+                      alt={site}
+                      onToggle={toggleOption}
+                    />
+                  </li>
+                ))}
+              </ul>
+              <div className="flex items-center justify-center gap-36 mt-5 mb-20">
+                <form onSubmit={onSubmit}>
+                  <button
+                    type="submit"
+                    className="bg-blue-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+                  >
+                    上一頁
+                  </button>
+                </form>
+                <form onSubmit={handleSubmit}>
+                  <button
+                    type="submit"
+                    className="bg-green-600 text-white py-2 px-5 font-semibold rounded-lg shadow-md transition-transform transform hover:scale-105 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
+                  >
+                    旅程規劃
+                  </button>
+                </form>
+                {/* <p>{selectedOptions.join(", ")}</p> */}
+              </div>
+            </>
           )}
         </div>
       )}
