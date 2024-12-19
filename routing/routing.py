@@ -29,5 +29,5 @@ def main(day:int, sites:str, start_time:int = 480, end_time:int = 1200, start_po
 
 
 if __name__ == "__main__":
-    main(1,  "嘉義樹木園, 嘉義製材所, 嘉義公園, 嘉義市環市自行車道, 嘉義市立博物館", 480, 1200 )
+    main(1,  "拾間文化, 嘉義市環市自行車道, 射日塔, 嘉義文化創意產業園區, 嘉義製材所, 貳陸陸杉space, 嘉義公園, 嘉人酒場", 480, 1200 )
 
