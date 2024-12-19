@@ -124,6 +124,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
                   旅程規劃
                 </button>
               </form>
+              <p>{selectedOptions.join(", ")}</p>
             </div>
           )}
         </div>

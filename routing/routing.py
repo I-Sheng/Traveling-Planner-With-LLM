@@ -4,10 +4,10 @@ from data_time import convert_time_windows, get_stay_time
 
 def create_data_model(day:int, sites: list, start_time: int, end_time:int):
     data = {}
+    sites, data["time_windows"] = convert_time_windows(sites)
     sites, data["time_matrix"] = travel_time(sites)
     data["numlocations_"] = len(data["time_matrix"])
     data["name"] = sites
-    data["time_windows"] = convert_time_windows(sites)
     data["service"] = get_stay_time(sites)
     data["num_vehicles"] = day
     data["service_unit"] = 1
@@ -29,5 +29,5 @@ def main(day:int, sites:str, start_time:int = 480, end_time:int = 1200, start_po
 
 
 if __name__ == "__main__":
-    main(1,  "拾間文化, 嘉義市環市自行車道, 射日塔, 嘉義文化創意產業園區, 嘉義製材所, 貳陸陸杉space, 嘉義公園, 嘉人酒場", 480, 1200 )
+    main(1,  "上紅丸梅製禮品專賣, 嘉義市立美術館, 嘉大植物園, 唐妝漢方生物科技股份有限公司, 東發養蜂場, 慈龍寺, 嘉義火車站, 月桃故事館", 480, 1200 )
 

@@ -90,9 +90,15 @@ def add_time_window_constraints(routing, manager, data, time_evaluator_index):
     for location_idx, time_window in enumerate(data["time_windows"]):
         if location_idx == data["depot"]:
             continue
+        time1 = int(time_window[0])
+        time2 = int(time_window[1])
+        if time1 == 0 and time2 == 0:
+            time_dimension.CumulVar(index).SetRange(open_time, close_time)
+            continue
+        
         index = manager.NodeToIndex(location_idx)
-        open_time = max(time_window[0] + service_time(data, location_idx) - start_time, 0)
-        close_time = min(time_window[1] - start_time, 0, horizon)
+        open_time = max(time1 + service_time(data, location_idx) - start_time, 0)
+        close_time = min(time2 - start_time, horizon)
         if open_time >= close_time:
             # print(f'location: {location_idx}')
             # print(f'open_time: {open_time}')
@@ -219,8 +225,8 @@ def routing(data:dict):
     if assignment:
         return print_solution(data, manager, routing, assignment)
     else:
-        return None
         print("No solution found!")
+        return None
     # [END print_solution]
 
 

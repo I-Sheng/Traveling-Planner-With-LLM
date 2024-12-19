@@ -25,16 +25,21 @@ def get_stay_time(sites: list):
 def convert_time_windows(sites):
     data = getJson('./data/sitesData.json')
     time_windows:list = []
+    sites2 = sites.copy()
     for site in sites:
         weekend = data[site]["opening_hours"][-2:]
         sat = time_to_minutes(weekend[0])
         sun = time_to_minutes(weekend[1])
         if sum(sat) < sum(sun):
-            time_windows.append(sat)
+            tmp = sat
         else:
-            time_windows.append(sun)
-
-    return time_windows
+            tmp = sun
+        if sum(tmp) == 0:
+            sites2 = [si for si in sites2 if si != site]
+        else:
+            time_windows.append(tmp)
+            
+    return sites2, time_windows
 
 
 def time_to_minutes(time_str):
