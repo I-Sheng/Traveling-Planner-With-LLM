@@ -146,6 +146,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
                       node.end_node || index == 0
                         ? null
                         : items[index + 1]?.arrival - node.travel - node.arrival
+                      //node.service
                     }
                   />
                 </li>

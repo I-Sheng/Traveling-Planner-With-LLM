@@ -46,7 +46,7 @@ const TravelCard: React.FC<TravelCardProps> = ({
         className="rounded-lg object-cover"
       />
       <p className="font-medium text-lg mb-[1.5px] mt-0.5">
-        到達時間: {arrive_time}
+        預計到達時間: {arrive_time}
       </p>
       {stay_time !== null && (
         <p className="font-medium text-lg ">
