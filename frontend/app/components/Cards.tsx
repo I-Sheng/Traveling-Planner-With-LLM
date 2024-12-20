@@ -17,7 +17,7 @@ const Card: React.FC<CardProps> = ({ title, openingTime, onToggle }) => {
 
   const splitText = (text: string) => {
     const s: string[] = text.split(" ");
-    return s[s.length - 1];
+    return s.slice(1).join(" ");
   };
   return (
     <>

@@ -53,6 +53,15 @@ const TravelCard: React.FC<TravelCardProps> = ({
           預估停留時間: {transferTime(stay_time)}
         </p>
       )}
+      <button
+        type="button"
+        className="font-semibold  hover:text-blue-500"
+        onClick={() =>
+          window.open(`/sites/${encodeURIComponent(title)}`, "_blank")
+        }
+      >
+        Learn more...
+      </button>
     </div>
   );
 };

@@ -1,5 +1,5 @@
 import data from "@/data/sitesData.json";
-import SiteCard from "@/app/components/SiteCard";
+import SiteCard from "../components/SiteCard";
 
 interface SiteNameProps {
   name: string;

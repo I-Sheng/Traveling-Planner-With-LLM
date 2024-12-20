@@ -20,7 +20,8 @@ const SiteCard: React.FC<CardProps> = ({ title, imageSrc, alt }) => {
           width={450}
           height={300}
           loading="lazy"
-          className="rounded-lg object-cover  sm:max-h-[300px] sm:max-w-[400px]"
+          sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 600px"
+          className="rounded-lg object-cover  sm:max-h-[100%] sm:max-w-[100%]"
         />
         <div className="flex flex-col sm:flex-row items-center sm:space-x-4 mt-4 space-y-2 sm:space-y-0">
           {/* <Link href={`/sites/${title.replace(/\s/g, "_")}`} passHref> */}
