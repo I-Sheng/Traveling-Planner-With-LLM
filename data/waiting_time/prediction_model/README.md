@@ -18,13 +18,16 @@ q_{\text{error}} = \frac{|p - q|}{q}
 
 ## 模型性能比較
 
-模型訓練目標為預測餐廳的等候時間，以 MAE 評估模型性能。下表中展示了每個模型的 `model1`（下限）與 `model2`（上限）的測試 MAE loss 和 Q loss 以及對應的 epoch。
+模型訓練目標為預測餐廳的等候時間，以 MAE 評估模型性能。下表中展示了每個模型下限與上限的測試 MAE loss 和 Q loss 以及對應的 epoch。
+* 預測上限模型
 
-|     | Model | Best Q Loss |
-| -------- | ------------- | ----------- |
-| **RNN** | 13.4247       | 0.3534      |
-| **GRU**   | 14.9047       | 0.3865      |
-| **LSTM**   | 14.6243       | 0.3841      |
+
+| **Model** | **Best Loss** | **Best Q Loss** |
+|-----------|---------------|-----------------|
+| RNN       | 13.4247       | 0.3534          |
+| GRU       | 14.9047       | 0.3865          |
+| LSTM      | 14.6243       | 0.3841          |
+
 * 我們最終選擇了 RNN 作為預測停留時間上限的模型，因為在 model1 和 model2 中，RNN 的 Q loss 都最小。
 ## 模型 Code
 
@@ -33,19 +36,24 @@ q_{\text{error}} = \frac{|p - q|}{q}
 - [RNN 模型代碼](https://colab.research.google.com/drive/1ntiwLf7wpDGFm7hlah1YTZtEV0hzrvTA?usp=sharing)
 
 ## 新模型設計（newModel2）
-
-為了提升 `model2` 的準確性，我們將 `model1`（下限）的預測結果與 `populartimes` 數據結合，作為 newModel2（上限）的輸入。
+* 預測下限模型
+為了提升預測下限模型的準確性，我們將預測上限模型的預測結果與 `populartimes` 數據結合，作為預測下限模型_2的輸入。
 
 ### newModel2 模型與 model2 比較
 
-|     | Model   | Best Loss | Best Q Loss |
-| -------- | --------- | --------- | ----------- |
-| **RNN**  | model2    | 27.2800   | 0.4866      |
-|          | newModel2 | 27.0163   | 0.4682      |
-| **GRU**  | model2    | 30.2178   | 0.4879      |
-|          | newModel2 | 31.6792   | 0.4752      |
-| **LSTM** | model2    | 36.4877   | 0.5095      |
-|          | newModel2 | 31.1202   | 0.4752      |
+| **Model** | **Best Loss** | **Best Q Loss** |
+|-----------|---------------|-----------------|
+| RNN_1     | 27.2800       | 0.4866          |
+| RNN_2     | 27.0163       | 0.4682          |
+| GRU_1     | 30.2178       | 0.4879          |
+| GRU_2     | 31.6792       | 0.4752          |
+| LSTM_1    | 36.4877       | 0.5095          |
+| LSTM_2    | 31.1202       | 0.4752          |
+
+
+
+
+
 * 我們最終選擇了 RNN 的新模型 newModel2 來預測停留時間上限，因為它的 Q loss 最小。
 ## newModel2 Code
 
