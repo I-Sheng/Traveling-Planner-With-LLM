@@ -113,7 +113,7 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
                     <Card
                       title={site}
                       description={data[site as keyof typeof data]["content"]}
-                      imageSrc={`/images/${encodeURIComponent(site)}.jpg`}
+                      imageSrc={`/images/${site}.jpg`}
                       alt={site}
                       onToggle={toggleOption}
                     />

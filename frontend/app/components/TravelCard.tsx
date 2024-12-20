@@ -41,9 +41,6 @@ const TravelCard: React.FC<TravelCardProps> = ({
       <Image
         src={imageSrc}
         alt={alt}
-        onError={(e) => {
-          (e.currentTarget as HTMLImageElement).src = "/placeholder.jpeg"; // Set placeholder on error
-        }}
         width={300}
         height={175}
         className="rounded-lg object-cover"

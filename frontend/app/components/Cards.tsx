@@ -32,13 +32,13 @@ const Card: React.FC<CardProps> = ({
         <div className="flex flex-col items-start p-4 bg-white rounded-lg shadow-md text-black h-full">
           <Image
             src={imageSrc}
-            onError={(e) => {
-              (e.currentTarget as HTMLImageElement).src = "/placeholder.jpg"; // Set placeholder on error
-            }}
             alt={alt}
             width={600}
             height={350}
             className="rounded-lg object-cover w-full h-auto max-h-[300px] sm:max-h-[400px]"
+            onError={(e) => {
+              e.currentTarget.src = "/images/placeholder.jpg"; // Replace with your placeholder image
+            }}
           />
           <h2 className="text-lg font-bold mt-2 ml-2">{title}</h2>
           <p className="ml-2 mt-1">{description}</p>
