@@ -1,1 +1,7 @@
-{}
+{
+  "/_error": "pages/_error.js",
+  "/api/recommend": "pages/api/recommend.js",
+  "/_app": "pages/_app.js",
+  "/api/routing": "pages/api/routing.js",
+  "/_document": "pages/_document.js"
+}

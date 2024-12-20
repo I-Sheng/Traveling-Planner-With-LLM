@@ -1,5 +1,4 @@
 import data from "@/data/sitesData.json";
-import { parseAppSegmentConfig } from "next/dist/build/segment-config/app/app-segment-config";
 import Image from "next/image";
 
 interface SiteProps {
@@ -15,13 +14,11 @@ interface SiteProps {
 
 const siteDataMap = data as Record<string, SiteProps>;
 
-interface SiteParams {
-  params: { name: string };
-}
+type Params = Promise<{ name: string }>;
 
-const Site = ({ params }: SiteParams) => {
-  const { name } = params;
-  console.log(name);
+const Site = async (props: { params: Params }) => {
+  const params = await props.params;
+  const name = params.name;
 
   const siteData = Object.values(siteDataMap).find(
     (data) => encodeURIComponent(data.name) === name

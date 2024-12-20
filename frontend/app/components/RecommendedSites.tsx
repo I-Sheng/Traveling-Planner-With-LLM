@@ -112,9 +112,9 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
                   <li key={index} className="flex py-1">
                     <Card
                       title={site}
-                      description={data[site as keyof typeof data]["content"]}
-                      imageSrc={`/images/${site.replace(/\s/g, "_")}.jpg`}
-                      alt={site}
+                      openingTime={
+                        data[site as keyof typeof data]["opening_hours"][6]
+                      }
                       onToggle={toggleOption}
                     />
                   </li>
