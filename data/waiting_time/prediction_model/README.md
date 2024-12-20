@@ -10,7 +10,7 @@
 
 ## 損失函數（Loss Function）
 1. **MAE**: 使用 PyTorch 的 L1 loss 作為基準。
-1. Q Error: 
+1. Q Error:
 ```math
 q_{\text{error}} = \frac{|p - q|}{q}
 ```
@@ -20,14 +20,11 @@ q_{\text{error}} = \frac{|p - q|}{q}
 
 模型訓練目標為預測餐廳的等候時間，以 MAE 評估模型性能。下表中展示了每個模型的 `model1`（下限）與 `model2`（上限）的測試 MAE loss 和 Q loss 以及對應的 epoch。
 
-|     | Model | Best MAE Loss | Best Q Loss |
-| -------- | ------- | ------------- | ----------- |
-| **RNN**  | model1  | 13.4247       | 0.3534      |
-|          | model2  | 27.2800       | 0.4866      |
-| **GRU**  | model1  | 14.9047       | 0.3865      |
-|          | model2  | 30.2178       | 0.4879      |
-| **LSTM** | model1  | 14.6243       | 0.3841      |
-|          | model2  | 36.4877       | 0.5095      |
+|     | Model | Best Q Loss |
+| -------- | ------------- | ----------- |
+| **RNN** | 13.4247       | 0.3534      |
+| **GRU**   | 14.9047       | 0.3865      |
+| **LSTM**   | 14.6243       | 0.3841      |
 * 我們最終選擇了 RNN 作為預測停留時間上限的模型，因為在 model1 和 model2 中，RNN 的 Q loss 都最小。
 ## 模型 Code
 
