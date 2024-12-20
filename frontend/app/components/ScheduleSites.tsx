@@ -139,7 +139,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
                 <li className="flex py-1">
                   <TravelCard
                     title={node.name}
-                    imageSrc={`/images/${node.name}.jpg`}
+                    imageSrc={`/images/${encodeURIComponent(node.name)}.jpg`}
                     alt={node.name}
                     arrive_time={transferArrivalTime(node.arrival)}
                     stay_time={
