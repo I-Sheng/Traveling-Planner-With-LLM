@@ -20,14 +20,14 @@ const Header: React.FC = () => {
       </div>
 
       {/* Navigation Links */}
-      <nav className="flex gap-6">
+      <nav className="flex gap-3">
         <Link href="/traveling" passHref>
-          <div className="text-blue-600 hover:text-blue-800 font-medium transition-colors">
+          <div className="text-blue-600 hover:text-blue-800 font-medium text-sm transition-colors">
             Planner
           </div>
         </Link>
         <Link href="/sites" passHref>
-          <div className="text-blue-600 hover:text-blue-800 font-medium transition-colors">
+          <div className="text-blue-600 hover:text-blue-800 font-medium text-sm transition-colors">
             Sites
           </div>
         </Link>
