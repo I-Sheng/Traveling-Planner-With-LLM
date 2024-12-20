@@ -108,6 +108,9 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
           ) : (
             <>
               <ul className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 gap-8 mt-20 mb-20 mx-28">
+                <h2 className="text-2xl font-bold text-center mt-4">
+                  景點推薦
+                </h2>
                 {recommendedSites.map((site: string, index) => (
                   <li key={index} className="flex py-1">
                     <Card

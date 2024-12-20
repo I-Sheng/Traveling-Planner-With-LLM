@@ -1,19 +1,39 @@
-// components/Header.tsx
-import Link from "next/link";
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 
 const Header: React.FC = () => {
   return (
-    <header className="p-4 bg-blue-500 text-white flex justify-between items-center">
-      <h1 className="text-2xl font-bold">My Website</h1>
-      <nav className="space-x-4">
-          <Link href="/" className="hover:underline">isheng</Link>
-          <Link href="/projects" className="hover:underline">Projects</Link>
-          <Link href="/about" className="hover:underline">About</Link>
+    <header className="flex items-center justify-between bg-white shadow-md py-4 px-8">
+      {/* Logo */}
+      <div className="flex items-center gap-3">
+        <Image src="/favicon.ico" alt="ITravel Logo" width={24} height={24} />
+      </div>
+
+      {/* Brand Name */}
+      <div className="absolute left-1/2 transform -translate-x-1/2 h-10">
+        <Link href="/" passHref>
+          <div className="text-3xl font-bold text-blue-600 hover:text-blue-800 transition-colors">
+            ITravel
+          </div>
+        </Link>
+      </div>
+
+      {/* Navigation Links */}
+      <nav className="flex gap-6">
+        <Link href="/traveling" passHref>
+          <div className="text-blue-600 hover:text-blue-800 font-medium transition-colors">
+            Planner
+          </div>
+        </Link>
+        <Link href="/sites" passHref>
+          <div className="text-blue-600 hover:text-blue-800 font-medium transition-colors">
+            Sites
+          </div>
+        </Link>
       </nav>
     </header>
   );
 };
 
 export default Header;
-
