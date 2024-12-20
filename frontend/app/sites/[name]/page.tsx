@@ -41,7 +41,7 @@ const Site = async (props: { params: Params }) => {
     Math.ceil((siteData.time_spent[0] + siteData.time_spent[1]) / 2 / 5) * 5;
 
   return (
-    <div className="max-w-4xl mx-auto p-6 bg-gray-50 rounded-lg shadow-md flex flex-col md:flex-row gap-6 w-[100%]">
+    <div className="max-w-4xl mx-auto p-6 bg-gray-50 rounded-lg shadow-md flex flex-col flex-grow md:flex-row gap-6 w-[100%] mt-4">
       {/* Left Column */}
       <div className="flex-1 w-[100%]">
         <h1 className="text-3xl font-bold mb-4 text-gray-800">
