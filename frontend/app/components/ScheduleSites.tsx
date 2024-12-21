@@ -118,7 +118,11 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
                   {node.name}
                 </span>
                 <span className="text-sm text-gray-500 mt-2">
-                  到達時間: {transferArrivalTime(node.arrival)}
+                  {index === 0
+                    ? `出發時間: ${transferArrivalTime(node.arrival)}`
+                    : index === scheduleSites.length - 1
+                    ? `結束時間: ${transferArrivalTime(node.arrival)}`
+                    : `到達時間: ${transferArrivalTime(node.arrival)}`}
                 </span>
               </li>
             ))}
@@ -139,6 +143,7 @@ const ScheduleSitesComponent: React.FC<ScheduleSitesProps> = ({
                 <li className="flex py-1">
                   <TravelCard
                     title={node.name}
+                    index={index}
                     imageSrc={`/images/${node.name.replace(/\s/g, "_")}.jpg`}
                     alt={node.name}
                     arrive_time={transferArrivalTime(node.arrival)}

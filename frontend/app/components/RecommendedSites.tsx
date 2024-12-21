@@ -116,6 +116,14 @@ const RecommendedSitesComponent: React.FC<RecommendedSitesProps> = ({
                       openingTime={
                         data[site as keyof typeof data]["opening_hours"][6]
                       }
+                      stay_time={
+                        Math.ceil(
+                          (data[site as keyof typeof data]["time_spent"][0] +
+                            data[site as keyof typeof data]["time_spent"][1]) /
+                            2 /
+                            5
+                        ) * 5
+                      }
                       onToggle={toggleOption}
                     />
                   </li>

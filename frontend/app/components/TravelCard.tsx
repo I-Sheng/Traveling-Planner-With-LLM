@@ -3,6 +3,7 @@ import Image from "next/image";
 
 interface TravelCardProps {
   title: string;
+  index: number;
   imageSrc: string;
   alt: string;
   arrive_time: string;
@@ -11,6 +12,7 @@ interface TravelCardProps {
 
 const TravelCard: React.FC<TravelCardProps> = ({
   title,
+  index,
   imageSrc,
   alt,
   arrive_time,
@@ -46,7 +48,11 @@ const TravelCard: React.FC<TravelCardProps> = ({
         className="rounded-lg object-cover"
       />
       <p className="font-medium text-lg mb-[1.5px] mt-0.5">
-        預計到達時間: {arrive_time}
+        {index === 0
+          ? `出發時間: ${arrive_time}`
+          : stay_time === null
+          ? `結束時間: ${arrive_time}`
+          : `到達時間: ${arrive_time}`}
       </p>
       {stay_time !== null && (
         <p className="font-medium text-lg ">
